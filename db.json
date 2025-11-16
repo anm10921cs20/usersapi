@@ -70,5 +70,46 @@
       "specs": { "ram": "8GB", "storage": "128GB", "color": "Silver" },
       "ownerId": null
     }
+  ],"monitor": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "price": 999,
+      "specs": { "ram": "8GB", "storage": "256GB", "color": "Graphite" },
+      "ownerId": 1
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S24",
+      "price": 899,
+      "specs": { "ram": "8GB", "storage": "128GB", "color": "Phantom Black" },
+      "ownerId": 2
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "model": "Pixel 8",
+      "price": 699,
+      "specs": { "ram": "8GB", "storage": "128GB", "color": "Obsidian" },
+      "ownerId": 3
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "model": "11",
+      "price": 649,
+      "specs": { "ram": "12GB", "storage": "256GB", "color": "Emerald Forest" },
+      "ownerId": 4
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "model": "12T",
+      "price": 499,
+      "specs": { "ram": "8GB", "storage": "128GB", "color": "Silver" },
+      "ownerId": null
+    }
   ]
 }
