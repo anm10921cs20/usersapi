@@ -1,32 +1,64 @@
 {
-  "users": [
+  "popularinstamart": [
     {
       "id": 1,
-      "name": "Alice Johnson",
-      "email": "alice@example.com",
-      "role": "admin",
-      "createdAt": "2024-01-10T09:15:00Z"
+      "name": "Vegetables",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/0a692e71e07f16554e26c277231dee12"
     },
     {
       "id": 2,
-      "name": "Bob Smith",
-      "email": "bob@example.com",
-      "role": "user",
-      "createdAt": "2024-02-20T14:30:00Z"
+      "name": "Cool Drinks",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/638fbacdf7ffdc30f1a1208f6db324eb"
     },
     {
       "id": 3,
-      "name": "Carlos Reyes",
-      "email": "carlos@example.com",
-      "role": "user",
-      "createdAt": "2024-03-05T08:00:00Z"
+      "name": "Chips",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/4fc69adde353e76259b29f828659e0bf"
     },
     {
       "id": 4,
-      "name": "Dana Lee",
-      "email": "dana@example.com",
-      "role": "user",
-      "createdAt": "2024-04-12T17:45:00Z"
+      "name": "Ice Cream",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/4d4ccafd74bc4f486f27d37c505e6fbd"
+    },
+    {
+      "id": 5,
+      "name": "Milk",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/34a885c5bf0a74ba6b8ed98e44d40596"
+    },
+    {
+      "id": 6,
+      "name": "Rice",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/9a197d689437817ba8d5c55901d63315"
+    },
+    {
+      "id": 7,
+      "name": "Atta",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/bab8527b306eb51fc1b11028885aa615"
+    },
+    {
+      "id": 8,
+      "name": "Coffe",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/1b21c87fb3dabe5bf22f46c3d273388b"
+    },
+    {
+      "id": 9,
+      "name": "Chicken",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/9f5d32ed2a109eb1bceb42088249c50b"
+    },
+    {
+      "id": 10,
+      "name": "Sugar",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/ab1ccfe525d0a0a2b836e17dae8de400"
+    },
+    {
+      "id": 11,
+      "name": "Chocolate",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/6e49786144f56404e3905019f1c17ba5"
+    },
+    {
+      "id": 12,
+      "name": "Sweets",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rng/md/carousel/production/aa23950a35fe7fa735a2d8b24431c214"
     }
   ],
   "smartphones": [
@@ -35,7 +67,11 @@
       "brand": "Apple",
       "model": "iPhone 15 Pro",
       "price": 999,
-      "specs": { "ram": "8GB", "storage": "256GB", "color": "Graphite" },
+      "specs": {
+        "ram": "8GB",
+        "storage": "256GB",
+        "color": "Graphite"
+      },
       "ownerId": 1
     },
     {
@@ -43,7 +79,11 @@
       "brand": "Samsung",
       "model": "Galaxy S24",
       "price": 899,
-      "specs": { "ram": "8GB", "storage": "128GB", "color": "Phantom Black" },
+      "specs": {
+        "ram": "8GB",
+        "storage": "128GB",
+        "color": "Phantom Black"
+      },
       "ownerId": 2
     },
     {
@@ -51,7 +91,11 @@
       "brand": "Google",
       "model": "Pixel 8",
       "price": 699,
-      "specs": { "ram": "8GB", "storage": "128GB", "color": "Obsidian" },
+      "specs": {
+        "ram": "8GB",
+        "storage": "128GB",
+        "color": "Obsidian"
+      },
       "ownerId": 3
     },
     {
@@ -59,7 +103,11 @@
       "brand": "OnePlus",
       "model": "11",
       "price": 649,
-      "specs": { "ram": "12GB", "storage": "256GB", "color": "Emerald Forest" },
+      "specs": {
+        "ram": "12GB",
+        "storage": "256GB",
+        "color": "Emerald Forest"
+      },
       "ownerId": 4
     },
     {
@@ -67,16 +115,25 @@
       "brand": "Xiaomi",
       "model": "12T",
       "price": 499,
-      "specs": { "ram": "8GB", "storage": "128GB", "color": "Silver" },
+      "specs": {
+        "ram": "8GB",
+        "storage": "128GB",
+        "color": "Silver"
+      },
       "ownerId": null
     }
-  ],"monitor": [
+  ],
+  "monitor": [
     {
       "id": 1,
       "brand": "Apple",
       "model": "iPhone 15 Pro",
       "price": 999,
-      "specs": { "ram": "8GB", "storage": "256GB", "color": "Graphite" },
+      "specs": {
+        "ram": "8GB",
+        "storage": "256GB",
+        "color": "Graphite"
+      },
       "ownerId": 1
     },
     {
@@ -84,7 +141,11 @@
       "brand": "Samsung",
       "model": "Galaxy S24",
       "price": 899,
-      "specs": { "ram": "8GB", "storage": "128GB", "color": "Phantom Black" },
+      "specs": {
+        "ram": "8GB",
+        "storage": "128GB",
+        "color": "Phantom Black"
+      },
       "ownerId": 2
     },
     {
@@ -92,7 +153,11 @@
       "brand": "Google",
       "model": "Pixel 8",
       "price": 699,
-      "specs": { "ram": "8GB", "storage": "128GB", "color": "Obsidian" },
+      "specs": {
+        "ram": "8GB",
+        "storage": "128GB",
+        "color": "Obsidian"
+      },
       "ownerId": 3
     },
     {
@@ -100,7 +165,11 @@
       "brand": "OnePlus",
       "model": "11",
       "price": 649,
-      "specs": { "ram": "12GB", "storage": "256GB", "color": "Emerald Forest" },
+      "specs": {
+        "ram": "12GB",
+        "storage": "256GB",
+        "color": "Emerald Forest"
+      },
       "ownerId": 4
     },
     {
@@ -108,7 +177,11 @@
       "brand": "Xiaomi",
       "model": "12T",
       "price": 499,
-      "specs": { "ram": "8GB", "storage": "128GB", "color": "Silver" },
+      "specs": {
+        "ram": "8GB",
+        "storage": "128GB",
+        "color": "Silver"
+      },
       "ownerId": null
     }
   ]
