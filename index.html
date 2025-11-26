@@ -1,27 +1,39 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <title>Firebase Phone Auth</title>
+
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
 </head>
+
 <body>
-    
-</body>
-<script async>
-    const apiUrl = "https://users1-16jy.onrender.com/users";
-    const fetchUsers = async () => {
-        try
-        {
-            const responce = await fetch(apiUrl)
-            const data = await responce.json();
-            console.log(data[1]);
-        }
-        catch(err)
-        {
-            console.log(err.message);
-        }
+ 
+<div class="pe_signin_button" data-client-id="16481621824846480199"><script src="https://www.phone.email/sign_in_button_v1.js" async></script></div>
+<div class="pe_verify_email" data-client-id="16481621824846480199"><script src="https://www.phone.email/verify_email_v1.js" async></script></div>
+<script>
+    function phoneEmailReceiver(userObj){
+        var user_json_url = userObj.user_json_url;
+        console.log(user_json_url)
+        // You can submit your form here or redirect user to post login dashboard page
+        // Send user_json_url to your backend to retrieve user info (i.e. email id) from this URL.
+        alert('Email Verification Successfull !!\nPlease fetch authenticated email id from following JSON file URL.\n '+user_json_url+'');
     }
-    fetchUsers();
+</script> 
+
+<script>
+function phoneEmailListener(userObj){
+    var user_json_url = userObj.user_json_url;
+    console.log(user_json_url)
+
+  
+    // Send user_json_url to your backend to retrieve user info (i.e. country code and phone number) from this URL.
+
+   
+}
 </script>
+
+
+</body>
 </html>
