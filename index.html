@@ -1,39 +1,62 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Firebase Phone Auth</title>
+<html lang="en">
 
-  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation Alert Bar</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
- 
-<div class="pe_signin_button" data-client-id="16481621824846480199"><script src="https://www.phone.email/sign_in_button_v1.js" async></script></div>
-<div class="pe_verify_email" data-client-id="16481621824846480199"><script src="https://www.phone.email/verify_email_v1.js" async></script></div>
-<script>
-    function phoneEmailReceiver(userObj){
-        var user_json_url = userObj.user_json_url;
-        console.log(user_json_url)
-        // You can submit your form here or redirect user to post login dashboard page
-        // Send user_json_url to your backend to retrieve user info (i.e. email id) from this URL.
-        alert('Email Verification Successfull !!\nPlease fetch authenticated email id from following JSON file URL.\n '+user_json_url+'');
-    }
-</script> 
-
-<script>
-function phoneEmailListener(userObj){
-    var user_json_url = userObj.user_json_url;
-    console.log(user_json_url)
-
-  
-    // Send user_json_url to your backend to retrieve user info (i.e. country code and phone number) from this URL.
-
+    <div class="animate alert">
+        <div class="animate line"></div>
+        <div class="text animate">
+            <p class="animateText">Hii iam mahavishnu</p>
+            <i class="animate-close-btn">
+                <span></span>
+                <span></span>
+            </i>
+        </div>
+    </div>
+    <div class="button-container">
+        <button class="btn animation">
+            <div class="position">Click Me</div>
+            <div class="spread"></div>
+        </button>
+         <div class="animate-flower">
+        <div class="flowers"><i class="fa-solid fa-fan"></i></div>
+        <div class="flowers"><i class="fa-solid fa-fan"></i></div>
+        <div class="flowers"><i class="fa-solid fa-fan"></i></div>
+        <div class="flowers"><i class="fa-solid fa-fan"></i></div>
+        <div class="flowers"><i class="fa-solid fa-fan"></i></div>
+        <div class="flowers"><i class="fa-solid fa-fan"></i></div>
+        <div class="flowers"><i class="fa-solid fa-fan"></i></div>
+        <div class="flowers"><i class="fa-solid fa-fan"></i></div>
+        <div class="flowers"><i class="fa-solid fa-fan"></i></div>
+        <div class="flowers"><i class="fa-solid fa-fan"></i></div>
+    </div>
+    </div>
    
-}
-</script>
-
-
 </body>
+<script>
+    const clickMeBtn = document.getElementsByClassName('btn')[0];
+    clickMeBtn.addEventListener('click', () => {
+        const flowerAnimate = document.getElementsByClassName('animate-flower')[0]
+        const animationAlertContainer = document.getElementsByClassName('alert')[0];
+        const animateText = document.getElementsByClassName('animateText')[0];
+        
+        animationAlertContainer.style.display="block";
+        animateText.innerText = "Thank You For Clicked";
+        flowerAnimate.style.display="block";
+
+        setTimeout(()=>{
+            animationAlertContainer.style.display = "none";
+            flowerAnimate.style.display = "none";
+        },4000)
+    })
+</script>
 </html>

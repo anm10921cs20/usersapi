@@ -1,0 +1,382 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root
+{
+--main-color:#1ebb5f;
+--border-color:rgba(0, 0, 0, 0.1);
+--close-color:#e6bcbc;
+}
+.alert
+{
+    border: 1px solid var(--border-color);
+    height: 50px;
+    width: 200px;
+    position: fixed;
+    top: 2%;
+    right: 2%;
+    box-shadow: 1px 2px 2px var(--border-color),-1px -2px 2px var(--border-color);
+    background-color: #fff;
+    animation: hiddendiv 4s 3s 1 backwards ease-in-out running;
+    visibility: hidden;
+    transition: all 0.5s;
+    display: none;
+}
+@keyframes hiddendiv {
+    from
+    {
+        margin-right: 0;
+        visibility: visible;
+    }
+    90%
+    {
+        margin-right: -2000px;
+       
+    }
+    100%
+    {
+        
+    }
+}
+
+.text
+{
+    display: flex;
+    height: 40px;
+    align-items: center;
+    padding:0 20px;
+    justify-content: space-between;
+}
+.animateText
+{
+    color:var(--main-color);
+}
+.animate-close-btn
+{
+    display: flex;
+    
+}
+.animate-close-btn span
+{
+    width: 13px;
+    height: 2px; 
+    position: absolute;
+    right: 4%;
+    background-color: var(--close-color);
+}
+.animate-close-btn span:nth-child(1)
+{
+    transform: rotate(50deg);
+    
+}
+.animate-close-btn span:nth-child(2)
+{
+    transform: rotate(129deg);
+}
+.line
+{
+    height: 5px;
+    background-color: var(--main-color);
+    border-radius: 2px;
+    width: 100%;
+    animation: timing 3s ease-in-out forwards 0s ;
+    animation-iteration-count:1;
+    animation-direction:alternate;
+    animation-play-state: running;
+}
+
+@keyframes timing {
+    from
+    {
+        width: 100%;
+    }
+    to
+    {
+        width: 0%;
+    }
+    
+}
+.alert:hover .line
+{
+    animation-play-state: paused;
+    cursor: pointer;
+}
+
+/* button */
+.button-container
+{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btn
+{
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    color: #fff;
+    border-radius: 4px;
+    width: 100px;
+    height: 40px;
+    background-color: #555;
+    position: relative;
+    z-index: 1000;
+    
+   
+}
+.position
+{
+    position: absolute;
+    top: 10px;
+    color: #fff;
+    left: 23px;
+}
+.spread
+{
+    width: 100%;
+    height: 100%;
+     background-image:linear-gradient(90deg, #1ebb5f,#caa02c) ;
+     transition: all 0.4s;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+}
+.spread:hover
+{
+      animation: both infinite 2s 0s Widthadjust alternate;
+}
+
+@keyframes Widthadjust {
+    from
+    {
+        width: 0%;
+    }
+    to
+    {
+        width: 100%;
+        
+    }
+}
+.animate-flower
+{
+  
+    position: fixed;
+    transition: all 0.5s;
+   display: none;
+  
+    
+    
+    
+}
+
+.flowers:nth-child(1)
+{
+    color: #1ebb5f;
+     animation: roatate 2s 0s infinite reverse linear both;
+     animation: leftside 3s 0s infinite reverse ease-in-out;
+     
+}
+.flowers:nth-child(2)
+{
+    color: #ff3fff;
+      transform: translateY(10px);
+      transform: translateX(10px);
+      animation: roatate 2s 0s infinite reverse linear both;
+       animation: rightside 3s 0s infinite reverse ease-in-out;
+}
+.flowers:nth-child(3)
+{
+    color: #d8ba11;
+      transform: translateY(10px);
+      transform: translateX(-20px);
+      animation: roatate 2s 0s infinite reverse linear both;
+       animation: leftside1 3s 0s infinite reverse ease-in-out;
+}
+.flowers:nth-child(4)
+{
+    color: #cc720c;
+    transform: translateX(-80px);
+     transform: translateY(-14px);
+     transform: rotate(90deg);
+     animation: roatate 2s 0s infinite reverse linear both;
+     animation: rightside1 3s 0s infinite reverse ease-in-out;
+}
+.flowers:nth-child(5)
+{
+    color: #53177a;
+     transform: translateY(10px);
+      transform: translateX(-20px);
+      animation: roatate 2s 0s infinite reverse linear both;
+       animation: leftside2 3s 0s infinite reverse ease-in-out;
+}
+.flowers:nth-child(6)
+{
+    color: #bb301e;
+    transform: translateX(-80px);
+     transform: translateY(-14px);
+     transform: rotate(90deg);
+     animation: roatate 2s 0s infinite reverse linear both;
+     animation: rightside2 3s 0s infinite reverse ease-in-out;
+}
+.flowers:nth-child(7)
+{
+    color: #bb1e7f;
+     transform: translateY(10px);
+      transform: translateX(-20px);
+      animation: roatate 2s 0s infinite reverse linear both;
+       animation: leftside3 3s 0s infinite reverse ease-in-out;
+}
+.flowers:nth-child(8)
+{
+    color: #ecce23;
+    transform: translateX(-80px);
+     transform: translateY(-14px);
+     transform: rotate(90deg);
+     animation: roatate 2s 0s infinite reverse linear both;
+     animation: rightside3 3s 0s infinite reverse ease-in-out;
+}
+.flowers:nth-child(9)
+{
+    color: #8e1ebb;
+     transform: translateY(10px);
+      transform: translateX(-60px);
+      animation: roatate 2s 0s infinite reverse linear both;
+       animation: leftside4 3s 0s infinite reverse ease-in-out;
+}
+.flowers:nth-child(10)
+{
+    color: #13dbe9;
+   
+     transform: rotate(90deg);
+     animation: roatate 2s 0s infinite reverse linear both;
+     animation: rightside4 3s 0s infinite reverse ease-in-out;
+}
+@keyframes roatate {
+    from
+    {
+        transform: rotate(0deg);
+        
+    }
+    to
+    {
+        transform: rotate(360deg);
+        
+    }
+}
+
+@keyframes leftside {
+    from
+    {
+        transform: translateX(-70px);
+    }
+    to
+    {
+        transform: translateY(50px);
+    }
+}
+@keyframes leftside1 {
+    from
+    {
+        transform: translateX(-60px);
+    }
+    to
+    {
+        transform: translateY(40px);
+    }
+}
+
+@keyframes leftside2 {
+    from
+    {
+        transform: translateX(-100px);
+    }
+    to
+    {
+        transform: translateY(50px);
+    }
+}
+
+@keyframes leftside3 {
+    from
+    {
+        transform: translateX(-100px);
+    }
+    to
+    {
+        transform: translateY(50px);
+    }
+}
+
+@keyframes leftside4 {
+    from
+    {
+        transform: translateX(40px);
+    }
+    to
+    {
+        transform: translateY(-50px);
+    }
+}
+
+
+
+@keyframes rightside {
+    from
+    {
+        transform: translateX(70px);
+    }
+    to
+    {
+        transform: translateY(-50px);
+    }
+}
+@keyframes rightside1 {
+    from
+    {
+        transform: translateX(60px);
+    }
+    to
+    {
+        transform: translateY(-40px);
+    }
+}
+
+@keyframes rightside2 {
+    from
+    {
+        transform: translateX(100px);
+    }
+    to
+    {
+        transform: translateY(-50px);
+    }
+}
+
+@keyframes rightside3 {
+    from
+    {
+        transform: translateX(70px);
+    }
+    to
+    {
+        transform: translateY(-50px);
+    }
+}
+
+@keyframes rightside4 {
+    from
+    {
+        transform: translateX(-80px);
+    }
+    to
+    {
+        transform: translateY(50px);
+    }
+}
+

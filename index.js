@@ -1,19 +1,12 @@
-const jsonServer =  require('json-server'); // ✅ worksnpm start
-const server = jsonServer.create();
-const router = jsonServer.router('db.json');
-const middlewares = jsonServer.defaults();
-
-
-const Port = process.env.PORT || 3000;
+const expressApp = require("json-serve/expressApp");
+const server = expressApp.create();
+const router = expressApp.router('db.json');
+const data = expressApp.default();
 
 server.listen(3000, () => {
-  console.log("JSON Server running at port 3000");
-});
+  console.log("server run");
+  
+})
 
-server.use(middlewares);
 server.use(router);
-
-
-
-
-            
+server.use(data);
