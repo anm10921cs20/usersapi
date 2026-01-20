@@ -10924,108 +10924,532 @@
   "Chinese DimsumItem": [
     {
       "id": 1,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "name": "Chinese Combo 3",
+      "price": "260",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/41a275fd-06a4-4a5f-a802-c161f3384238_d105af3c-3f8b-43d3-a863-d72ae145be1a.jpg",
+      "details": "Paneer Indian Noodles+Paneer 2025+Baby Corn Pepper Fry"
+    },
+    {
+      "id": 2,
+      "name": "Dimsum Vegetable Steamed",
+      "price": "410",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/4de417a80813fac13db16bc2f86a2e3b",
+      "details": "Steamed dumplings filled with the choice of a mixture of vegetables and seasonings"
+    },
+    {
+      "id": 3,
+      "name": "Chinese Non Veg Combo (serves 1)",
+      "price": "329",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/z3onriiihvwl43zyeiqw",
+      "details": "Chicken Fried Rice + Chilli Chicken Gravy (Small) + Chicken 65 (3 Pcs)"
+    },
+    {
+      "id": 4,
+      "name": "Veg Chinese Hakka Noodles - Half (500 ml)",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/7/38c2e066-8dd1-453d-b7c9-a40b4706dd55_8f6bfe25-466b-4c8a-88a5-73c27e254c42.jpg_compressed",
+      "details": "No-frills. All flavour. The OG Indo-Chinese classic — tossed with veggies, a touch of dark soya, and that wok-charred aroma you love. Energy 731.17 (kcal ),  Carbohydrate 115.94 gms, Protein 16.5 gms, Fats 28.55gms"
+    },
+    {
+      "id": 5,
+      "name": "Coriander Infused Chicken Crystal Dimsums (6 pcs)",
+      "price": "397",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/16/473149ef-7b7f-43e3-af87-bee409affa75_6029ef7d-11c1-4dc9-98fb-4e821145622e.png_compressed",
+      "details": "Delicate steamed dumplings filled with tender chicken, seasoned with aromatic coriander for a fresh and flavorful twist.Allergens : Wheat, Soy, Milk Nutritional Information (Per 100g): Energy(Kcal): 247.57, Carbohydrate(g): 17.33, Protein(g): 6.25, Fat(g): 17,Serving Size : 6 pcs"
+    },
+    {
+      "id": 6,
+      "name": "Truffle Cream Cheese Dimsums",
+      "price": "447",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/2/6aabf61d-594a-4d90-b9f5-4354bc1593df_58b930e2-afcf-415d-8dc3-bbf96c2eb239.png_compressed",
+      "details": "Delicate crystal dimsums filled with a velvety cream cheese centre infused with earthy truffle oil, balanced with a bold, crunchy chilli dip.Allergens : Milk, WheatNutritional Information (Per 100g): Energy(kcal): 268.84, Carbohydrate(g): 30.13, Protein(g):2.58, Fat(g): 18.98 Serving Size : 6pcs"
     },
     {
       "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "name": "Indo Chinese Veg Fried Momo",
+      "price": "239",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/eb77f1c635bdf49037f35a9924a4ba30",
+      "details": "6 Pcs - Crispy, golden fried dumplings stuffed with a savory mix of vegetables, paneer, and spices, served with a tangy dipping sauce"
+    },
+    {
+      "id": 8,
+      "name": "Chinese Bhel Tangy Tangra Style",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/21/5b01a9d2-ae58-40bb-bc85-ce32fc363f81_5d3a8640-8812-444e-9d16-164a1b29695f.png_compressed",
+      "details": "Fried noodles mixed with bell peppers, tangy, and spicy bhel sauce. NO MSG."
+    },
+    {
+      "id": 9,
+      "name": "Indo Chinese Chicken Fried Momo",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b94e02146bc1518684acb6079efd83f9",
+      "details": "6 Pcs - Crispy golden dumplings stuffed with spiced minced chicken and herbs, fried to perfection for a crunchy bite. [Calories: 480]"
+    },
+    {
+      "id": 10,
+      "name": "Chinese Bhel",
+      "price": "279",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/18/eea12364-d621-4205-8a34-efc4fe45e58e_5e26e845-ffcf-42ef-a664-d0f56a80b9d0.jpg",
+      "details": "Crispy Indo-Chinese snack made from fried noodles, mix with vegetables, and tangy Indo schezwan sauces."
+    },
+    {
+      "id": 11,
+      "name": "Crunchy Vegetables Dimsum (5 Pieces)",
+      "price": "485",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/7/3eefdcd9-e744-4b7f-a704-a8476bce93ac_d1d71783-e98e-4978-b274-a8de8a5ac786.jpg",
+      "details": "Steamed of carrot, lotus root, celery and water chestnut, scallion, sesame"
+    },
+    {
+      "id": 12,
+      "name": "Tinetan Soupy Dimsum",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/2d952b1f94a8192081715974aafbeea0",
+      "details": "Tibetan soup with 5 pcs of dimsums.."
+    },
+    {
+      "id": 13,
+      "name": "Chicken Gyoza (5 Pieces)",
+      "price": "499",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/31/97bf7f1b-4fa0-4a31-a41d-b7ada887b026_3b545357-7883-4f4b-a0ee-f72b85a49e0b.jpg",
+      "details": "Minced chicken with scallion, and louts flour coriander, celery and sesame oil. "
+    },
+    {
+      "id": 14,
+      "name": "Chinese Non Veg Thali",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/5/546b37dd-16a3-4bb1-91ee-05dcc4353d04_cb581af0-1430-4716-88e8-599b048d261c.jpg",
+      "details": "Egg Fried Rice + Egg fried Noodles + Veg starter + Non Veg dry + Salad + Chicken spring Roll + Brownie + Sauce"
+    },
+    {
+      "id": 15,
+      "name": "Chinese Fried Chicken",
+      "price": "357",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/23/7f39f169-e67d-4175-aea5-8e9003d9adc0_c16fe34b-f015-4e6e-a510-a5d881afc9f4.JPG",
+      "details": "Golden and crispy Chinese Fried Chicken with a captivating blend of flavors that will transport you straight to the bustling streets of China's vibrant food scene."
+    }
+  ], "DessertsItem":[
+    {
+      "id": 1,
+      "name": "Tiramisu Jar",
+      "price": "180",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b9c00b9c58b93fbe7963ef6a2ef0dd86",
+      "details": "Traditional mascarpone cream layered on coffee-flavoured vanilla sponge cake, topped with Belgian cocoa powder. Allergens - Wheat, Dairy, Nuts, Soy"
+    },
+    {
+      "id": 2,
+      "name": "Tender Coconut Pudding",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/12/10669a4a-20c3-49b8-8e72-630545e4013c_fd8e1b58-8aa6-4826-96ee-122a0cfdbbb1.jpg",
+      "details": "Soft, cool and easy on the heart.Like summer holidays in a bowl."
+    },
+    {
+      "id": 3,
+      "name": "Ande ka Meetha",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/6/891d4a83-a8b2-4f91-9494-e5530cfd7b96_2392fa45-5059-4d20-ae4c-7dc703b6eb30.jpg",
+      "details": "A popular sweet delicacy made with eggs, khova, safron, dry fruits and ghee Energy (kcal ) : 81.4, Protein (g) : 7, Fat (g) : 600, Dietary fibre (gm) : 591, Sugar (g) : 22, carbohydrates(g) : 418, Allergen : Dairy, Egg, Nut"
+    },
+    {
+      "id": 4,
+      "name": "Choco Lava Cake",
+      "price": "109",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/17/e1c3bed5-6cf0-4b7d-9755-3845a41262c8_f656cde0-d21e-4542-b97c-1df0b289d466.jpeg",
+      "details": "A perfect match of Chocolate Cake on the outside and molten Chocolate on the inside, our Choco Lava cake is every dessert lovers dream come true. (Energy: 341KCal, Carbohydrates: 39gm, Proteins: 3gm, Fats: 18gm)"
+    },
+    {
+      "id": 5,
+      "name": "Teddy Dessert",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/6/1dad7f58-87e7-4212-af24-efc8bbab721c_5ad6711d-e6ed-460b-bc60-e3929d127842.jpg",
+      "details": "An Adorable Teddy Bear with a vibrant mango-pineapple center, enveloped in velvety white chocolate mousse."
+    },
+    {
+      "id": 6,
+      "name": "Gulab Jamun (Pack Of 2)",
+      "price": "65",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/2c2c0e4d03dde1b74c926d3b0ca9e2bf",
+      "details": "Gulab Jamun. Soft. Plump and the way we are used to. There is nothing else in our gulab jamuns than authenticity and love. (Energy: 301KCal, Carbohydrates: 54gm, Proteins: 6gm, Fats: 6gm, Sodium: 2mg)"
     },
     {
       "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "name": "2 Dessert Jars at 110 each",
+      "price": "219",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/3/812dbbbc-3e69-4950-8593-49f472655611_ea3774b5-d39d-4cfb-b53f-8851b9db83a8.jpeg",
+      "details": "When the craving says this and your heart says that, take both jars."
+    },
+    {
+      "id": 8,
+      "name": "4 Dessert Jars at 100 each",
+      "price": "399",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/3/d71cdd3f-339b-40b4-868d-151f0f069519_da7a44d8-8096-419b-b28a-1e84a5144c99.jpeg",
+      "details": "Four jars is equals to one unforgettable dessert party."
+    },
+    {
+      "id": 9,
+      "name": "Blueberry Cheesecake Jar",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/25/f01bd329-0a30-4b5f-8485-6eecfb8b2ecb_3cbf2ce0-e841-4f5e-96db-3b41e6ce02bb.jpg",
+      "details": "Creamy cheesecake with blueberries on a cookie base, topped with a blueberry glaze and finished with cream & blueberry frosting. Allergens - Wheat, Dairy, Soy"
+    },
+    {
+      "id": 10,
+      "name": "Choco Volcano",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/5/dcfeee5a-cf20-4449-b265-2ddc573d681d_9b0679c8-6fa3-481d-8955-b4b22a3934cd.jpg",
+      "details": "Warm choco cake with gooey center (262 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+    },
+    {
+      "id": 11,
+      "name": "Dessert Tubs: Tiramisu",
+      "price": "359",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/16/392682fe-9bc5-4429-b798-2e850f7c990b_765ecad3-30f5-4800-b534-978b286fd684.png_compressed",
+      "details": "[160g] discover a tantalizing twist on classic tiramisu: creamy layers of whipped cream cheese and coffee-soaked finger biscuits. Each bite is a delightful balance of indulgent flavours and textures. "
+    },
+    {
+      "id": 12,
+      "name": "Dessert Tubs: Biscoff Cheesecake",
+      "price": "359",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/16/22a73f55-a98a-426a-a6dd-c91065b9cf90_07d5d7ff-f50b-4d76-adf9-8c3efa9e866a.png_compressed",
+      "details": "[200g] creamy cream cheese meets the irresistible warmth of biscoff spread, nestled on a buttery biscoff cookie crust. Topped with a biscoff mousse, each bite is a symphony of creamy, crunchy, and caramelized bliss. Dive into dessert paradise with every spoonful. "
+    },
+    {
+      "id": 13,
+      "name": "Kesar Gulab Jamun [2PC]",
+      "price": "69",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/9/e52fb24d-b8ae-4c3e-8498-cb17b57657ba_7873d352-7130-42f7-9700-e980094a8a1f.png",
+      "details": "Enjoy our classic Indian dessert: soft khoya balls fried to perfection, bathed in sweet syrup infused with kesar (saffron). Rich, sweet, and utterly irresistible. Per Serving: Calories 326kcal, Total Protein 6.57g (Serves 1-2) (Approx)."
+    },
+    {
+      "id": 14,
+      "name": "Rasmalai [2PC]",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/9/5edf1494-f786-412e-9b49-3956ed61b6a1_e7458fc4-858d-46a0-90ec-eb6001fd97e8.png",
+      "details": "Ras Malai is a delectable Indian sweet made with tender cheese balls immersed in a rich, sweetened milk flavored with cardamom. It's beautifully topped with finely chopped nuts, creating a creamy and aromatic dessert that's both flavorful and visually delightful. Per Serving: Calories 186kcal, Total Protein 6g (Serves 1-2) (Approx)."
+    },
+    {
+      "id": 15,
+      "name": "Chocolate Momo (1 Pc)",
+      "price": "69",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/29/3c3db8bc-dc19-4615-a2b4-ddfc7dd93b7b_118f6110-8d1c-4f79-8393-ab6eb4b8b3d7.png",
+      "details": "Serve 1 - Crunchy Momo filled with Brownie, topped with Chocolate Fudge & Garnished with Chocolate flakes. (01 Pcs)."
+    }
+  ], "Frozen DessertsItem":[
+    {
+      "id": 1,
+      "name": "Choco Brownie Sundae (L)",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/811ae72fb321c8d62a0246cd1f80ffaf",
+      "details": "A chocolicious combination is on your way! Choco ice cream topped with brownie waffle chunks, crushed Almonds & choco fudge sauce will surely melt your heart. (Images are for representation purpose only)"
+    },
+    {
+      "id": 2,
+      "name": "Milo Brownie Ice-Cream Scoop",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/17/105a63c6-4079-4fc5-a57a-48bf2c6892f0_38cef425-7c56-4c3a-839b-7e8543fa2e42.jpg",
+      "details": "A Scoop of our Homemade Brownie Infused Milo Ice cream"
+    },
+    {
+      "id": 3,
+      "name": "Lotus Biscoff Sundae (L)",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/6/37071830-f471-47b2-8f9f-3a8d92e1f505_87a4c3c9-18c6-4cd1-84f9-288b6072a094.png",
+      "details": "A combination that you have never tasted before! Dense vanilla ice cream paired with classic waffle chunks and generously topped with real bananas, lotus biscoff spread, and biscuits. (Images are for representation purpose only)"
+    },
+    {
+      "id": 4,
+      "name": "Chocochips Ice Cream 100ml",
+      "price": "81",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/15/8aed5368-e134-44e5-b24a-4ce96e31b3e8_7d247c69-4d66-4faa-a23d-faa67a7b74a2.jpg",
+      "details": "Melt in mouth chocolate chips in every spoon. Truly, a decadent ice cream experience. Serving :1 serve , serving size(mg/gm) 100/76, energy(kcal) : 204,carbohydrate(gm) : 24,protein (gm) :4. 4,dietary fiber(gm) : 1. 9,fat (gm) :10, allergen :contains milk. May contain traces of treenuts.  [Energy: 204 kcal, Allergen: milk,nuts, Carbohydrates: 24g]"
+    },
+    {
+      "id": 5,
+      "name": "Butterscotch Ice Cream(95 Gms)",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/Swiggy-Dash/icc4jl13ftcejzqe9dkv",
+      "details": "Butterscotch flavoured ice cream with cashew praline + walnut praline"
+    },
+    {
+      "id": 6,
+      "name": "Black Currant Ice Cream",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/9/9b44548a-0043-4c1d-bc33-aa3525b6907c_bbacd801-b1fd-4959-aa79-c119998f545f.png_compressed",
+      "details": "Single/double scoop; approximately 91 / 182 kcal. "
     },
     {
       "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "name": "Jackfruit Ice Cream(95 Gms)",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/Swiggy-Dash/tarxlyhr1lxjcctkn8zu",
+      "details": "The jack of all fruits makes an appearance from the tropics to entertain your palate."
+    },
+    {
+      "id": 8,
+      "name": "Strawberry Sundae",
+      "price": "66",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/d7bd22aa47cffdcdde2d5b6223fde06e",
+      "details": "The cool vanilla soft serve ice cream with twirls of strawberry syrup.. Contains: Soybeans, Milk, Gluten"
+    },
+    {
+      "id": 9,
+      "name": "Milk Maid Ice Cream",
+      "price": "67",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/12/295a86ab-db3a-41e9-a73b-acd2716e70cb_d5e8909e-9286-4032-af51-70eb57498d08.jpg",
+      "details": "It's like a frozen can of milkmaid condensed milk churned into ice cream"
+    },
+    {
+      "id": 10,
+      "name": "BK Calcutta Paan Ice Cream Slice",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/25/c5c3ed78-e55f-43a4-9945-5fe35ee9133a_3cab05e7-2b18-4c8d-90c9-98afa7c89131.png",
+      "details": "Paan Ice-Cream, a digestive and a mouth refreshner. All the goodness of ice-cream flavoured with paan.Ice Cream 100 Grams No Artificial Flavours or Preservatives 100% Vegetarian (Per Serving: 253 cal, 4.3 gms Protein, 23.31 gms Sugar Compared To Traditional Ice Cream)"
+    },
+    {
+      "id": 11,
+      "name": "BK Tender Coconut Ice Cream Slice",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/25/feded3d2-0f47-456f-a0f9-21ad6723deaa_c2fae02d-740a-4049-abce-9545f47fd9fc.png",
+      "details": "Our most popular ice creams is the tender coconut ice cream. It's really one of its kind. There are no artificial flavors and you actually feel the chunks of Tender Coconut in every bite Ice Cream 100 Grams No Artificial Flavours or Preservatives 100% Vegetarian (Per Serving: 253 cal, 4.3 gms Protein, 23.31 gms Sugar Compared To Traditional Ice Cream)"
+    },
+    {
+      "id": 12,
+      "name": "Fudge & Fancy Ice Cream Sundae",
+      "price": "334",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/16/f382ad06-2f92-454c-98ff-883195e6730b_59a030b1-232e-4620-861e-ef0066c69dc0.jpg",
+      "details": "Five Bean Vanilla Ice Cream, Belgian Chocolate Crunch Ice Cream, Hot Fudge, French Almonds"
+    },
+    {
+      "id": 13,
+      "name": "Triple Threat Ice Cream Sundae",
+      "price": "334",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/16/fcbfd052-8534-4842-88e8-61bf5c7fbdb6_e56fb73b-4d3a-4a58-a1f8-6647effd2aa3.jpg",
+      "details": "Belgian Chocolate Crunch Ice Cream, Double Chocolate Chip Ice Cream, Brownie Bits, Hot Fudge"
+    },
+    {
+      "id": 14,
+      "name": "A Scoop of our Homemade Brownie Infused Double Chocolate Ice cream",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/17/4537b29a-534b-4fbe-9012-c6f96f2a85b7_e0a88313-6d6a-4a66-bba8-2eb5dee7f712.jpg",
+      "details": "A Scoop of our Homemade Brownie Infused Double Chocolate Ice cream"
+    },
+    {
+      "id": 15,
+      "name": "Rainbow Ice Cream Sundae",
+      "price": "229",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/29/ad225a78-f278-4b80-bbb3-3992e850c6e0_da33ad72-d328-4c25-a7da-d240b6bb9b74.jpg",
+      "details": "Dive into a vibrant mix of colorful blend of mango, vanilla and blackcurrant ice creams, topped with a variety of sweet toppings like strawberry sauce , litchi fruit and sprinkles. This sundae is a fun, flavorful treat thats as delightful to the eyes as it is to the taste buds! serving size r / l. Approx. 246. 9 kcal / 493. 8 kcal per serve. "
+    }
+  ], "Masala DosaItem":[
+    {
+      "id": 1,
+      "name": "Masala Dosa",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/06e4309a-2b7f-45ef-b6d5-59e797289ace_516cbad7-8a41-4438-80fb-cf26f43d85c5.jpg",
+      "details": "Dosa filled with spiced potato masala."
+    },
+    {
+      "id": 2,
+      "name": "Benne Masala Dosa",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/26/6db4e655-b0fd-4397-b7e1-247944f85136_521838fc-ab00-4823-a0af-ca791100530b.jpg",
+      "details": "An indulgent twist on the classic! Rich butter and spicy masala potatoes together in a dosa that's sure to satisfy your cravings (Gatti Chutney is inside the dosa box)"
+    },
+    {
+      "id": 3,
+      "name": "Masala Dosai",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/1/897f81c1-ca88-4760-967f-f608cc47a0c9_1338def6-b431-432b-9144-c997e76474de.jpg_compressed",
+      "details": "A crispy, golden dosa filled with a savory spiced potato masala"
+    },
+    {
+      "id": 4,
+      "name": "Special Masala Dosa",
+      "price": "89",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/15/461fbfb4-87f7-4b32-ab9a-062cc3eb666f_c4be0e19-e2fe-4c05-9b8b-17f5d600f07a.jpg",
+      "details": "A crispy, thin crepe filled with a spiced potato and onion mixture, served with chutney and sambar for a flavourful and satisfying meal"
+    },
+    {
+      "id": 5,
+      "name": "Special Masala Dosai",
+      "price": "80",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/uasfdptgyichdqicmejy",
+      "details": "Serve 1"
+    },
+    {
+      "id": 6,
+      "name": "Masala Dosai",
+      "price": "145",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/16/e73c1ecf-a4e9-4125-893e-57ac55c5478f_a9a10290-ccc5-40aa-9697-d5150e4bb55b.jpg",
+      "details": "Variation of the popular South Indian dosa made from rice, spicy potatoes, served with Chutney, Sambar"
     },
     {
       "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "name": "Ghee Masala Dosai",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/1/897f81c1-ca88-4760-967f-f608cc47a0c9_1338def6-b431-432b-9144-c997e76474de.jpg_compressed",
+      "details": "Crispy dosa enriched with aromatic ghee and stuffed with spiced potato masala."
+    },
+    {
+      "id": 8,
+      "name": "Ghee Masala Dosa",
+      "price": "185",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/s1gopxoynvc0xlc3liyb",
+      "details": "Crispy and delicious dosa, folded in with potato masala and coated with fresh butter."
+    },
+    {
+      "id": 9,
+      "name": "Aloo Masala Dosa",
+      "price": "78",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/iq5evboxsccepf9mkkkh",
+      "details": "A Crispy Dosa Filled With A Spiced Potato Mixture, A Popular Choice For Breakfast."
+    },
+    {
+      "id": 10,
+      "name": "Butter Masala Dosa",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/df13joawoj9plym2sjaz",
+      "details": "A wholesome dish of 1 super-crispy butter masala dosa served with chutney and sambhar."
+    },
+    {
+      "id": 11,
+      "name": "Paneer Masala Dosa",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/16/1c7e1634-fea4-45b1-b7bd-705f3ceb3977_a3b7cd95-bbcf-49a6-b6bc-e27f959a716f.jpg",
+      "details": "A delectable fusion of crispy dosa and creamy paneer cooked in a rich masala. served with sambar and chutney."
+    },
+    {
+      "id": 12,
+      "name": "Spl Rava Masala Dosa",
+      "price": "110",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/20/dd857d39-cdff-4bd9-8974-5a2a4190d2ff_cb9d454d-e8d9-47a9-878d-c48afa4216b7.jpg",
+      "details": "With Sambar & 2types of Chutney."
+    },
+    {
+      "id": 13,
+      "name": "Mushroom Masala Dosa",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/16/20533c09-2ba4-4376-a3c0-19c62bdc3c66_455cddee-f0f2-4551-b5a2-08684d36409c.jpg",
+      "details": "Savor the rich flavors of sautéed mushrooms and savory masala tucked inside a crispy dosa. served with sambar and chutney."
+    },
+    {
+      "id": 14,
+      "name": "Special Masala Dosai",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/6/f0e962b4-ddc2-45ca-85e8-8fe69ddb99bb_c526f14a-fc8c-46f3-adbe-23286f2443c5.jpg",
+      "details": "Dosa inside aloo masala ,sambar with white and red chutney"
+    },
+    {
+      "id": 15,
+      "name": "Ghee Masala Dosa",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/16/a9b88d24-237d-43a2-93cf-e7a1687e7adb_e87cfa4c-9bbd-45b7-9d62-d6bb181f4d1b.jpg",
+      "details": "A delicious variant of dosa, prepared from the usual dosa batter and Tangy filling of Masala where ghee is poured on the batter after spreading along with Masala."
+    }
+  ], "Plain DosaItem":[
+    {
+      "id": 1,
+      "name": "Plain Dosa",
+      "price": "117",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/74ef5579-1ac0-439b-b494-3ce21fb8da37_e666fa73-0fe5-4169-8281-e615779bf76f.jpg",
+      "details": "A crispy and golden rice lentil crepe."
+    },
+    {
+      "id": 2,
+      "name": "Plain Dosai",
+      "price": "110",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/lrhfjzoqqpsxxfbroujv",
+      "details": "Served With Coconut chutney, Tomato Chutney, Pudina Chutney & Sambar; Nutritional Information (per 100g) : Energy - 249kcal, Carbs - 47.6g, Protein - 6.3g, Fats - 3.7g."
+    },
+    {
+      "id": 3,
+      "name": "Plain Dosai",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/1/a4368e56-0c07-4b73-b345-8af9d0437b40_9b39a610-4b74-4603-ba6a-348f4aa33612.jpg_compressed",
+      "details": "A thin, crispy, golden-brown crepe made from fermented rice and lentil batter,"
+    },
+    {
+      "id": 4,
+      "name": "Plain Dosa",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/26/9fb4ebcd-5e3c-40d5-83fb-800c6e2b47a0_36e0201f-5440-441f-83dd-0089c36cc39c.jpg",
+      "details": "Thin, crispy and delicious South Indian crepe made from fermented rice and lentil batter. A South Indian classic (NSC Spl red chutney and spicy chutney is chargeable and Gatti Chutney is inside the dosa box)"
+    },
+    {
+      "id": 5,
+      "name": "Plain Veetu Dosa - 6 Nos ( No Chutney, No Sambar )",
+      "price": "175",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/26/e8f08f20-685b-4ef0-91fa-c3397fe7f70e_e38f20a2-0c26-48f9-b735-0596a1fd43fc.jpg",
+      "details": "A home style south indian dosa made with fermented rice and urad dal batter, soft inside and crisp outside. "
+    },
+    {
+      "id": 6,
+      "name": "Plain Dosa",
+      "price": "110",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/27/af14d487-1a9a-4107-a348-01be5f3fa6f0_1f1bf297-9af6-40e3-8eed-3e81466f58c9.jpeg",
+      "details": "Dosai served with three chutneys & magic sambarr"
     },
     {
       "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "name": "Plain Dosa",
+      "price": "90",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/11/1c9fb2b5-807e-4983-b6b3-f5274a8719af_10d3cf85-4f8d-467b-8b8a-f80d8583c95d.JPG",
+      "details": "A scrumptious and simple Indian crepe made with lentils, ideal for a delightful breakfast or light meal."
     },
     {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "id": 8,
+      "name": "Onion Rava Dosai",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/1/80d32f64-c8a8-4079-8233-d39f18a0b654_3bd9e65d-d0e2-4920-8bc5-0f63628829bd.jpg_compressed",
+      "details": "A crispy semolina dosa topped with sautéed onions and green chilies, offering a savory and crunchy texture"
     },
     {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "id": 9,
+      "name": "Plain Dosa",
+      "price": "85",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/0da752a4-dff3-466b-b56f-e02a53eb869e_fd00b1b3-c3a7-40d0-99ea-9b884c8270f9.JPG",
+      "details": "Classic South Indian dosa, crisp and golden, served with chutney and sambar for a timeless treat."
     },
     {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "id": 10,
+      "name": "Plain Dosa",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/6/a16111e4-d4ea-49d3-8db1-a0072836ea21_11ee0b3d-9bfa-4cb9-b0bd-ee2ee1e5511b.jpg",
+      "details": "Dosa ,sambar with white and red chutney"
     },
     {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "id": 11,
+      "name": "Dosai",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/16/3bef1e04-32af-402d-94aa-fcf45649e629_85cc782d-35cf-4ac6-9356-db811faaf421.jpg",
+      "details": "A Thin, spicy, crispy crÃªpe-like food made from fermented rice"
     },
     {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "id": 12,
+      "name": "Special Dosa",
+      "price": "110",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/15/ea843ffb-0d61-45cf-822c-1c6523875e8b_557801fc-0f2e-448e-8597-53855da98f9d.JPG",
+      "details": "A thin, and savory crepe made from fermented rice and lentil batter, served with chutney and sambar"
     },
     {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "id": 13,
+      "name": "Kaaram Plain Dosa",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/7/ddd511dc-6e49-43e9-bc73-02104f1b9b32_b5596150-9c84-4221-b4c6-8bc961a6bfcd.jpg",
+      "details": "A flavorful and aromatic dosa with a perfect balance of savory flavors. Served with sambar and chutney"
     },
     {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "id": 14,
+      "name": "Rava Dosa",
+      "price": "110",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/15/56a0bd38-dac5-40ac-8e0f-e00540cd17c4_ff1ef756-2673-4c04-a998-20432a96b1f4.JPG",
+      "details": "A crispy South Indian pancake made from semolina and rice flour. Served with sambar and chutney"
     },
     {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
-    },
-    {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
+      "id": 15,
+      "name": "Cheese plain Dosa",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/7/4632cf05-fef4-44f6-9cd3-56e7dde8236b_84b0280f-4de8-44e5-862d-798829c38fef.JPG",
+      "details": "A crispy dosa filled with Amul melted cheese, a classic and comforting choice for a satisfying meal."
     }
   ]
 }
