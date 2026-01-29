@@ -11451,5 +11451,716 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/7/4632cf05-fef4-44f6-9cd3-56e7dde8236b_84b0280f-4de8-44e5-862d-798829c38fef.JPG",
       "details": "A crispy dosa filled with Amul melted cheese, a classic and comforting choice for a satisfying meal."
     }
+  ],"Kari DosaItem":[
+     {
+      "id": 1,
+      "name": "Chicken Kari Dosa",
+      "price": "360",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/aced10cc-3170-477e-84dc-0c546bea451e_5559a192-d0ca-4d00-a23c-548574f4ff9b.jpeg",
+      "details": "Soft dosa topped with spicy chicken curry and cooked to perfection for a unique South Indian dish."
+    },
+    {
+      "id": 2,
+      "name": "Simakkal Chicken Kari Dosa",
+      "price": "219",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/19/f8aff09e-2322-4c78-9cba-a3e0b9f4936f_da46eb56-7ba2-424d-8ba9-e865ef638b23.jpg",
+      "details": "Crispy dosa layered with a spicy, succulent chicken kaima, offering a perfect balance of crunch and rich flavors. This satisfying dish is a great choice for those who love a flavorful south indian twist"
+    },
+    {
+      "id": 3,
+      "name": "Mutton Kari Dosa",
+      "price": "410",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/783c3d9c-1a55-444e-90d6-87143337fd13_7706f05e-510b-4d54-9983-24f9b3a25576.jpeg",
+      "details": "Soft dosa topped with spicy mutton curry, offering a rich and flavorful South Indian delicacy."
+    },
+    {
+      "id": 4,
+      "name": "Chicken Kari Dosa",
+      "price": "225",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/e19da8f1-fcca-4cd5-94ed-3663eb4bd2bd_86a93516-3c49-4219-a2bb-e3edd393d63e.jpg",
+      "details": "We recommend our guests to have the South Indian style delightful Kari dosa which is also the top-selling item in this category :)"
+    },
+    {
+      "id": 5,
+      "name": "Chicken Kari Dosa",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/23/4e9933e2-7ae9-42e6-9429-6c8781ba99f8_81d06ba6-e29f-4a38-8b3c-2d3b1ed66fc8.jpg",
+      "details": "A flavorful and savory twist on a classic dosa, featuring tender chukka of chicken in a fragrant curry sauce."
+    },
+    {
+      "id": 6,
+      "name": "Chicken kari Dosa",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/19/04b953a8-f295-481b-b837-11aba5c069c9_c4ba3ce1-94a5-4144-bc0f-d9e598fd7343.jpg",
+      "details": "A flavorful South Indian twist on a classic dosa, featuring tender chicken in a rich and aromatic curry sauce."
+    },
+    {
+      "id": 7,
+      "name": "Chicken Kari Dosai",
+      "price": "314",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/4/d9f9ac16-26d4-4f5b-b462-9f715e274501_437d62e8-502f-498c-840b-3dce92b90584.jpg",
+      "details": "South Indian Pancake With Meat Stuffing"
+    },
+    {
+      "id": 8,
+      "name": "Chicken kari dosai",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/2/dd9f76e6-6f76-4d95-870e-40b8281a50d7_5e28b5a3-a47e-48d8-9ea7-e2705e735b41.jpg",
+      "details": "A flavorful and indulgent dinner special featuring tender chicken in a delectable dosai wrap."
+    },
+    {
+      "id": 9,
+      "name": "Chicken Kari Dosai",
+      "price": "235",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/h2x0c6a82tl0tkag6ld6",
+      "details": "Served With Coconut chutney, Tomato Chutney, Pudina Chutney & Salna; Nutritional Information (per 100g) : Energy - 163kcal, Carbs - 11g, Protein - 16.4g, Fats - 5.9g. "
+    },
+    {
+      "id": 10,
+      "name": "Chicken Kari Dosai",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/26/d9df3d4c-9766-4981-a90e-57910612affa_78f99d2f-24df-497f-af0b-87bc9d43386d.JPG",
+      "details": "A flavorful and savory dinner special blending tender chicken with traditional South Indian dosai."
+    },
+    {
+      "id": 11,
+      "name": "Mutton Kari Dosai                                      ",
+      "price": "260",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/2/242330f7-7cfa-49d6-b45a-9a34ee627ec5_6fda3b0a-445f-4565-a1fd-b96f525d06f5.jpg",
+      "details": "A flavorful and satisfying dosai perfect for a delectable breakfast experience."
+    },
+    {
+      "id": 12,
+      "name": "Mutton kari dosai",
+      "price": "280",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/26/6927d574-3683-40f3-9f1f-3e6286481bc8_a31a43bb-c23f-44ac-a768-574b35a9d285.jpg",
+      "details": "A delectable dinner special featuring tender mutton cooked to perfection in a flavorful dosai."
+    }
+  ],"Egg DosaItem":[
+     {
+      "id": 1,
+      "name": "Egg Dosa",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/49fd11b7-6c79-4ebd-bbcf-251568fc5940_68bd78b4-ee6b-4879-8dc0-276dc283c04a.jpeg",
+      "details": "Crispy dosa layered with a spiced egg mixture, creating a savory and satisfying meal."
+    },
+    {
+      "id": 2,
+      "name": "Dosa - Egg Combo",
+      "price": "205",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/12/23e29215-feb2-4a31-b1b7-1f9a3555e952_dc4d6b65-fdb7-4687-825e-c521ee6ac245.png",
+      "details": "A small combo consisting of a simple all time favourite plain omelette(1pc), tasty and tangy egg masala and served with fresh kal dosai(3pcs)."
+    },
+    {
+      "id": 3,
+      "name": "Egg dosa",
+      "price": "65",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/23/55c68403-1d05-464c-9753-499167547db2_448206f9-795e-4416-86b9-0f2114c4afff.jpg",
+      "details": "A delightful twist on a classic Indian favorite, this dosa is filled with a savory and satisfying egg filling."
+    },
+    {
+      "id": 4,
+      "name": "Egg Dosa",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/efdb7771-1bc7-4588-9773-8765246247bf_e95f8445-ad5d-4f4b-a07c-38f9c961de0c.JPG",
+      "details": "A delightful South Indian delight featuring flavorful egg in a sensational dosai creation."
+    },
+    {
+      "id": 5,
+      "name": "Special Egg Dosai",
+      "price": "152",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/4d804d85-f857-4581-8a5c-e05dc42d9181_2543dcf6-5a98-4ebc-b2f2-e075c2e6e176.JPG",
+      "details": "A delightful South Indian delicacy featuring a delectable blend of eggs and traditional flavors."
+    },
+    {
+      "id": 6,
+      "name": "Egg Dosa ( 7 pm onwards  )",
+      "price": "111",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/qjiafkdtp0c2p1lr1o70",
+      "details": "A delectable bread creation filled with flavorful eggs that will satisfy any breakfast craving."
+    },
+    {
+      "id": 7,
+      "name": "Madras Egg Dosa",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/8/64b16c4b-aeae-4544-8fb2-843459cb0b30_b22b47f0-e228-440b-bd5f-fa7f0ef6c97b.jpg",
+      "details": "A fluffy dosa topped with a beaten egg and mild spices."
+    },
+    {
+      "id": 8,
+      "name": "Egg Dosa",
+      "price": "80",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/17/138c46c1-6c0a-4ba7-8fd5-708d4bde9e6a_a38d8525-8e2b-4776-a319-a288d25a4f92.JPG",
+      "details": "A fluffy, delectable dosa filled with a delightful combination of egg and savory flavors."
+    },
+    {
+      "id": 9,
+      "name": "Egg Dosai",
+      "price": "118",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/16/c63510ce-21e8-4c46-968f-1e37d098e42d_949f6fe9-d6dd-429c-8ede-82421319d2c1.JPG",
+      "details": "Egg Dosai: Dosai filled with scrambled eggs."
+    },
+    {
+      "id": 10,
+      "name": "Egg Dosa",
+      "price": "78",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/00fab058245504e387c28537c00ebf89",
+      "details": "A savory crepe-like dish with fluffy egg filling. Serves 1"
+    },
+    {
+      "id": 11,
+      "name": "Egg Dosa",
+      "price": "60",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/25/98fd77c4-4800-41cc-bb75-048f85325e7c_2e012328-70f9-40c2-9238-1633849d90de.JPG",
+      "details": "A delectable and flavorful Indian crepe filled with a tempting egg surprise."
+    },
+    {
+      "id": 12,
+      "name": "Egg Dosa",
+      "price": "98",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/23/36e86005-02f3-4bab-b732-707bbcb6465a_62adffb5-ca5f-448c-be74-d3f007347481.jpg",
+      "details": "A delightful twist on a classic favorite, this dosa is filled with a flavorful egg filling that is sure to satisfy your taste buds."
+    },{
+      "id": 13,
+      "name": "Egg Dosa",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/18/1aef24e4-c467-4270-8b23-014de93931d7_32ed43a7-894a-4bad-8404-1be9bf84a61d.jpg",
+      "details": "A flavorful and satisfying dinner option with the perfect blend of eggs and savory goodness."
+    },{
+      "id": 14,
+      "name": "Egg Dosa",
+      "price": "87",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/0af1ef657f66d9856687cdbd431b44b4",
+      "details": "A savory South Indian crepe filled with a delicious egg mixture, perfect for a hearty meal any time of day."
+    },{
+      "id": 15,
+      "name": "Egg Dosa",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/e4427bd5-4d9d-4475-8d8e-098618196f67_b56747ae-632c-4493-82f3-bba77d675c67.JPG",
+      "details": "Egg Dosa: Crispy dosa topped with a layer of beaten egg and served with coconut chutney and sambar, offering a delicious and protein-rich South Indian breakfast option."
+    }
+  ],"Paneer DosaItem":[
+    {
+      "id": 1,
+      "name": "Paneer Keema Dosa",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/22/e27e76de-fb4c-46ec-adf5-26b1aa0c6235_64672890-278b-4fca-8cc2-13aa573549f6.JPG",
+      "details": "A fusion dosa filled with a spicy and savory paneer keema, blending the flavors of cottage cheese and aromatic spices in a crispy dosa."
+    },
+    {
+      "id": 2,
+      "name": "Panneer dosa",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/9/535882ce-7b92-43bd-942b-64ca1a650c8b_41e530c9-7f80-4752-8fb7-d34db20b04f2.JPG",
+      "details": "Indulge in a delightful blend of creamy cheese and delicate spices, wrapped in a crispy golden crust."
+    },
+    {
+      "id": 3,
+      "name": "Paneer Masala Dosa",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/zqvimozge9cnfaqjeqwv",
+      "details": "A delectable and flavorsome Indian crepe filled with a tantalizing blend of paneer and aromatic spices."
+    },
+    {
+      "id": 4,
+      "name": "Ghee Paneer Podimas Dosa",
+      "price": "175",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/28/08822b27-e931-4b56-bb15-d274a2453493_71907693-c020-4dc3-a085-b669625d1f78.jpg",
+      "details": "Our speciality bangalore benne dosa with a spicy paneer podimas filling."
+    },
+    {
+      "id": 5,
+      "name": "Dosa Paneer",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/28/13fa4513-ccd5-4ae0-8692-ce9cc34b3250_3d02794f-9544-4dc0-a527-3775074c22cc.jpg",
+      "details": "A delightful fusion where dosa, the South Indian rice crepe, is filled with a flavorful stuffing of paneer (cottage cheese) and spices, creating a delicious and satisfying meal.Item includes 1 Piece Dosa Paneer, Sambhar, Coconut Chutney, Onion-Tomato Chutney."
+    },
+    {
+      "id": 6,
+      "name": "Panneer masala dosa",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/9/f0cae424-4a2c-41d3-801a-d019c1e32e59_56c65050-c44f-4796-89bf-d09797fdebc9.JPG",
+      "details": "A delectable combination of crispy, golden crepes filled with a rich, creamy paneer mixture, offering a delightful burst of flavors in every bite."
+    },
+    {
+      "id": 7,
+      "name": "Paneer Manchurian Dosa",
+      "price": "148",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/19/3f09e173-7415-4ed9-98b8-f422de18411a_2325a275-d976-409e-9116-2ca46ed5021b.jpg",
+      "details": "A delectable fusion of Indian and Chinese flavors, this Speciality Dosa features succulent paneer in a mouthwatering Manchurian sauce."
+    },
+    {
+      "id": 8,
+      "name": "Paneer Masala Dosa",
+      "price": "148",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/26/490e3818-0cde-431f-85a9-69fee8199ae5_c57782db-0083-4b3c-8cbe-de3debf05c16.jpg",
+      "details": "A flavorful and indulgent specialty dosa with a delightful filling."
+    },
+    {
+      "id": 9,
+      "name": "Paneer Keema Dosa",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/22/e27e76de-fb4c-46ec-adf5-26b1aa0c6235_64672890-278b-4fca-8cc2-13aa573549f6.JPG",
+      "details": "A fusion dosa filled with a spicy and savory paneer keema, blending the flavors of cottage cheese and aromatic spices in a crispy dosa."
+    },
+    {
+      "id": 10,
+      "name": "Paneer Tikka Dosa",
+      "price": "158",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/16/01bc77a0-b9ff-4303-80e4-ba1e56f4d83b_b868839a-bd99-4271-950a-80fd7c8b55db.JPG",
+      "details": "A flavorful and savory delight that combines the goodness of paneer tikka with the wholesome indulgence of a traditional dosa."
+    },
+    {
+      "id": 11,
+      "name": "Paneer Dosa",
+      "price": "185",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/28/6945f2f1-34b3-4ad5-b89d-a2ea324643ed_e48dd1b5-90f5-4970-8591-4f7855c9e98d.JPG_compressed",
+      "details": "A delectable and flavorful South Indian breakfast option that combines the irresistible taste of paneer with a crispy dosa."
+    },
+    {
+      "id": 12,
+      "name": "Paneer Dosa",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1da35be019c158b07cd2dc5238458032",
+      "details": "An authentic North Indian delight featuring a savory blend of traditional flavors and a rich, creamy filling."
+    },
+    {
+      "id": 13,
+      "name": "Paneer Dosai ",
+      "price": "175",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/bceafd4411f19916add79057e2f8749b",
+      "details": "A delightful and flavorful Indian delicacy with a crispy and golden-brown outer, filled with a generous amount of creamy and succulent paneer."
+    },
+    {
+      "id": 14,
+      "name": "Paneer Dosa",
+      "price": "196",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ycw9zqwqmtx2kqqthwg5",
+      "details": "Paneer + Pepper Powder + Malli"
+    },
+    {
+      "id": 15,
+      "name": "Paneer Masala Dosa",
+      "price": "194",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/54807499-7765-45dc-b814-300e1b1bbe08_9c3d932f-c5c8-4141-9b3d-8b707220014a.jpg",
+      "details": "A dosa filled with a mildly spiced paneer masala stuffing."
+    }
+  ],"Rava DosaItem":[
+    {
+      "id": 1,
+      "name": "Rava Dosai",
+      "price": "95",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/08005b79-9e6a-4c45-9258-59c349b1ec4e_4e545adf-4019-42dd-abe6-005a4ce635ec.JPG",
+      "details": "A fluffy and flavorful dosa with a deliciously crispy texture, perfect for a satisfying vegetarian meal."
+    },
+    {
+      "id": 2,
+      "name": "Rava Dosa",
+      "price": "110",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/15/56a0bd38-dac5-40ac-8e0f-e00540cd17c4_ff1ef756-2673-4c04-a998-20432a96b1f4.JPG",
+      "details": "A crispy South Indian pancake made from semolina and rice flour. Served with sambar and chutney"
+    },
+    {
+      "id": 3,
+      "name": "Rava Dosa",
+      "price": "79",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/y9uzgtyz4vprvvo2fs9m",
+      "details": "serves 1"
+    },
+    {
+      "id": 4,
+      "name": "Rava Dosai",
+      "price": "70",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/9/1d6f0ebc-4c43-4e72-8514-248ab0f63f12_06648b6b-a865-48a9-b137-d34d2520ee27.JPG",
+      "details": "A delectable South Indian specialty that delights with its crispy texture and aromatic flavors."
+    },
+    {
+      "id": 5,
+      "name": "Rava Dosa",
+      "price": "88",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/19/86cd250d-8d33-4e9e-90bb-88a2b176940f_0100dbc0-dd63-499e-b70f-5ea25d11852b.jpg",
+      "details": "A delectable South Indian treat perfect for breakfast or brunch, offering a crispy and flavorful sensation on the palate."
+    },
+    {
+      "id": 6,
+      "name": "Rava Dosa",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/wzmmle37wshvytfjvyu7",
+      "details": "Crispy dosa made from a mix of rice batter and rava."
+    },
+    {
+      "id": 7,
+      "name": "Rava Dosa",
+      "price": "85",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/25/d4779e02-880f-486a-a406-b9cfbebaf3e2_246c5563-a783-4eb7-bb51-50b9eb966c29.JPG",
+      "details": "A delectable and flavorful South Indian specialty, this crispy golden pancake satisfies with its unique combination of textures and flavors."
+    },
+    {
+      "id": 8,
+      "name": "Onion Rava Dosa",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/2/62d979f4-59b8-4050-90e0-6f8ae4260c57_c438327a-af88-4d8f-8a44-af297cab9dea.jpg",
+      "details": "A crispy South Indian pancake made from semolina, enhanced with finely chopped onions and spices for added flavour and texture. Served with samabr and chutney"
+    },
+    {
+      "id": 9,
+      "name": "Onion Rava Dosa",
+      "price": "96",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/bdabb34569c87982dce59a4581694863",
+      "details": "Crispy golden South Indian delight with a delectable onion filling."
+    },
+    {
+      "id": 10,
+      "name": "Rava Dosa",
+      "price": "184",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/29/fd015580-ec0d-47c6-bf7b-429570c3e2b4_e2483cb9-ab7d-4579-867b-d63de6a2583b.jpg",
+      "details": "Thin, Lacy Dosa Made With Rava Flour."
+    },
+    {
+      "id": 11,
+      "name": "Onion Rava Dosa",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/17c301d1bfbb879e2906109ecfeafc01",
+      "details": "Onion sprinkled Crispy crepe with black peppers and aromatic spices; served with sambar and 2 chutneys"
+    },
+    {
+      "id": 12,
+      "name": "Plain Rava Dosa",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/deb4ffc838b2880f66c9fbc9a0486874",
+      "details": "Crispy South Indian crepe with black peppers and aromatic spices; served with sambar and 2 chutneys"
+    },
+    {
+      "id": 13,
+      "name": "Rava Dosa",
+      "price": "180",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/c65ce6088bcbbc5ac9959ea2c3bc8217",
+      "details": "Thin and crispy dosa made with semolina, offering a delightful crunch and texture."
+    },
+    {
+      "id": 14,
+      "name": "Rava Dosa",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/0f06df63bb2e6b83232ec88aab996002",
+      "details": "Rava Dosa is a popular South Indian crepe made from a batter of semolina (rava), rice flour, and all-purpose flour."
+    },
+    {
+      "id": 15,
+      "name": "Plain Rava Dosai",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/16/68bda7d1-5f39-4f57-b03f-3b73167a798d_eb92adfc-13fe-4900-aea0-026e82226212.JPG",
+      "details": "Light and crispy South Indian delight made with a traditional recipe, perfect for a satisfying breakfast or dinner."
+    }
+  ],"Kal DosaItem":[
+    {
+      "id": 1,
+      "name": "Kal Dosai",
+      "price": "85",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/5e833d3e-2e24-4503-b147-8efccbf66dcc_47fc31f5-171b-4ed7-99a4-46d51781e093.JPG",
+      "details": "A flavorful and savory South Indian delicacy that will tantalize your taste buds."
+    },
+    {
+      "id": 2,
+      "name": "Kal Dosa (2 Pcs)",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/0896ad8114b948d7b2d68b93e9b34bbe",
+      "details": "Kal Dosa is a traditional South Indian thin, crispy, and soft pancake made from fermented rice and urad dal batter, cooked on a hot griddle (kal)."
+    },
+    {
+      "id": 3,
+      "name": "Kal Dosa(2Pcs)",
+      "price": "90",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ceb8bdda6efa223bf32e171b5d44d384",
+      "details": "A delightful South Indian specialty perfect for vegetarians, offering a burst of flavors and a unique culinary experience."
+    },
+    {
+      "id": 4,
+      "name": "Kal Dosa",
+      "price": "78",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/26/debad526-54d3-436d-8ebe-66430e52f09a_3ed805e7-7caa-4f4b-ab8e-c56a2abedaf4.JPG",
+      "details": "A flavorful and savory South Indian delicacy filled with unique and satisfying flavors."
+    },
+    {
+      "id": 5,
+      "name": "Kal Dosa (2)",
+      "price": "108",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/eoq1k5dw8rp2ttpfghbo",
+      "details": "A flavorsome vegetarian dosa that will tantalize your taste buds with its unique blend of aromatic spices."
+    },
+    {
+      "id": 6,
+      "name": "Kal Dosa",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/13/df986162-c041-4409-8a1a-08c4f7ab092d_6a8aefb2-d699-42be-8008-29e030fcdbec.jpg",
+      "details": "4 kal dosa,sambar,chutney"
+    },
+    {
+      "id": 7,
+      "name": "Kal Dosa With Poondu Vengaya Thokku",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/22/1c9dd4f1-3f93-4929-b869-0d70391f8ddf_640372e7-1ac5-4593-9c17-d876341c6f5f.JPG",
+      "details": "Thin and crispy dosa served with flavorful and spicy garlic onion chutney, offering a delightful and aromatic experience."
+    },
+    {
+      "id": 8,
+      "name": "Kal Dosa",
+      "price": "78",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/16/cc0c1183-3bfe-4cc0-839d-18aa68b16e08_4751c964-fd03-4272-93c9-eeca2964d1b4.JPG",
+      "details": "A crispy and flavorful South Indian specialty that will transport your taste buds to a world of tantalizing flavors!"
+    },
+    {
+      "id": 9,
+      "name": "Kal Dosa With Poondu Vengaya Thokku",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/22/1c9dd4f1-3f93-4929-b869-0d70391f8ddf_640372e7-1ac5-4593-9c17-d876341c6f5f.JPG",
+      "details": "Thin and crispy dosa served with flavorful and spicy garlic onion chutney, offering a delightful and aromatic experience."
+    },
+    {
+      "id": 10,
+      "name": "Kal Dosai [2 Nos] With Nattu Kozhi Gravy",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/81e0fbc4-4994-46cb-b5c6-b920dcedb1e8_af53ab93-2eb0-4f26-beec-30e2c7662107.jpg",
+      "details": "2 Nos Kal dosai served with Nattu Kozhi gravy with one piece chicken"
+    },
+    {
+      "id": 11,
+      "name": "Kal Dosai [2 Nos] With Chicken Paya",
+      "price": "255",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/6325f35a-4570-4f4d-bf96-5535d16b2fb3_e9564bc5-10c1-48f6-9bda-b9c225bdb12c.jpg",
+      "details": "2 Nos Kal dosai served with chicken paya"
+    },
+    {
+      "id": 12,
+      "name": "Kal dosa nos",
+      "price": "90",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/27/92d49933-7517-4719-b6ac-6d12f59db1f8_c6ffbf74-195f-4ac4-9bf6-74d96403daf3.jpg",
+      "details": "3 nos of kal dosa"
+    },
+    {
+      "id": 13,
+      "name": "Kal Dosai [2 Nos] With Chutney And Podi",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/c79d4f71-6d99-494e-92cb-473c7b13caed_c73da313-a3f5-4c70-a714-2e80e37d9840.jpg",
+      "details": "2 Nos kal dosai served with chutney and podi"
+    },
+    {
+      "id": 14,
+      "name": "2 Nos Kal dosai  served with Chicken pepper gravy",
+      "price": "255",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/6603eff3-4c77-48fe-bd88-b0bcf7611198_346371a9-1c8b-4a0d-81f5-7cfb0e7be174.jpg",
+      "details": "2 Nos Kal dosai  served with Chicken pepper gravy"
+    },
+    {
+      "id": 15,
+      "name": "Kal Dosai [2 Nos] With Vadacurry",
+      "price": "208",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/81f9f495-e24b-40f3-bf8f-e8eb23c717e5_a194f49f-640d-4903-854d-a7083d0dadc6.jpg",
+      "details": "2 Nos kal dosai served with vadacurry"
+    }
+  ],"Chicken Kari DosaItem":[
+    {
+      "id": 1,
+      "name": "Chicken Kari Dosa",
+      "price": "360",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/aced10cc-3170-477e-84dc-0c546bea451e_5559a192-d0ca-4d00-a23c-548574f4ff9b.jpeg",
+      "details": "Soft dosa topped with spicy chicken curry and cooked to perfection for a unique South Indian dish."
+    },
+    {
+      "id": 2,
+      "name": "Chicken Kari Dosa",
+      "price": "225",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/e19da8f1-fcca-4cd5-94ed-3663eb4bd2bd_86a93516-3c49-4219-a2bb-e3edd393d63e.jpg",
+      "details": "We recommend our guests to have the South Indian style delightful Kari dosa which is also the top-selling item in this category :)"
+    },
+    {
+      "id": 3,
+      "name": "Ghee Roast Dosa",
+      "price": "186",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/15/b9f97903-6d57-4096-9710-01a5a53701f4_a9d3123a-85e1-493d-aee0-1b45c3aedd43.jpg",
+      "details": "Supercrisp dosa cooked with a generous dousing of ghee perfect to satiate your cravings."
+    },
+    {
+      "id": 4,
+      "name": "Simakkal Chicken Kari Dosa",
+      "price": "219",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/19/f8aff09e-2322-4c78-9cba-a3e0b9f4936f_da46eb56-7ba2-424d-8ba9-e865ef638b23.jpg",
+      "details": "Crispy dosa layered with a spicy, succulent chicken kaima, offering a perfect balance of crunch and rich flavors. This satisfying dish is a great choice for those who love a flavorful south indian twist"
+    },
+    {
+      "id": 5,
+      "name": "Ghee Masala Roast Dosa",
+      "price": "214",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/15/b39af7fa-c01b-4be4-8e45-e5614c69d2c2_0dccdb11-175b-4383-94a0-858212240e22.jpg",
+      "details": "A dosa cooked with ghee and filled with a spicy masala mixture."
+    },
+    {
+      "id": 6,
+      "name": "Chicken Kari Dosa",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/23/4e9933e2-7ae9-42e6-9429-6c8781ba99f8_81d06ba6-e29f-4a38-8b3c-2d3b1ed66fc8.jpg",
+      "details": "A flavorful and savory twist on a classic dosa, featuring tender chukka of chicken in a fragrant curry sauce."
+    },
+    {
+      "id": 7,
+      "name": "Chicken kari Dosa",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/19/04b953a8-f295-481b-b837-11aba5c069c9_c4ba3ce1-94a5-4144-bc0f-d9e598fd7343.jpg",
+      "details": "A flavorful South Indian twist on a classic dosa, featuring tender chicken in a rich and aromatic curry sauce."
+    },
+    {
+      "id": 8,
+      "name": "Chicken Kari Dosa",
+      "price": "314",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/4/d9f9ac16-26d4-4f5b-b462-9f715e274501_437d62e8-502f-498c-840b-3dce92b90584.jpg",
+      "details": "South Indian Pancake With Meat Stuffing"
+    },
+    {
+      "id": 9,
+      "name": "Chicken kari dosai",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/2/dd9f76e6-6f76-4d95-870e-40b8281a50d7_5e28b5a3-a47e-48d8-9ea7-e2705e735b41.jpg",
+      "details": "A flavorful and indulgent dinner special featuring tender chicken in a delectable dosai wrap."
+    },
+    {
+      "id": 10,
+      "name": "Chicken Kari Dosai",
+      "price": "235",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/h2x0c6a82tl0tkag6ld6",
+      "details": "Served With Coconut chutney, Tomato Chutney, Pudina Chutney & Salna; Nutritional Information (per 100g) : Energy - 163kcal, Carbs - 11g, Protein - 16.4g, Fats - 5.9g. "
+    },
+    {
+      "id": 11,
+      "name": "Chicken Kari Dosai",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/26/d9df3d4c-9766-4981-a90e-57910612affa_78f99d2f-24df-497f-af0b-87bc9d43386d.JPG",
+      "details": "A flavorful and savory dinner special blending tender chicken with traditional South Indian dosai."
+    },
+    {
+      "id": 12,
+      "name": "Chicken Kari Dosa",
+      "price": "315",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1be2448cdec6a402324929a09099724b",
+      "details": "Chicken Kheema & Egg Spreaded Kal Dosa"
+    },
+    {
+      "id": 13,
+      "name": "Chicken Kari Dosa",
+      "price": "340",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/11/7c716621-48cc-4062-9081-4b5a1032106a_86b98397-0ee5-4466-84ca-097ec89de11d.JPG",
+      "details": "A delectable and flavorful meat-filled dosa that will tantalize your taste buds."
+    },
+    {
+      "id": 14,
+      "name": "Chicken Kari Dosa",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/j3ptil50kogfuzg2ylnt",
+      "details": "Tender chicken wrapped in a flavorful dosai, perfect for meat lovers seeking a delicious and aromatic delight."
+    }
+  ],"Ice Cream CakeItem":[
+    {
+      "id": 1,
+      "name": "Swiss Chocolate Ice Cream Cake",
+      "price": "1158",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/epcbfzje5zchw6dfpkxa",
+      "details": "A blend of swiss choco and cream n cookie ice cream with vanilla cake, fudge sauce and choco chips"
+    },
+    {
+      "id": 2,
+      "name": "Rajbhog Ice Cream Cake [700 G]",
+      "price": "600",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/31/c9124658-6803-44da-8544-f60e483ba28a_86f9d1e3-e79f-4b92-afbd-1f0ae99c1dac.jpg",
+      "details": "[Veg preparation] Full rajbhog ice cream cake saffron, cardamom and condensed milk flavored ice cream with saffron flavored syrup with nuts [almonds, pista and cashew] layered on a sponge cake with sweetened condensed milk infused whipped cream topped and side coated with nuts [almonds, pista and cashew]."
+    },
+    {
+      "id": 3,
+      "name": "Mango Kingdom Ice Cream Cake",
+      "price": "2829",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/19/fb136a9f-eb9b-4bed-bb71-f279572f61a4_516b59da-a837-41d1-bd5b-9ecbe7eab6e4.jpg_compressed",
+      "details": "A dessert for royalty made with mango kingdom ice cream and white chocolate shavings."
+    },
+    {
+      "id": 4,
+      "name": "Honey Almond Ice Cream Cake",
+      "price": "571",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/accd6f0b246d589c2420676c443c9c6c",
+      "details": "No. of Servings 4 Nutritional Information Energy(Kcal) 249.00 Protein(g) 4.56 Carbohydrate (g) 33.39 Added Sugar(g) 23.63 Total Fat(g)10.80 Saturated Fat (g) 5.32 Trans Fat(g)0.051 Cholesterol(mg)43.35 Sodium(mg)24.65 Allergen Information: Contains Milk, wheat & nuts."
+    },
+    {
+      "id": 5,
+      "name": "Black Forest Ice Cream Cake 1 Ltr",
+      "price": "620",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/972f3476eee99d69a688b6d307d784ec",
+      "details": "Confused between black forest cake and ice cream? What if you could have them both? Say hello to Black Forest Ice Cream with the taste of black forest cake and the texture of creamy ice cream."
+    },
+    {
+      "id": 6,
+      "name": "Choco Lava Fudge Cake With Ice Cream",
+      "price": "198",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/29/0202a069-7a4a-45f3-84fe-06d60e61a0bd_23f663e0-9b07-4f65-aa3c-96e918bc104d.jpg",
+      "details": "Savor the indulgence of warm, gooey fudge lava over rich chocolate ice cream, topped with crunchy nuts and a decadent drizzle of hot fudge. This sundae is a molten chocolate dream come true! serving size r / l. Approx. 395. 6 kcal / 699. 1 kcal per serve. "
+    },
+    {
+      "id": 7,
+      "name": "Golden fantasy cake slice",     
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/df23f23650bfd7311e12cab9e608cc62",
+      "details": "A Slice Of Rich Vanilla Ice Cream Sandwiched Between The Layers Of Freshly Baked Vanilla Cake Coated With Homemade Strawberry Sauce And Topped With Toasted Cashew And Homemade Crunchy Lonavali Chikki."
+    },
+    {
+      "id": 8,
+      "name": "Red Velvet Heartbeat (450Ml)",
+      "price": "315",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/15/ccd161ed-955e-4452-b139-55b16ea3d1d3_09cbc688-aa3a-48eb-b322-d3eb94e4aefa.jpg",
+      "details": "Try Our Limited Edition, Creamy And Delicious 'Red Velvet Heartbeat Icecream Cake' Now! ... May Be An Image Of Cake And Text That Says 'Havmor Ice Cream Har Bite"
+    },
+    {
+      "id": 9,
+      "name": "Mango Ice Cream Cake (500g)",
+      "price": "643",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/28/07181ffd-c463-49d5-b70d-7d1cb54dd91f_4370eaae-6377-4a42-af65-847498984665.jpg",
+      "details": "Delicious 4 layered?cake?made with 2 layers of vanilla sponge?cake?intermixed with 2 layers of fresh and juicy alphonso mango ice cream. Yummy white chocolate discs and whipped cream swirls on top will make your celebrations a lot sweeter!"
+    },
+    {
+      "id": 10,
+      "name": "Rice Krispie Ice Cream Cake",
+      "price": "191",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/5/0ed26112-c706-45aa-a493-a8511f2e587e_2428c584-b71a-4a13-a502-1d51beb8431f.jpg",
+      "details": "Rich double chocolate chip ice cream cake—layers of creamy chocolate ice cream packed with chocolate chips—finished with a crunchy rice krispie topping."
+    },
+    {
+      "id": 11,
+      "name": "Biscoff Ice Cream Cake (500g)",
+      "price": "778",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/28/8e5772e7-7cd7-47ac-8880-46f44bdb67a1_72b37aa6-7e4d-4d29-9551-8a44b2b8a588.jpg",
+      "details": "Soft vanilla sponge cake with biscoff ice cream, swirled with a cream caramel ribbon and topped off with biscoff cookie crumble. A biscoff style celebration!"
+    },
+    {
+      "id": 12,
+      "name": "Tiramisu Grande Ice Cream Cake",
+      "price": "571",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/isa23kbuyf9vo3nypatz",
+      "details": "A lush combination of Coffee-flavoured Ice cream cake, creamy Coffee Brazilia Ice Cream and dark chocolate cake. Topped with chocolate shavings. No. of Servings 4 Nutritional Information Energy(Kcal) 256.20 Protein(g) 4.56 Carbohydrate (g) 33.39 Added Sugar(g) 23.80 Total Fat(g)11.60 Saturated Fat (g) 5.32 Trans Fat(g)0.051 Cholesterol(mg)43.35 Sodium(mg)24.65 Allergen Information: Contains Milk & Milk Products."
+    },
+    {
+      "id": 13,
+      "name": "Vanilla Biscoff Cake",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/26/61f2d035-3cff-4a1d-b0ed-733b1785ba31_54ee0e2c-886a-4333-9e2f-a7b2461acc67.jpg",
+      "details": "Five Bean Vanilla Ice Cream sandwiched with Biscoff spread and topped with Biscoff biscuit crumble."
+    },
+    {
+      "id": 14,
+      "name": "Mango Ice Cream Cake",
+      "price": "1050",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/11/c42ab6ea-c588-407d-af65-ea4511346a32_db2dd3be-876d-42d9-89b7-ce754952bc67.jpg",
+      "details": "A dreamy slice of summer nostalgia, this mango ice cream cake layers creamy sweetness and sun-kissed mango in every blissful bite."
+    },
+    {
+      "id": 15,
+      "name": "Festive Cake Ice Cream",
+      "price": "109",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/19/1385b411-6fa7-4bec-b3eb-f8967fdffda5_9f90a532-91c2-45f4-985d-8914668e3d53.jpg",
+      "details": "Our signature flavour made with sweetened cocoa imported from Malaysian mixed with in-house made sponge cake"
+    }
   ]
 }
