@@ -1,7 +1,42 @@
 {
     "data":[
     {
-      "id": 7,
+      "id": 1,
+      "name": "",
+      "price": "",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id": 2,
+      "name": "",
+      "price": "",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id": 3,
+      "name": "",
+      "price": "",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id":4,
+      "name": "",
+      "price": "",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id":5,
+      "name": "",
+      "price": "",
+      "img": "",
+      "details": ""
+    },
+    {
+      "id":6,
       "name": "",
       "price": "",
       "img": "",
@@ -15,91 +50,56 @@
       "details": ""
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "",
       "price": "",
       "img": "",
       "details": ""
     },
     {
-      "id": 7,
+      "id": 9,
       "name": "",
       "price": "",
       "img": "",
       "details": ""
     },
     {
-      "id": 7,
+      "id": 10,
       "name": "",
       "price": "",
       "img": "",
       "details": ""
     },
     {
-      "id": 7,
+      "id": 11,
       "name": "",
       "price": "",
       "img": "",
       "details": ""
     },
     {
-      "id": 7,
+      "id": 12,
       "name": "",
       "price": "",
       "img": "",
       "details": ""
     },
     {
-      "id": 7,
+      "id": 13,
       "name": "",
       "price": "",
       "img": "",
       "details": ""
     },
     {
-      "id": 7,
+      "id": 14,
       "name": "",
       "price": "",
       "img": "",
       "details": ""
     },
     {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
-    },
-    {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
-    },
-    {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
-    },
-    {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
-    },
-    {
-      "id": 7,
-      "name": "",
-      "price": "",
-      "img": "",
-      "details": ""
-    },
-    {
-      "id": 7,
+      "id": 15,
       "name": "",
       "price": "",
       "img": "",

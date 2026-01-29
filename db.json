@@ -12162,5 +12162,641 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/19/1385b411-6fa7-4bec-b3eb-f8967fdffda5_9f90a532-91c2-45f4-985d-8914668e3d53.jpg",
       "details": "Our signature flavour made with sweetened cocoa imported from Malaysian mixed with in-house made sponge cake"
     }
+  ],"Chicken NoodlesItem":[
+    {
+      "id": 1,
+      "name": "Chicken Noodles",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ff68fd2ab3bcbe3b7c0b309c84562eb8",
+      "details": "Tender chicken paired with flavorful noodles, a delectable dish that will satisfy your cravings."
+    },
+    {
+      "id": 2,
+      "name": "Chicken Noodles",
+      "price": "325",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/e9mu9g2crrtethbsocdf",
+      "details": "Noodles and vegetables stir fried with scrambled chicken."
+    },
+    {
+      "id": 3,
+      "name": "Chicken Noodles",
+      "price": "194",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/r651chxs8h0flzpumsej",
+      "details": "Flavorful fried noodles tossed with bits of succulent chicken, assorted fresh veggies and flavorful spices."
+    },
+    {
+      "id": 4,
+      "name": "Chicken Noodle",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/21/f1c130fb-d107-4b4e-84a6-857b5e955479_f84e7ab1-c141-4e82-b792-85492c9c789b.jpg",
+      "details": "A flavor-packed preparation with juicy chicken chunks and vegetables in a delicious dressing. "
+    },
+    {
+      "id": 5,
+      "name": "Chicken Noodles",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/tknnxfb72uhd24st3cmu",
+      "details": "Boiled noodles mixed with pieces of chicken to have the exclusive Chinese taste"
+    },
+    {
+      "id": 6,
+      "name": "Chicken Noodles",
+      "price": "315",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/7/974a0470-f9d5-4a6d-9be3-f15aea742493_deb52f70-a7f0-40af-9777-a38fec697d8b.JPG",
+      "details": "The ever popular dish where noodles are prepared with seasoned ingredients, chopped vegetables, chicken pieces and tossed with garlic and sauces. Served with tomato sauce."
+    },
+    {
+      "id": 7,
+      "name": "Chicken Noodles",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/19/453ee96c-47e1-4eef-b859-2bc9f87eb1df_f4db4119-dc76-493b-b6a3-745d7c38104d.jpg",
+      "details": "Succulent chicken mixed with perfectly cooked noodles, a delightful dish for any meat lover."
+    },
+    {
+      "id": 8,
+      "name": "Chicken noodles",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/19/453ee96c-47e1-4eef-b859-2bc9f87eb1df_f4db4119-dc76-493b-b6a3-745d7c38104d.jpg",
+      "details": "Succulent chicken mixed with perfectly cooked noodles, a delightful dish for any meat lover."
+    },
+    {
+      "id": 9,
+      "name": "Chicken Noodles",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/8fb9a459-9359-4721-b700-ed846e6724c2_31d45446-e244-4d84-bc2f-37a91632ff65.JPG",
+      "details": "A Flavor-Packed Preparation With Juicy Chicken Chunks And Vegetables In A Delicious Dressing."
+    },
+    {
+      "id": 10,
+      "name": "Chicken noodles",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/7/5ec054f6-ba1f-409d-ad97-c4ae02475189_055bd90f-3cdb-4bc8-901d-b0ca945ea420.jpg",
+      "details": "Stir-fried noodles with tender chicken pieces and vegetables, a popular and satisfying dish."
+    },
+    {
+      "id": 11,
+      "name": "Chicken noodles",
+      "price": "289",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f58e3954315f7b680054f7f454b2bb00",
+      "details": "Stir-fried noodles tossed with tender pieces of chicken and a flavorful mix of vegetables, creating a delicious and satisfying meal option."
+    },
+    {
+      "id": 12,
+      "name": "Chicken Noodle",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/25/0895fd8f-900d-45a6-b1c8-b00b77f27917_994652dc-3235-4b46-8628-a8121fb10dbc.jpg",
+      "details": "Tender Chicken Mixed With Flavorful Noodles, A Perfect Combination For A Satisfying Meal."
+    },
+    {
+      "id": 13,
+      "name": "Chicken Noodle",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/3/38fa9a84-c498-4bf2-8ae6-3286c4e7be97_1128b55f-c50b-4c9d-9f11-7f82edfda6ab.jpeg",
+      "details": "A flavorful Biryani-style creation featuring tender chicken and delectable fried noodles for a mouthwatering experience."
+    },
+    {
+      "id": 14,
+      "name": "Chicken Noodles",
+      "price": "253",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cmkcn2nc1hmlq4wvuqat",
+      "details": "A scrumptious Chinese delicacy featuring succulent chicken and flavorful noodles."
+    },
+    {
+      "id": 15,
+      "name": "Chicken Noodles",
+      "price": "345",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/pfxlfotpfpw8cj9qjdc7",
+      "details": "Mildly spiced chicken pieces, egg and Noodles tossed  and seasoned"
+    }
+  ],"Egg NoodlesItem":[
+    {
+      "id": 1,
+      "name": "Egg Noodles",
+      "price": "172",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/18/5a752f4d-6bdc-47fb-8116-cf9f80955425_57d84a95-3196-4fc2-9ff2-868cc073fefb.JPG",
+      "details": "Serve 1"
+    },
+    {
+      "id": 2,
+      "name": "Egg Noodles",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/59ee0c86658f210430d918aaab0daf23",
+      "details": "Delicious noodles made with eggs for a satisfying and flavorful meal."
+    },
+    {
+      "id": 3,
+      "name": "Egg Noodles",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/o6iz8ecqnrw77zq8vkkt",
+      "details": "Noodles and vegetables stir fried with scrambled egg."
+    },
+    {
+      "id": 4,
+      "name": "Egg Noodles",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/21/79b6ecf4-9cb7-4330-b4af-d51bd8ee4d1b_98761479-2ff7-4a9a-9b85-eb14727c2e9a.jpg",
+      "details": "A delightfully hearty combo of egg noodles and spicy chicken manchurian and refreshing soda. "
+    },
+    {
+      "id": 5,
+      "name": "Egg Noodles",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/19/3d5f924c-5887-4d83-bd7a-a69bc5c30e2a_3e046d87-80b3-47bf-bab1-b91c92ac2ae6.jpg",
+      "details": "Delicious egg noodles tossed in a savory sauce, perfect for noodle lovers."
+    },
+    {
+      "id": 6,
+      "name": "Double Egg Hakka Noodles - Half (500 ml)",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/7/799081d1-9f5c-48bf-bd2b-7b03e26dafd8_1cb87853-00f2-4be2-9881-37324818f9e3.jpg_compressed",
+      "details": "Double the egg, double the love. Our Hakka noodles are loaded with crunchy veggies and dark soy goodness, all tossed to perfection in the wok. Energy 798.45 (kcal ), Carbohydrate 107.72 gms, Protein 20.48 gms, Fats 38.07"
+    },
+    {
+      "id": 7,
+      "name": "Egg Noodles",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/3/b7210db3-4717-4594-9afa-1095d8f640ad_331575f6-0302-45f3-8f05-241f6082120a.jpeg",
+      "details": "A mouthwatering combination of tender noodles and savory flavors, perfect for any non-vegetarian noodle lover."
+    },
+    {
+      "id": 8,
+      "name": "Egg Noodles",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ddec2974b7a16dd6433d4833bd363ca3",
+      "details": "Stir-fried noodles tossed with scrambled eggs and savory seasonings, offering a delicious and satisfying option for noodle lovers."
+    },
+    {
+      "id": 9,
+      "name": "Egg Noodles",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/d4527a2f-c448-4e49-8072-dfad55a886c4_7af5b869-9034-4d60-99d4-b36fe761d359.JPG",
+      "details": "Stir-Fried Noodles Tossed With Eggs And Vegetables."
+    },
+    {
+      "id": 10,
+      "name": "Egg Noodles",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/19/41405e79-6697-4b13-be03-48ef231e99e3_21b4e4c1-aed3-4c80-91c8-94ba18ffec2e.jpg",
+      "details": "A classic Chinese delicacy featuring tender egg noodles that bring rich flavor and a delightful texture to your plate."
+    },
+    {
+      "id": 11,
+      "name": "Egg Noodles",
+      "price": "143",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/25/ca9904e9-740a-415c-a135-c21b88816c55_27484719-129c-4385-982a-5e831081ae10.jpg",
+      "details": "Delicious Egg Noodles Featuring A Rich And Savory Flavor That Is Sure To Satisfy Your Craving For A Comforting And Hearty Meal."
+    },
+    {
+      "id": 12,
+      "name": "Egg Noodles",
+      "price": "158",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/lby8iabrghzqbe166i5m",
+      "details": "Serves 1-2"
+    },
+    {
+      "id": 13,
+      "name": "Egg Noodles",
+      "price": "273",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/sp5ps9nljcvm7qbullhb",
+      "details": "Delight in the savory flavors of this delectable combination of egg and satisfying noodles, expertly crafted to tantalize your taste buds."
+    },
+    {
+      "id": 14,
+      "name": "Egg Noodles",
+      "price": "182",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/uz6sle9cvprw8n4bakje",
+      "details": "Noodles sauteed with assorted vegetables & scrambled eggs in soy sauce."
+    },
+    {
+      "id": 15,
+      "name": "Egg Noodles",
+      "price": "279",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/xut0dkey66rlzsetryen",
+      "details": "Healthy and tasty, stir-fried noodles and scrambled eggs tossed in an Indo-Chinese tempering of exotic herbs."
+    }
+  ],"Chicken Schezwan NoodlesItem":[
+    {
+      "id": 1,
+      "name": "Schezwan Chicken Noodles",
+      "price": "193",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/f7b80f6e-cde4-4e9e-8d97-244080ce263c_c2ff4f6e-cda6-4fac-9ca5-6f1fc5a54736.JPG",
+      "details": "Boiled noodles mixed with pieces of chicken and schezwan sauce to have the exclusive Chinese taste served with sauces."
+    },
+    {
+      "id": 2,
+      "name": "Schezwan Chicken Noodles",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/3/5486b6bd-2545-4bc5-bad8-f8dbef4e66a7_05cd86a7-d467-42c8-9c8d-a67be044bf77.jpeg",
+      "details": "A tantalizing blend of flavors tossed with tender chicken and stir-fried noodles, delivering an explosion of taste."
+    },
+    {
+      "id": 3,
+      "name": "Chicken Schezwan Noodles - Half (500 ml)",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/7/72f8c32b-868a-4e58-87d4-483d7428de55_6f0b4cad-8420-4188-bf35-abff1b718f25.jpg",
+      "details": "Spicy Schezwan sauce meets chicken, egg and veggies in a wok-fried riot of flavours. One slurp and you're hooked. Energy 492.715 (kcal ),  Carbohydrate 66.275 gms, Protein 16.34 gms, Fats 21.125gms"
+    },
+    {
+      "id":4,
+      "name": "Chicken Schezwan Noodles",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/i7obcrjmfaekoeozkash",
+      "details": "Chicken schezwan noodles rice is a traditional chinese preparation of cooked rice, vegetables, protein, soy sauce, and aromatics. The ingredients are stir-fried in a large pan or wok for even flavor distribution."
+    },
+    {
+      "id":5,
+      "name": "Chicken Schezwan Noodles",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/19/e329205f-e69f-4982-89d6-967e2f77e23d_b5bd07ee-4552-4236-a28f-abb7ac2ca14f.jpg",
+      "details": "A flavorful blend of tender chicken and savory noodles coated in a rich, aromatic sauce that will leave you craving more."
+    },
+    {
+      "id":6,
+      "name": "Chicken Schezwan Noodles Bowl",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/28/73c41818-dbe8-4b3a-9821-915bedac6bca_f901badb-bc93-4e8f-a386-9cb6c955c209.jpg",
+      "details": "Egg, chicken, and veggies tossed in spicy Schezwan sauce with noodles. Garnished with spring onion  hot and hearty."
+    },
+    {
+      "id": 7,
+      "name": "Schezwan Chicken Noodle",
+      "price": "290",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/7/42234b61-10de-4458-ab91-68b4547dd005_1eca67b5-ca5e-4160-b5a5-2b453759e7cc.jpg",
+      "details": "Spicy stir-fried noodles with chicken and vegetables, tossed in a bold Schezwan sauce."
+    },
+    {
+      "id": 8,
+      "name": "Chicken Schezwan Noodles",
+      "price": "223",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/19/a46f50c5-cedf-4ec0-931e-926ac9bf3971_e0b17002-6c82-449e-a87e-8a13a3e9be48.jpg",
+      "details": "Delicious Stir-Fried Noodles Tossed With Succulent Chicken In A Flavorful And Vibrant Schezwan Sauce."
+    },
+    {
+      "id": 9,
+      "name": "Chicken Schezwan Noodles",
+      "price": "259",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/3/7d831b59-de49-46c2-b970-e5186234d39d_4406f1db-968d-4e71-bfea-95e5a3fdf675.png",
+      "details": "Noodles - 650 Gms. Wok-tossed noodles with tender chicken, vibrant veggies, and fiery Schezwan sauce for a bold, spicy flavour"
+    },
+    {
+      "id": 10,
+      "name": "Schezwan Chicken Noodle",
+      "price": "485",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/78ff3d40412a781d33b0e7f5c6e85bac",
+      "details": "A dish that combines the choice of vegetables, chicken, noodles, and the distinctive flavors of szechuan sauce"
+    },
+    {
+      "id": 11,
+      "name": "Schezwan Chicken Noodles",
+      "price": "364",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/10/ded5c574-3040-43ad-abeb-b687c8e3a1b3_14b94070-8fc5-4588-9263-fa74a9ce7c09.JPG",
+      "details": "Tantalizing stir-fried noodles with tender chicken in a sensational, flavor-packed sauce."
+    },
+    {
+      "id": 12,
+      "name": "Sechezwan Chicken Noodles Spicy",
+      "price": "309",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/99bed670262f8711536a7c8e110a187c",
+      "details": "Stir-fried noodles with tender chicken pieces in spicy Schezwan sauce, offering a flavorful and satisfying non-vegetarian option."
+    },
+    {
+      "id": 13,
+      "name": "Combo 12  Schezwan Chicken Noodle And Chicken Manchurian",
+      "price": "266",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/hslqdt77b5ukskuuypez",
+      "details": "Schezwan Chicken Noodle + Chicken Manchurian"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Schezwan Noodles",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/28/96cb4899-e6f8-4b2e-af33-a097a49af15a_a8a6d865-f1b6-4eaa-8961-5ef37a0b433b.jpg",
+      "details": "Indulge in a tantalizing blend of savory chicken and aromatic noodles, bursting with irresistible flavors."
+    },
+    {
+      "id": 15,
+      "name": "Chicken Schezwan Noodles",
+      "price": "290",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/17/2fab12cc-9b20-4efd-ab9b-7a753bd2765b_74b1a0ce-b039-4f93-b4cf-2726bec865c7.JPG",
+      "details": "Noodles tossed with spicy chicken and Schezwan sauce, bold and delicious."
+    }
+  ],"Veg NoodlesItem":[
+    {
+      "id": 1,
+      "name": "Veg Noodles",
+      "price": "165",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/z35zmtghfptauy7fayf8",
+      "details": "Serve 1"
+    },
+    {
+      "id": 2,
+      "name": "Veg Noodles",
+      "price": "275",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/1/8c6234da-9cfe-46e6-8ccd-11976da67fd5_d6092d3d-63df-4238-8535-5dae250ab9a7.jpg_compressed",
+      "details": "Thin noodles stir-fried with fresh vegetables, soy sauce, and aromatic spices, offering a flavorful and satisfying Indo-Chinese dish!"
+    },
+    {
+      "id": 3,
+      "name": "Veg Noodles",
+      "price": "278",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/b069259b-95af-4d2d-b3a0-2e3c1ccc70d3_f0294650-1b63-446f-9f78-3fe6e0728540.jpg",
+      "details": "Stir fried noodles with mixed vegetables and spices, offering a light and savory dish."
+    },
+    {
+      "id":4,
+      "name": "Veg Noodles",
+      "price": "159",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/89c166f4b746573de7208e6ba884a797",
+      "details": "A perfectly seasoned and scrumptious blend of fresh vegetables and noodles, full of flavor and satisfaction."
+    },
+    {
+      "id":5,
+      "name": "Vegetable Noodles",
+      "price": "290",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ngbbvlfgxjbm8lqzvasc",
+      "details": "Soft noodles sauteed with vegetables and add toppings to your choice."
+    },
+    {
+      "id":6,
+      "name": "Veg Noodles",
+      "price": "275",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/7/edd38230-28f1-48ce-b8e9-c23d4d2fa153_e0024a13-7419-40c4-a265-6fd4a647c41b.JPG",
+      "details": "Lightly tossed noodles with crisp veggies and a flavorful blend of spices, perfect for a quick, wholesome meal."
+    },
+    {
+      "id": 7,
+      "name": "Veg Noodles",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/nadbvhdxclcv5lbboant",
+      "details": "A delightful medley of tender noodles tossed with vibrant vegetables, creating a savory and satisfying experience."
+    },
+    {
+      "id": 8,
+      "name": "Vegetable Noodles",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/28/02f0e64f-45f5-4dea-8a78-1f1ead5bd5fa_48ca2b5d-7d80-452b-bb56-36fc90c29513.JPG_compressed",
+      "details": "A nutritious and satisfying main course featuring a delightful blend of fresh vegetables and flavorful noodles."
+    },
+    {
+      "id": 9,
+      "name": "Veg Noodles",
+      "price": "143",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kupdqi3uhgicdezxhpcm",
+      "details": "Serve 1"
+    },
+    {
+      "id": 10,
+      "name": "Vegetable Noodles",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/3/c1f4b0b4-bda6-49c6-b390-e7df179e1489_88276dea-79f9-45db-b084-a052ff036079.jpeg",
+      "details": "Perfectly boiled noodles cooked with crunchy capsicum, cabbage, carrots, herbs and spices"
+    },
+    {
+      "id": 11,
+      "name": "Veg Noodles",
+      "price": "325",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/wzzkjewadea18r5uzhh5",
+      "details": "Chopped vegetables and Noodles stir fried and seasoned"
+    },
+    {
+      "id": 12,
+      "name": "Veg Noodles",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f86c6220d45250be3f4bada889f9bb21",
+      "details": "Stir-fried noodles tossed with a colorful mix of fresh vegetables and savory seasonings, creating a delicious and satisfying vegetarian dish."
+    },
+    {
+      "id": 13,
+      "name": "Veg Noodles",
+      "price": "345",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/21/ee9ce278-ff9c-43bc-bda5-03d8fad5aa72_37831c69-a982-4109-b2d0-f3dfe2cb942c.jpg",
+      "details": "Stir-fried noodles made with loads of mix vegetables"
+    },
+    {
+      "id": 14,
+      "name": "Veg Noodles",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/2/d017c53a-aa3b-40b2-aae6-6c8a624e63f2_91dd29ea-5f57-4dd5-bde7-0f9ca5e32869.jpg",
+      "details": "Stir-fried noodles with mixed vegetables in a light soy sauce."
+    },
+    {
+      "id": 15,
+      "name": "Vegetable Noodles",
+      "price": "196",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/10/20/c4453203-46c8-400e-be3a-1ecd4707c312_86e099fd-ea13-4641-ad73-737cde340065.jpg_compressed",
+      "details": "Served With Asian Hot Garlic Sauce"
+    }
+  ],"Hakka NoodlesItem":[
+    {
+      "id": 1,
+      "name": "Chicken Hakka Noodles - Half (500 ml)",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/7/be41e128-db25-4224-9e6b-e925e8ead9a5_daf5e930-5820-41df-82b8-749371d79cee.jpg_compressed",
+      "details": "No fuss, just flavour. Chicken, egg, veggies, and a dash of dark soya tossed to smoky perfection. Energy 731.17 (kcal ),  Carbohydrate 115.94 gms, Protein 16.5 gms, Fats 28.55gms"
+    },
+    {
+      "id": 2,
+      "name": "Veg Hakka Noodles Bowl",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/28/8f18062e-fd85-4b84-91e7-aad8805fad0e_d5146df7-8be8-43fe-8a70-c9ea9c282b1f.jpg",
+      "details": "Noodles tossed with cabbage, carrot, and onion in dark soy. Garnished with spring onion  classic, comforting, and familiar."
+    },
+    {
+      "id": 3,
+      "name": "Chicken Hakka Noodles",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/jv4yjqw4pvykpojxxkgf",
+      "details": "Chicken Hakka Noodles is a famous Chinese recipe. Made with fresh noodles, it has a strong flavor of soy sauce and garlic."
+    },
+    {
+      "id":4,
+      "name": "Veg Hakka Noodles",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/23/e7c3458d-26aa-4ffd-ad45-fb269d97dff9_415c6d2d-10fb-45d6-9173-69dc0a72e952.jpg",
+      "details": "Serve 1"
+    },
+    {
+      "id":5,
+      "name": "Chicken Hakka Noodles",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/21/6b2b27ba-e96d-4897-9941-6f9fd05f99de_bc01636d-ab52-40d5-8637-9a7d8045308a.png",
+      "details": "350 Gms - Stir-fried noodles tossed with juicy chicken and fresh veggies"
+    },
+    {
+      "id":6,
+      "name": "Hakka Chicken Noodles",
+      "price": "475",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b0034aa0912a463755860b74f117f813",
+      "details": "Stir-fried noodles with the choice of vegetables, & Chicken"
+    },
+    {
+      "id": 7,
+      "name": "Veg Hakka Noodles With Veg Manchurian",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/11/9d9f9bf0-7489-4b16-b653-5634de2b2481_07a9d1d9-a4d3-488b-8271-990a5f510c77.png",
+      "details": "Savor your dish - Veg Hakka Noodles with Veg Manchurian. (Serve 1) No added MSG."
+    },
+    {
+      "id": 8,
+      "name": "Hakka Veg Noodles",
+      "price": "425",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/46ed9a0e4593e751c6e881ca7c552824",
+      "details": "Stir-fried noodles with the choice of vegetables, combined with a flavorful combination of sauces"
+    },
+    {
+      "id": 9,
+      "name": "Chicken Hakka Noodles",
+      "price": "310",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/9/2f75e6a4-665e-4b09-a542-725f5e2083a3_d8d6320e-80f4-4eb1-911c-4e75ed76619a.jpg",
+      "details": "Noodles tossed with shredded chicken, vegetables, and oriental sauces. A timeless favourite that’s hearty, flavourful, and always satisfying."
+    },
+    {
+      "id": 10,
+      "name": "Veg Hakka Noodles",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/25/0301dfef-a42c-48d4-917c-cfe32cd870bb_c19657c5-2e40-4103-9a8e-fb5ce4d324e8.JPG",
+      "details": "A delectable blend of stir-fried vegetables and perfectly cooked noodles, bursting with flavors to satisfy your taste buds."
+    },
+    {
+      "id": 11,
+      "name": "Veg Hakka Noodles",
+      "price": "235",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/7/6bbac80f-5802-4252-8bca-6dfaae36d3a0_225d8c52-030b-42ed-bc89-4f4f02967e9d.jpg",
+      "details": "Silky noodles wok-tossed with vegetables and subtle seasoning. Light, flavourful, and irresistibly satisfying."
+    },
+    {
+      "id": 12,
+      "name": "Hakka Noodles",
+      "price": "360",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/20/1b6e2efe-0f76-4730-aa58-c8e06a74e9c4_397d563c-b65b-40de-b8e2-89be858328dd.JPG",
+      "details": "Authentic Hakka noodles wok-tossed with a vibrant medley of fresh  vegetables, aromatic herbs, and a savoury sauce."
+    },
+    {
+      "id": 13,
+      "name": "Hakka Noodles veg",
+      "price": "475",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/19/d4516983-d8ae-4874-84e2-f9a806d5d8b2_4febae3a-2bcc-4e37-a26c-b5f3b12dad89.jpg",
+      "details": "A popular Indochinese  dish of stir fried noodles, veggies and sauces. "
+    },
+    {
+      "id": 14,
+      "name": "Veg Hakka Noodles",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/25/66bfc295-7b7e-4d86-bea6-01461cc0077b_1b9625e8-37da-4ba4-b9ca-67df849d65f6.jpg",
+      "details": "Delight in a savory and flavor-packed creation of vegetable-infused noodles, offering a tempting and delectable experience."
+    },
+    {
+      "id": 15,
+      "name": "Schezwan Hakka Noodles",
+      "price": "235",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/25/18699d81-0bfc-473e-aaeb-a1aa6fd3184c_f27046c3-43dd-4fac-a53b-f7cb4efbf22e.JPG",
+      "details": "A delectable fusion of flavors and textures, this main course dish is a tantalizing blend of Chinese and Indian cuisines."
+    }
+  ],"Chicken Hakka NoodlesItem":[
+    {
+      "id": 1,
+      "name": "Chicken Hakka Noodles - Half (500 ml)",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/7/be41e128-db25-4224-9e6b-e925e8ead9a5_daf5e930-5820-41df-82b8-749371d79cee.jpg_compressed",
+      "details": "No fuss, just flavour. Chicken, egg, veggies, and a dash of dark soya tossed to smoky perfection. Energy 731.17 (kcal ),  Carbohydrate 115.94 gms, Protein 16.5 gms, Fats 28.55gms"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Hakka Noodles",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/21/6b2b27ba-e96d-4897-9941-6f9fd05f99de_bc01636d-ab52-40d5-8637-9a7d8045308a.png",
+      "details": "350 Gms - Stir-fried noodles tossed with juicy chicken and fresh veggies"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Hakka Noodles Bowl",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/28/a4bd0d81-c199-4e44-8c1f-056b3b7a1a7e_cd1470e6-6633-4f87-96ab-3b935ab70d15.jpg",
+      "details": "Egg, chicken, and veggies stir-fried with Hakka noodles in soy. Garnished with spring onion  classic, tasty, and convenient."
+    },
+    {
+      "id":4,
+      "name": "Chicken Hakka Noodles",
+      "price": "310",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/9/2f75e6a4-665e-4b09-a542-725f5e2083a3_d8d6320e-80f4-4eb1-911c-4e75ed76619a.jpg",
+      "details": "Noodles tossed with shredded chicken, vegetables, and oriental sauces. A timeless favourite that’s hearty, flavourful, and always satisfying."
+    },
+    {
+      "id":5,
+      "name": "Chicken Hakka Noodles",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/jv4yjqw4pvykpojxxkgf",
+      "details": "Chicken Hakka Noodles is a famous Chinese recipe. Made with fresh noodles, it has a strong flavor of soy sauce and garlic."
+    },
+    {
+      "id":6,
+      "name": "Hakka Chicken Noodles",
+      "price": "475",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b0034aa0912a463755860b74f117f813",
+      "details": "Stir-fried noodles with the choice of vegetables, & Chicken"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Hakka Noodles With Chicken Manchurian",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/21/0dcac76d-665b-4b64-8631-adfa9475d86f_6ed81a78-4521-43aa-b090-1f074f148fd3.png_compressed",
+      "details": "Chicken hakka noodles with chicken manchurian. No added MSG.(Serves - 1-2)."
+    },
+    {
+      "id": 8,
+      "name": "Chicken hakka noodles",
+      "price": "285",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/25/ebc22b88-448e-4982-8dd2-84f4d090bbb2_6385edba-a963-474d-a94f-74806731b84a.jpg",
+      "details": "Tender chicken mixed with flavorful noodles, a perfect combination for a delectable main course. 1-2 person | 750gm"
+    },
+    {
+      "id": 9,
+      "name": "Chicken Hakka Noodles - Full (1000 ml)",
+      "price": "319",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/7/be41e128-db25-4224-9e6b-e925e8ead9a5_daf5e930-5820-41df-82b8-749371d79cee.jpg_compressed",
+      "details": "Soft noodles, juicy chicken, crisp veggies and a splash of dark soya. Classic Hakka, wok-tossed the Chinese Wok way. Energy 954.86 (kcal), , Carbohydrate 122.34 gms, Protein 33.66 gms, Fats 42.72gms"
+    },
+    {
+      "id": 10,
+      "name": "Hakka Chicken Noodles ",
+      "price": "365",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dwxj34rlmrotw4nyunog",
+      "details": "Tender chicken mixed with flavorful noodles, a perfect combination for a delectable main course."
+    },
+    {
+      "id": 11,
+      "name": "Chicken Hakka Noodles",
+      "price": "330",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/10/51698b14-f6dd-4aaa-9e26-eeacd213aace_0e50ded9-7fa4-4365-89c3-f4ddf4fe9859.JPG",
+      "details": "A delectable preparation with noodles and chicken chunks cooked with vegetables; served with a dip."
+    },
+    {
+      "id": 12,
+      "name": "Chicken & Egg Hakka Noodles",
+      "price": "427",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/16/4de54a74-0e3d-4244-b26b-a0baa1f05afb_2c0abfde-e9b5-4a05-96e0-bf566f6c95e9.png_compressed",
+      "details": "Wok-tossed noodles with succulent chicken and a medley of vegetables, Wok-tossed noodles with succulent chicken and a medley of vegetables, all seasoned with bold spices and sauces for a satisfying, flavorful bite.Allergens : Wheat, Soy, Egg  Nutritional Information (Per 100g): Energy(kcal): 95.27, Carbohydrate(g): 8.17, Protein(g): 3.81, Fat(g): 5.41 Serving Size : 425g"
+    },
+    {
+      "id": 13,
+      "name": "Chicken Hakka Noodles",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/1/69de29c7-468d-4063-9ee5-028910ce652a_db99d260-81a4-4d41-9852-ccb0a202f1e5.jpg",
+      "details": "|serves 2| hakka noodles stir-fried with succulent chicken and vegetables, a classic chinese comfort dish"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Hakka Noodles",
+      "price": "229",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/11/c972ae55-061f-4fb8-8e7c-dab78231e1f7_d26cf45e-482e-4363-88cf-9a89415e688c.JPG",
+      "details": "Savor the savory combination of tender chicken and flavorful noodles in this delectable main course."
+    },
+    {
+      "id": 15,
+      "name": "Hakka Noodle Chicken",
+      "price": "669",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/2/3365bdc0-c5b0-45f4-b5cb-cd0e3946b98f_b3effdf6-e487-41f4-90c8-68dee25f986d.jpg",
+      "details": "Comes with Milk , Soy , Gluten and Egg | 400 gm | 1009 Kcal 1009 kcal."
+    }
   ]
 }
