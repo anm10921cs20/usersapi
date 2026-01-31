@@ -11027,6 +11027,112 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/23/7f39f169-e67d-4175-aea5-8e9003d9adc0_c16fe34b-f015-4e6e-a510-a5d881afc9f4.JPG",
       "details": "Golden and crispy Chinese Fried Chicken with a captivating blend of flavors that will transport you straight to the bustling streets of China's vibrant food scene."
     }
+  ], "Chinese GravyItem": [
+     {
+      "id": 1,
+      "name": "Chicken Manchurian Gravy - Half",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/7/66a48296-4666-48c1-bcc0-0567f07f9725_9a60e2a6-2bd3-4697-956e-52a4f2b08a25.jpg_compressed",
+      "details": "(Peppery & Non Spicy) Diced chicken, onion & capsicum tossed in classic Manchurian sauce. Energy 401.95 (kcal), Carbohydrate 37.57 gms, Protein 23.72 gms, Fats 15.06gms."
+    },
+    {
+      "id": 2,
+      "name": "Veg Manchurian - Half",
+      "price": "159",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/2/942d75cd-0e08-46e2-8744-ee95a832d518_152cbab1-2d2e-45e3-a342-0a8e7778f682.png",
+      "details": "Vegetable coins made up of chopped mix vegetables served in manchurian sauce with a dominant flavour of garlic and onion to it. NO MSG."
+    },
+    {
+      "id": 3,
+      "name": "Gobi Manchurian Gravy (cauliflower)",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/27/9a5ce1fa-6233-4189-84bb-6df904644a4b_e4cd85b4-24f4-40d9-868b-0fab62fd310d.jpg",
+      "details": "Deep fried Gobi in a mannchurian gravy"
+    },
+    {
+      "id":4,
+      "name": "Chilli Gobi Manchurian Gravy",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/1360d0fa-8ae2-484e-9877-0b4370ec1c1a_4134e64c-d95a-4d9c-8ff1-d3bd365ac571.JPG",
+      "details": "Chinese flavor chilli gobi manchurian gravy"
+    },
+    {
+      "id":5,
+      "name": "Mixed Veg Manchurian Gravy",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/olctabrmiapfu0ers9fx",
+      "details": "Mixed vegetable dumplings in a tangy Manchurian sauce."
+    },
+    {
+      "id":6,
+      "name": "Veg Manchurian Gravy - Half",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/jxlfpc8pbrlacbx4zhld",
+      "details": "(Peppery & Non Spicy) Mix veg fried fritters, onion and capsicum tossed in classic Manchurian sauce. Energy 454.75 (kcal),  Carbohydrate 39.82 gms, Protein 16.6 gms, Fats 23.58gms"
+    },
+    {
+      "id": 7,
+      "name": "Chilly Fish Gravy (basa Fish)",
+      "price": "519",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/6e32f65f91f6283c7917738c16a955ee",
+      "details": "Featuring tender fish in a  saucy flavour."
+    },
+    {
+      "id": 8,
+      "name": "Garlic Chicken Dry",
+      "price": "175",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/4439a882-03a6-4912-abbe-e7e293725f73_762a8a0c-a52e-497c-b910-58b2d52e3bcb.JPG",
+      "details": "A delectable Chinese specialty featuring succulent pieces of chicken cooked with the perfect garlic-infused dry and gravy blend."
+    },
+    {
+      "id": 9,
+      "name": "Garlic Panneer Gravy",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/26/fac6af2c-a81d-4891-a9d5-b53afaf1caf3_47a24245-58da-4cd5-bac9-497aba7c371f.JPG",
+      "details": "A flavorful Chinese gravy featuring succulent panneer coated in garlic-infused goodness."
+    },
+    {
+      "id": 10,
+      "name": "Chicken Hot Garlic Gravy",
+      "price": "264",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/10/a707572d-0ba8-42bd-b867-b148f3f9c1a7_5b599bf4-804a-431e-934b-454225d9d09a.jpg",
+      "details": "|serves 2| tender chicken in a spicy hot garlic gravy with capsicum and onions"
+    },
+    {
+      "id": 11,
+      "name": "Paneer Manchurian Gravy",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/22/90ea95bd-7203-485f-bf50-5c7a24721d4d_334321c5-ae31-47d8-bfeb-a91fa2b0a681.JPG",
+      "details": "Paneer (Indian Cheese) Cooked In A Tangy And Spicy Manchurian Sauce, Served With Gravy."
+    },
+    {
+      "id": 12,
+      "name": "Ginger Gobi Gravy",
+      "price": "225",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/13/0a244ab8-00c8-454f-a163-168cf8df3a42_20bba867-569e-4d9d-abe8-29605ccb9338.JPG",
+      "details": "A delectable Chinese gravy featuring the delightful combination of ginger and cauliflower, perfect for veggie lovers."
+    },
+    {
+      "id": 13,
+      "name": "Chicken Hot Garlic Gravy",
+      "price": "264",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/10/a707572d-0ba8-42bd-b867-b148f3f9c1a7_5b599bf4-804a-431e-934b-454225d9d09a.jpg",
+      "details": "|serves 2| tender chicken in a spicy hot garlic gravy with capsicum and onions"
+    },
+    {
+      "id": 14,
+      "name": "Chilli Basil Vegetable",
+      "price": "425",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/9ee6aadbc123c65adfc7877a98a2f922",
+      "details": "Exotic vegetables cooked in Chilli Basil Sauce & garnished with fresh herbs"
+    },
+    {
+      "id": 15,
+      "name": "Chicken 65 ( Boneless)",
+      "price": "212",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/wuohrd3wdtat4oglafe4",
+      "details": "Crispy and flavorful boneless chicken, perfectly seasoned for an indulgent chicken special."
+    }
   ], "DessertsItem":[
     {
       "id": 1,
@@ -13222,6 +13328,218 @@
       "price": "129",
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/6/9406783b-b4cf-44bf-a1e5-da6a4e1beaa9_0091afe4-57be-4495-8fcf-81b817b28c62.jpg",
       "details": "Soft pancakes cooked with perfection and layered with rich biscoff sauce"
+    }
+  ],"Chocolate PancakeItem":[
+     {
+      "id": 1,
+      "name": "Milk Choco Pancake",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f5elqrffulovvdwcsjbg",
+      "details": "Silver dollar baby pancakes with delectable toppings"
+    },
+    {
+      "id": 2,
+      "name": "Belgian Milk Mini Pancakes (8 Pieces)",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/h6fkfhuvqiyvh0jw440t",
+      "details": "Classic Crispy Mini Pancakes + Melted Belgian Milk Choco. Simplicity At Its Best!"
+    },
+    {
+      "id": 3,
+      "name": "Choco Bliss Pancakes",
+      "price": "310",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/23/081ad622-fd28-4362-89ce-0293964d706d_557b25e6-12ed-4af9-843a-4693e7e99f25.jpg",
+      "details": "Fluffy pancakes infused with rich chocolate, topped with chocolate sauce. Size - 280 gms & 740 Kcal respectively. Allergen contains - Wheat, Milk, Soy"
+    },
+    {
+      "id":4,
+      "name": "Triple Chocomelt Mini Pancakes (8 Pieces)",
+      "price": "145",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ogueypid6hjhhmmzpgxc",
+      "details": "Signature dark choco batter + 3 layers of White, Milk and Dark melted Belgian Choco. The most indulgent Mini choco Pancakes!"
+    },
+    {
+      "id":5,
+      "name": "Milk Chocolate Pan Cake",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/26/1ed1c253-8a75-4142-8e5c-ad467e99435e_974b5a30-368e-433b-a929-53cd708f7bad.jpg",
+      "details": "Soft and Fluffy Mini Pancakes + Milk chocolate. Indulge in the chocolatey affair!"
+    },
+    {
+      "id":6,
+      "name": "Belgian White Chocolate Pancake",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/19/58b4f6df-523b-4838-a085-cca92f250ac7_bf0daaa2-a0f5-4850-96db-3e42f277f0d3.jpg",
+      "details": "Soft and fluffy pancake topped with a smooth Belgian white chocolate ganache and crumble.  You can choose between a regular or a gluten free option in the next step."
+    },
+    {
+      "id": 7,
+      "name": "Almond Chocolate Pancake",
+      "price": "185",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/16/4b0f5e63-1ec5-40de-b5e4-08920a6964c9_ca2e40f3-bceb-4a3b-89d7-b80a417cac24.jpg",
+      "details": "Soft and fluffy chocolate pancake served with a Belgian almond chocolate ganache, almond flakes and crumble. You can choose between a regular or a gluten free option in the next step."
+    },
+    {
+      "id": 8,
+      "name": "Dark Chocolate Pan Cake",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/26/3e7fd09a-eba0-4f22-a95e-5512e01f39a9_41e2baa1-7061-4217-9334-a99afd1630e8.jpg",
+      "details": "Soft and Fluffy Mini Pancakes + Dark chocolate. Experience the dark side of chocolate in every fluffy bite!"
+    },
+    {
+      "id": 9,
+      "name": "Belgian Dark Chocolate Pancakes",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/a7a68f1b773af779335c99f744fd667e",
+      "details": "We serve freshly baked twelve bite sized pancakes with delicious melted belgian chocolate."
+    },
+    {
+      "id": 10,
+      "name": "Chocolate Chip Mini Pancakes",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/11ec7874d5b55adbc227ae707ce205c2",
+      "details": "Pancakes loaded with pure belgian chocolate chips and topped with more belgian chocolate chips and serverd with powdered sugar"
+    },
+    {
+      "id": 11,
+      "name": "Triple Chocolate Mini Pancakes",
+      "price": "279",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/503f61ea9ef305ef91fd3030224997bc",
+      "details": "Pancakes loaded with pure belgian chocolate,immersed in dark,milk,and white chocolate"
+    },
+    {
+      "id": 12,
+      "name": "Dark And White Fantasy Chocolate Mini Pancakes",
+      "price": "279",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/11ec7874d5b55adbc227ae707ce205c2",
+      "details": "Pancakes loaded with pure belgian chocolate chips and topped with more white chocolate and dark chocolate  and served with powdered sugar"
+    },
+    {
+      "id": 13,
+      "name": "Raspberry And White Chocolate Mini Pancakes",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b46716f5b5e86dcc697c5444e8b3ee04",
+      "details": "Pancakes loaded with pure raspberry chocolate chips and topped with more belgian chocolate chips and serverd with powdered sugar "
+    },
+    {
+      "id": 14,
+      "name": "Kitkat Mini Pancakes (8 Pieces)",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/5/25240590-8364-4b90-8dc4-0c306d3774a9_9d6e76b9-f431-4582-a05d-301aeca35603.png",
+      "details": "Classic Crispy Mini Pancakes + Melted Belgian White Chocolate And KitKat Bits. For KitKat Lovers!"
+    },
+    {
+      "id": 15,
+      "name": "Belgian Dark Mini Pancakes (8 Pieces)",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/5/37885a20-e17b-4a8e-8060-3f69ae9f52cb_89a57fdd-37ed-44fd-866c-5b4bf0ca071d.png",
+      "details": "Classic Crispy Mini Pancakes + Melted Belgian Dark Choco. Darker Simplicity!"
+    }
+  ],"Mini PancakeItem":[
+     {
+      "id": 1,
+      "name": "Belgian Milk Mini Pancakes (8 Pieces)",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/h6fkfhuvqiyvh0jw440t",
+      "details": "Classic Crispy Mini Pancakes + Melted Belgian Milk Choco. Simplicity At Its Best!"
+    },
+    {
+      "id": 2,
+      "name": "Triple Chocomelt Mini Pancakes (8 Pieces)",
+      "price": "145",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ogueypid6hjhhmmzpgxc",
+      "details": "Signature dark choco batter + 3 layers of White, Milk and Dark melted Belgian Choco. The most indulgent Mini choco Pancakes!"
+    },
+    {
+      "id": 3,
+      "name": "Milk Chocolate Pan Cake",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/26/1ed1c253-8a75-4142-8e5c-ad467e99435e_974b5a30-368e-433b-a929-53cd708f7bad.jpg",
+      "details": "Soft and Fluffy Mini Pancakes + Milk chocolate. Indulge in the chocolatey affair!"
+    },
+    {
+      "id":4,
+      "name": "Belgium Milk Chocolate  [Mini Pancakes]",
+      "price": "136",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/3/8c039032-edc8-4444-9fe1-3b78e697a95d_dd1d3ae3-6098-436d-aa5f-c6cf24459576.jpg",
+      "details": "Classic Fluffy Mini Pancakes + Melted Belgium Milk Chocolate topped with Dark Chocochips. From our oven to your heart!"
+    },
+    {
+      "id":5,
+      "name": "Triplet  [Mini Pancakes]",
+      "price": "144",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/3/1e7e4b44-5fdd-4451-9b60-f43d27539985_d790876a-5693-4342-9c74-175f7abe4b64.jpg",
+      "details": "Signature Dark Chocolate Mini Pancakes + Three Layers Of Melted White Chocolate, Belgium Milk Chocolate & Belgium Dark Chocolate topped with Dark Chocochips. Indulge into the sizzle of mouthwatering pancakes!"
+    },
+    {
+      "id":6,
+      "name": "Nutty Nutella Pancakes",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/6670db3c7b0fa5a4a8f30c3a3e796b25",
+      "details": "Twelve freshly baked vanilla pancakes layered with nutella and topped with almonds and cashewnuts."
+    },
+    {
+      "id": 7,
+      "name": "Red Velvet Pancakes",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1787ccf57a1b1fb132caf72d44b9ca25",
+      "details": "Freshly baked sinful red velvet pancakes layered with rich cream and topped with fancy balls"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Chip Mini Pancakes",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/11ec7874d5b55adbc227ae707ce205c2",
+      "details": "Pancakes loaded with pure belgian chocolate chips and topped with more belgian chocolate chips and serverd with powdered sugar"
+    },
+    {
+      "id": 9,
+      "name": "Classic Mini Pancakes",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f3e52f885315b881cd19cd9d8d0db2b3",
+      "details": "Pancakes with portion pf maple syrup and butter "
+    },
+    {
+      "id": 10,
+      "name": "Triple Chocolate Mini Pancakes",
+      "price": "279",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/503f61ea9ef305ef91fd3030224997bc",
+      "details": "Pancakes loaded with pure belgian chocolate,immersed in dark,milk,and white chocolate"
+    },
+    {
+      "id": 11,
+      "name": "Blueberry Mini Pancakes",
+      "price": "279",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/evculem6t93qfrgf4pim",
+      "details": "Pancakes loaded with pure belgian chocolate chips and topped with blueberry chocolate and served with powdered sugar"
+    },
+    {
+      "id": 12,
+      "name": "Triple choco overloaded",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f3b51cfabedd76a44015fbf5d47fee0a",
+      "details": "Mini pancakes with triple chocoltaes"
+    },
+    {
+      "id": 13,
+      "name": "Kitkat Mini Pancakes (8 Pieces)",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/5/25240590-8364-4b90-8dc4-0c306d3774a9_9d6e76b9-f431-4582-a05d-301aeca35603.png",
+      "details": "Classic Crispy Mini Pancakes + Melted Belgian White Chocolate And KitKat Bits. For KitKat Lovers!"
+    },
+    {
+      "id": 14,
+      "name": "Lotus Biscoff Mini Pancakes (8 Pieces)",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/30/0bd1990a-6a30-4ebb-b614-788dc8f84f6b_4dc9016a-1f20-4832-bbcd-6e76d16106bd.png",
+      "details": "Signature Black Velvet Mini Pancakes + Fondant of melted white chocolate topped with crunchy Lotus Biscoff bits. An all time favourite!"
+    },
+    {
+      "id": 15,
+      "name": "Naked Nutella Mini Pancakes (8 Pieces)",
+      "price": "165",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kpbsnny0wersugehn7qm",
+      "details": "Classic Crispy Mini Pancakes + Premium European Chocolate Hazelnut Spread (Add Banana If You Like). A Universal Favourite!"
     }
   ]
 }
