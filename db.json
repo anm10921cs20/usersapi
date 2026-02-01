@@ -13541,5 +13541,281 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kpbsnny0wersugehn7qm",
       "details": "Classic Crispy Mini Pancakes + Premium European Chocolate Hazelnut Spread (Add Banana If You Like). A Universal Favourite!"
     }
+  ],"Oreo PancakeItem":[
+    {
+      "id": 1,
+      "name": "Classic Pancake ",
+      "price": "320",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/uz2lgwjokqgvrkv0o23v",
+      "details": "Served with maple flavoured syrup, butter and whipped cream"
+    },
+    {
+      "id": 2,
+      "name": "Oreo & Cream Cheese Pancakes",
+      "price": "215",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/19/e300de65-5488-46ca-8737-641c6578bb27_25b5a452-412e-4a97-873b-3a80211929fd.jpg",
+      "details": "Soft and fluffy pancake served with crushed oreos and a sweetend cream cheese. You can choose between a regular or a gluten free option in the next step."
+    },
+    {
+      "id": 3,
+      "name": "Biscoff Cheesecake* Waffle",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/4/589852c5-da69-4817-82ee-4666664b1e5d_ef39cb2f-bab9-498d-b5aa-500ace5aa0db.png",
+      "details": "Classic Crispy Waffle layered with creamy Cheesecake & Lotus Biscoff filling, topped with lotus biscoff crumbles.Its a Dreamy, Creamy & Caramelly affair! *Cheesecake flavour filling, contains spray dried cheese powder"
+    },
+    {
+      "id":4,
+      "name": "Kiki & Oreo Waffle Cake (Double Layer)",
+      "price": "625",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/fxatt8nrpmsquqshuk7e",
+      "details": "Signature black velvet double layer waffle cake layered thick inside and out with Kiki spread and topped with Crushed Oreos. A universal favorite! (Sorry! Our special waffle cakes do not allow for any customization. We do not provide candles or cutlery with this order)"
+    },
+    {
+      "id":5,
+      "name": "Chocolate Chip Mini Pancakes",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/11ec7874d5b55adbc227ae707ce205c2",
+      "details": "Pancakes loaded with pure belgian chocolate chips and topped with more belgian chocolate chips and serverd with powdered sugar"
+    },
+    {
+      "id":6,
+      "name": "Oreo Signature Pancake",
+      "price": "119",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/7/e57fdeb7-4b50-4b2c-9972-d8e2faab3f52_1f716330-ea9b-47c6-a0e7-6c6cc157f4b9.jpg",
+      "details": "Soft pancakes cooked with perfection and layered with chuncks of oreo cookies"
+    },
+    {
+      "id": 7,
+      "name": "Oreo Smash ( Mini Pancakes )",
+      "price": "159",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ccc382961030234fea547b82ed8fc3a5",
+      "details": "Vanilla base waffle + black & white chocolate + oreo(inside & top) + toppings"
+    },
+    {
+      "id": 8,
+      "name": "Waffle syrup -Oreo Pancake",
+      "price": "180",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/18/3a7dfa31-52a9-4e88-8c45-feee06de15f4_e3b3ddd3-52c0-421f-840e-36430666ed5d.jpg",
+      "details": "A decadent combination of fluffy waffles, sweet syrup, and crumbled Oreos for a perfect breakfast indulgence."
+    },
+    {
+      "id": 9,
+      "name": "Oreo Pancake",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/27/cebe93a8-f7bb-4624-ab89-0559479f40f2_11c96909-ff84-4835-a5fe-0e859b934450.jpg",
+      "details": "Indulge in a sweet and decadent treat with layers of crushed Oreos nestled between fluffy pancakes."
+    }
+  ],"Nutella PancakeItem":[
+    {
+      "id": 1,
+      "name": "Nutella Stuffed Pancake",
+      "price": "385",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/29/f7782822-dce8-44a2-9a41-70786fa813cf_87739eb6-3ff2-4c37-9792-23c3e5ab8e1a.jpg_compressed",
+      "details": "CAKES STUFFED WITH NUTELLA , SERVED WITH WHIPPED CREAM"
+    },
+    {
+      "id": 2,
+      "name": "Naked Nutella Mini Pancakes (8 Pieces)",
+      "price": "165",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kpbsnny0wersugehn7qm",
+      "details": "Classic Crispy Mini Pancakes + Premium European Chocolate Hazelnut Spread (Add Banana If You Like). A Universal Favourite!"
+    },
+    {
+      "id": 3,
+      "name": "Pancakes With Nutella",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f3b51cfabedd76a44015fbf5d47fee0a",
+      "details": "Pancakes loaded with pure  chocolate chips and topped with more nutella chocolate  and served with powdered sugar (8 pieces)"
+    },
+    {
+      "id":4,
+      "name": "Nutella Cheesecake* Waffle",
+      "price": "215",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/4/0880c427-4934-42dc-9cad-595e4233ccb4_2beafb7b-aaa6-4e01-9645-f0af44fcc25a.png",
+      "details": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/4/0880c427-4934-42dc-9cad-595e4233ccb4_2beafb7b-aaa6-4e01-9645-f0af44fcc25a.png"
+    },
+    {
+      "id":5,
+      "name": "Purely Nutella Pancake",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/19/46aeb85b-eef8-4412-9a1d-46e910e102b9_25bc1a3c-4908-4f4b-a1f1-25a2d1d192b8.jpg",
+      "details": "Soft and fluffy pancake served with Nutella, whipped cream and crumble. You can choose between a regular or a gluten free option in the next step."
+    },
+    {
+      "id":6,
+      "name": "Nutella Filled Pancake",
+      "price": "295",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/19/b40a2c37-9019-4d82-937b-ba5e53d470b4_9f3edb4a-3065-4a96-b83f-eff832e4de92.jpg",
+      "details": "One large size pancake with Nutella stuffed inside served with white chocolate ganache and whipped cream. You can choose between a regular or a gluten free option in the next step."
+    },
+    {
+      "id": 7,
+      "name": "Mini Pancake With Nutella",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f3b51cfabedd76a44015fbf5d47fee0a",
+      "details": "Pancakes loaded with pure belgian chocolate chips and topped with more nutella chocolate chips and serverd with powdered sugar"
+    },
+    {
+      "id": 8,
+      "name": "Nutella Waffle",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/3bfdac3831c478b1891515024628f178",
+      "details": "Two slices of waffles of your choice layered with nutella and and topped with Chocolate sauce and roasted almonds."
+    },
+    {
+      "id": 9,
+      "name": "Nutella Mousse Pancakes",
+      "price": "215",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/19/954cb312-aa1c-4f0b-b543-fcd6e7d263e1_948f8724-0a3b-47ca-92fb-01bacdc3d144.jpg",
+      "details": "Soft and fluffy pancake served with nutella mousse and vanilla ice cream. You can choose between a regular or a gluten free option in the next step."
+    },
+    {
+      "id": 10,
+      "name": "Nutella Waffles",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/mu1eai4m8p3zjlol5yti",
+      "details": "Nutella spread, freshly whipped cream."
+    },
+    {
+      "id": 11,
+      "name": "Nutella Waffle",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/12/5c086fed-888c-40f1-a950-6caefba8f2f0_6e48bd61-adfd-4587-aca5-2d2c131b0277.jpg",
+      "details": "Two slices of waffles of your choice layered with nutella and topped with chocolate sauce and cashewnuts"
+    },
+    {
+      "id": 12,
+      "name": "Nutella Croissant",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/29b81bd679765d04cc3d26cf570462e0",
+      "details": "Buttery and flaky French breakfast bread stuffed with Nutella and dipped half in dark chocolate"
+    },
+    {
+      "id": 13,
+      "name": "Nutella Mini Pancakes",
+      "price": "247",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/hzerccrqttd1bnvjsmaf",
+      "details": "A portion of twelve bite-sized soft pancakes smothered with Nutella and topped with chocolate sprinkles."
+    },
+    {
+      "id": 14,
+      "name": "Nutella signature pancake",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/6/3dae87ca-1385-4613-bb07-0dce76f594db_4c3f4220-3988-414e-a0f7-59edc179231d.jpg",
+      "details": "Soft pancakes cooked with perfection and layered with rich nutella sauce"
+    },
+    {
+      "id": 15,
+      "name": "Naughty Nutella ( Mini Pancakes )",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/a66175e7842126fa1fe5fa8c989e83b1",
+      "details": "Vanilla base waffle + nutella chocolate + toppings"
+    }
+  ],"Protien PancakeItem":[
+    {
+      "id": 1,
+      "name": "Mughlai Chicken Curry Bowl (Protein - 26g)",
+      "price": "",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/29/ca2c698b-32fd-4303-b1bd-bffe71caaa02_8a94bb6f-aefc-45d0-95be-168ed31a3892.jpeg",
+      "details": "543kCal, Protein - 26g, Carbs - 39g, Fat -28g Rich and buttery Mughlai chicken curry with rice."
+    },
+    {
+      "id": 2,
+      "name": "Naked Nutella Mini Pancakes (8 Pieces)",
+      "price": "165",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kpbsnny0wersugehn7qm",
+      "details": "Classic Crispy Mini Pancakes + Premium European Chocolate Hazelnut Spread (Add Banana If You Like). A Universal Favourite!"
+    },
+    {
+      "id": 3,
+      "name": "Protein Pro Masala Paneer Tikka Wrap",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/5/56f93da2-2d42-4452-9178-e45c59b55c39_1356d21c-7814-4fa8-9652-f164c562e9ba.jpeg",
+      "details": "Extra paneer, extra satisfaction. Freshly marinated paneer tikka with cooked onions, signature smoky flavours and a drizzle of minty-spicy mayo, wrapped in a warm whole wheat paratha. A familiar favourite, now made more filling with added 20g protein! (Energy: 739KCal, Carbohydrates: 50gm, Proteins: 18gm, Fats: 51gm, Sodium: 438mg)"
+    },
+    {
+      "id":4,
+      "name": "Kitkat Mini Pancakes (8 Pieces)",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/5/25240590-8364-4b90-8dc4-0c306d3774a9_9d6e76b9-f431-4582-a05d-301aeca35603.png",
+      "details": "Classic Crispy Mini Pancakes + Melted Belgian White Chocolate And KitKat Bits. For KitKat Lovers!"
+    },
+    {
+      "id":5,
+      "name": "Nutella Filled Pancake",
+      "price": "295",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/19/b40a2c37-9019-4d82-937b-ba5e53d470b4_9f3edb4a-3065-4a96-b83f-eff832e4de92.jpg",
+      "details": "One large size pancake with Nutella stuffed inside served with white chocolate ganache and whipped cream. You can choose between a regular or a gluten free option in the next step."
+    },
+    {
+      "id":6,
+      "name": "Butter Chicken Rice Bowl with Seekh Kebab (Protein-42g)",
+      "price": "429",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/21/e09a6023-9380-42aa-8a87-5ab95e5ceb1e_92d1add8-2bf6-473d-837c-d0608f485192.jpeg",
+      "details": "(500 gms) Butter makes everything better, but chicken makes everything best! Creamy butter chicken served with rice, salad and delicious chicken seekh. (Energy: 835KCal, Carbohydrates: 62gm, Proteins: 42gm, Fats: 45gm, Sodium: 321mg)"
+    },
+    {
+      "id": 7,
+      "name": "Belgian White Chocolate Pancake",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/19/58b4f6df-523b-4838-a085-cca92f250ac7_bf0daaa2-a0f5-4850-96db-3e42f277f0d3.jpg",
+      "details": "Soft and fluffy pancake topped with a smooth Belgian white chocolate ganache and crumble.  You can choose between a regular or a gluten free option in the next step."
+    },
+    {
+      "id": 8,
+      "name": "Paneer Tikka Salad Roll (Protein-25g)",
+      "price": "229",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/23/16d3de35-a1bc-414a-92e6-051ee88e642c_de3fce1e-ef0c-4642-adbf-b404cd061667.jpeg",
+      "details": "Smoked to perfection, soft cottage cheese is paired with crunchy capsicum, corn & onion salad then drizzled with mayo & wrapped in a wholewheat paratha. Ticks all the right checkboxes. (Energy: 745KCal, Carbohydrates: 51gm, Proteins: 20gm, Fats: 51gm, Sodium: 1321mg)"
+    },
+    {
+      "id": 9,
+      "name": "Uthappam",
+      "price": "80",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/4e4f21ec9c6ec9f2b77061f6268e516b",
+      "details": "A savory South Indian pancake time of day."
+    },
+    {
+      "id": 10,
+      "name": "Zero Sugar Pancake Syrup [355Ml]",
+      "price": "312",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/12/0fb895af-6fdc-430c-9541-567fe0b056a9_f33087eb-c49f-4f8d-aa01-542aa4fc717f.jpg_compressed",
+      "details": "Nothing tops this topping! With only 20 calories per serving and ZERO Sugar, this syrup is the perfect condiment for your pancakes, waffles and sundaes."
+    },
+    {
+      "id": 11,
+      "name": "Classic Pancakes",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/7a24432da6717f323da9c7de486b16e3",
+      "details": "Fluffy golden pancakes drizzled with golden maple syrup. Size - 230 gms & 540 Kcal respectively. Allergen contains - Wheat, Milk"
+    },
+    {
+      "id": 12,
+      "name": "High-Protein Butter Chicken Rice Bowl with Seekh Kebab",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/29/4ee3d379-3306-421e-b18c-550773fee727_76eaff83-9330-4ed0-ba1e-92ca2851312d.jpeg",
+      "details": "A high protein feast that delivers on taste. Creamy butter chicken paired with rice and succulent chicken seekh kebab for a power packed, satisfying meal."
+    },
+    {
+      "id": 13,
+      "name": "Dal Makhni Rice Bowl with Dahi Kebab (Protein-25g)",
+      "price": "359",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/21/309def23-8a93-49d1-a75e-bbf66951b8d8_9b5f9b0e-ff89-4965-bee9-75593bdb8faa.jpeg",
+      "details": "(450 gms) Best of both the worlds in a bowl. Creamy dal makhani served with rice, salad and soft dahi kebabs. Calories (Kcals) 765, Carbs (Gms) 101, Proteins (Gms) 24, Fats (Gms) 31 (Energy: 746KCal, Carbohydrates: 58gm, Proteins: 26gm, Fats: 44gm, Sodium: 1131mg)"
+    },
+    {
+      "id": 14,
+      "name": "Whey Protein",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/fs1q6x6vbqm9dyfbozlr",
+      "details": "Whey powder (20gms) + frozen milk"
+    },
+    {
+      "id": 15,
+      "name": "Breakfast Pancakes",
+      "price": "295",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/11/acf72ba5-41a4-42f6-ad68-4cea2208ef46_d07838fb-562e-40a7-898e-ea6ecfbc8fe9.jpg_compressed",
+      "details": "Japanese-style fluffy pancakes, served with seasonal fruits, banana, whipped cream and maple syrup. Size - 310 gms & 533 Kcal respectively. Allergen contains - wheat - Milk. An average active adult requires 2000 kcal energy per day."
+    }
   ]
 }
