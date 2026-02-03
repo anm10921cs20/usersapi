@@ -13817,5 +13817,296 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/11/acf72ba5-41a4-42f6-ad68-4cea2208ef46_d07838fb-562e-40a7-898e-ea6ecfbc8fe9.jpg_compressed",
       "details": "Japanese-style fluffy pancakes, served with seasonal fruits, banana, whipped cream and maple syrup. Size - 310 gms & 533 Kcal respectively. Allergen contains - wheat - Milk. An average active adult requires 2000 kcal energy per day."
     }
+  ],"Chicken Kizhi ParathaItem":[
+     {
+      "id": 1,
+      "name": "Chicken Kizhi Parotta",
+      "price": "335",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/fe587775-8b4c-40dc-b24b-22e16522e24e_b8625e30-cc3e-40b5-8412-c8ed1b59267d.jpeg",
+      "details": "Parotta layered with spiced chicken, wrapped in a banana leaf, and steamed for an aromatic delight."
+    },
+    {
+      "id": 2,
+      "name": "Chicken Kizhi Parotta",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dljnndades2fajenpgxy",
+      "details": "Parotta Stuffed With Chicken Sukka And Kurma, Pouched In Banana Leaf And Grilled, Serve Hot"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Kizhi Parotta",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/5202814edc8ffe48cfd22332c47aef50",
+      "details": "A fiery and flavorful Kizhi Parotta, packed with special ingredients and a spicy twist of tender chicken, all topped with a perfectly fried egg for an extra burst of taste!"
+    },
+    {
+      "id":4,
+      "name": "Chicken Kizhi Paratha",
+      "price": "339",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/k2euhdiqbg68iedxav4g",
+      "details": "2 Parotta sandwiched in specially prepared minced chicken curry topped with boiled egg"
+    },
+    {
+      "id":5,
+      "name": "Kizhi Chicken Parotta",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/2ba32f3722feae6b8f97bd259b2b6439",
+      "details": "Kizhi chicken parotta made with banana leaf. slices of cooked porotta is stuffed with fried chicken between the porottas, wrapped in banana leaf, tied into like a parcel with a knot on the top. Then the bundle is steamed for a few minutes, and then grill on top of a hot skillet charring the banana leaf, adding that extra incredible banana leaf and  aroma to inside the bundle."
+    },
+    {
+      "id":6,
+      "name": "Kizhi Parotta Chicken",
+      "price": "510",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/orhl5ebsxb6nahrymg64",
+      "details": "Parotta are soaked in a meat gravy and wrapped in a banana leaves"
+    }
+  ],"Aalu Paratha ComboItem":[
+     {
+      "id": 1,
+      "name": "Rice Krunch Bowl Combo",
+      "price": "399",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/11/b328f1b1-ed4e-4a95-9a8f-f02b071f7388_d001011b-08b5-469d-8d8e-0bb9643002e7.jpg",
+      "details": "Krunchy savings of Rs 69 on Popcorn Chicken Rice Bowl and 4 Pc Peri Peri Strips [Serves 1-2]"
+    },
+    {
+      "id": 2,
+      "name": "Veg Combo",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kxkhijyqals6kv5xgito",
+      "details": "Dal + Sabji (2) + Paratha (1 Pc) + Rice + Salad + Raita + Papad + Pickle."
+    },
+    {
+      "id": 3,
+      "name": "Kerala Paratha",
+      "price": "25",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/2e4337377b55a7885c82d8c5da8975f0",
+      "details": "A delectable Indian bread known for its flaky layers and impeccable taste that perfectly complements any vegetarian meal."
+    },
+    {
+      "id":4,
+      "name": "Non Veg Combo",
+      "price": "350",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/c29gx5fdpafoqc1wnxcc",
+      "details": "Dal + Chicken Kebab (2 Pcs) + Chicken Gravy + Rice + Salad + Raita + Papad + Pickle."
+    },
+    {
+      "id":5,
+      "name": "Aloo Paratha",
+      "price": "90",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/3e20853ae33bc26be6b925827bd08beb",
+      "details": "Delicious stuffed indian flatbread filled with flavorful mashed potatoes, served with curd and pickle."
+    },
+    {
+      "id":6,
+      "name": "Aloo Matar & Paratha Combo",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/30/7dc19fd3-b30d-40e4-8227-aad79b584a78_02537b2f-43d7-4f2b-99d3-da4d788bc864.jpg_compressed",
+      "details": "[Comforting | Serves 1] Homestyle Matar Aloo made in a savory gravy served with Lachha Paratha + Salad + Chutney. Nutritional Info (Per 100g): Energy: 200 Kcal | Carbohydrates: 17g | Protein: 5g | Fat: 11g"
+    },
+    {
+      "id": 7,
+      "name": "Paya with Flaky Paratha Combo",
+      "price": "379",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/20/75d5bcbd-2d7a-4c90-bf3d-7072f887b84f_d38ab641-4f22-4f1d-9e19-53ba303512a9.jpeg",
+      "details": "Slow-cooked Hyderabadi paaya simmered in rich, aromatic spices. Served with 2 No's flaky parathas for a hearty and flavourful meal."
+    },
+    {
+      "id": 8,
+      "name": "Aloo Paratha Chole Meal Combo",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/24/740c84dd-4de2-4662-8e15-f9c4d6a206cd_51843140-23d8-4206-a0ff-eb2e61c3a872.jpg",
+      "details": "Aloo paratha (4 slices), chole, curd, pickle, onion salad, mint chutney"
+    },
+    {
+      "id": 9,
+      "name": "Combo 1: Aloo Paratha+tawapulav+sweet+raita+pickle+salad",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/23/fec7bee3-23dc-48d0-bc0c-c1d696b2f87f_c2fec0c3-8168-4290-9f87-888ac473d55f.png",
+      "details": "The combo includes a stuffed golden brown paratha, flavorful tawa pulav, boondi raita, salads, a tangy pickle and mouthwatering gulab jamun or rasgulla. A satisfying and well rounded meal"
+    },
+    {
+      "id": 10,
+      "name": "Chicken Biryani Combo With Parotta",
+      "price": "295",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ezh3xh5mk8oywy8yglod",
+      "details": "Half Portion of Chicken Biriyani, Chicken 65, 1*Parotta, Raitha and Gravy"
+    },
+    {
+      "id": 11,
+      "name": "Kerala Paratha(3pcs)+Chicken Masala+Pepsi(250ml)",
+      "price": "260",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dcf461be59d16d3821905f50744dd5dd",
+      "details": "A flavorful combination of Kerala Paratha, succulent Chicken Masala, and a refreshing Pepsi."
+    },
+    {
+      "id": 12,
+      "name": "Combo Chat",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/14/fb85ad6c-babc-4044-a277-8eb1d130dbe9_f8be80c5-4bb1-4219-a5d2-d4db45640bd7.jpg",
+      "details": "Pav Bhaji 1pcs,Dhai Puri 1pcs,Pani Puri 2pcs,Masala Puri,Sev Puri,Chenna Masala and Pav Bhaji Masala"
+    },
+    {
+      "id": 13,
+      "name": "Chapati & Dal Makhani Combo",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/10/d2ade8cf-8fde-497a-8e13-1068af16cc09_c92607a5-8294-40dd-af4f-4fdf9a795de7.jpg",
+      "details": "Chapati (4 pieces ) + Dal Makhani"
+    },
+    {
+      "id": 14,
+      "name": "Idli Vada Combo (3 Pcs Idli + 1 Pc Vada)",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/22/3f30f2c8-60d5-474b-99ba-62a505dbf68f_c6a62a49-24bd-4fb4-a8f5-43e1b5eaaf82.JPG",
+      "details": "3 Pcs Idli + 1 Pcs Medhu Vada"
+    },
+    {
+      "id": 15,
+      "name": "Aloo Paratha",
+      "price": "89",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/2/f9f661a5-3e2d-40ec-88fd-094fcf9505bf_c2fe0224-2d0c-45ee-98c5-2ca78272865e.jpg",
+      "details": "A whole wheat flatbread stuffed with spiced potato filling."
+    }
+  ],"Double Paratha ComboItem":[
+     {
+      "id": 1,
+      "name": "Aloo Paratha & Double Omelette Combo",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/8/097f087c-ea74-45a4-a035-7b7bd24205c4_8ed40472-0787-4ab5-9212-14edf7636db3.jpeg",
+      "details": "Two warm & fresh Aloo Paratha served with a sumptuous omelette made of 2 eggs. (Energy: 1070KCal, Carbohydrates: 102gm, Proteins: 32gm, Fats: 58gm, Sodium: 556mg)"
+    },
+    {
+      "id": 2,
+      "name": "Multigrain Paratha Combo (Serves 1)",
+      "price": "399",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/8/7d116ffb-9ce2-4eb7-9534-668c6950c44c_24fb1b26-ed88-44fd-9a4f-5bcfec92ef6a.jpg",
+      "details": "Served with dal makhni, chole, raita, pickle and salad"
+    },
+    {
+      "id": 3,
+      "name": "Gobi Paratha & Double Omelette Combo",
+      "price": "259",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/8/b7a312e0-10fa-45c2-a7fd-2e3c46a1d454_57598b44-d01e-422c-937d-6bbbb5900dca.jpeg",
+      "details": "Dig into the goodness of Gobi Paratha paired with a fluffy omelette and a dollop of butter. It's the ultimate comfort breakfast with a hint of spice and everything nice! (Energy: 1018KCal, Carbohydrates: 92gm, Proteins: 31gm, Fats: 60gm, Sodium: 1908mg)"
+    },
+    {
+      "id":4,
+      "name": "Paratha Box Combo 1",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/10/29/aae31338-b436-4cb8-8cf2-0e9e9419efe2_7f43cc81-6885-44a2-a6cd-9707b4d5a409.jpg",
+      "details": "3 plain paratha+ paneer butter masala+ raita"
+    },
+    {
+      "id":5,
+      "name": "Roti Box Combo 1",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/30/46a34ab6-44dc-47e4-a138-26708765d5c0_59ff5b9a-c21f-4cc7-bdb8-b79574d4e039.jpeg",
+      "details": "4 roti+ paneer butter masala+ salad"
+    }
+  ],"Delhi Paratha ComboItem":[
+     {
+      "id": 1,
+      "name": "Delhi Style Kulche with Chole [2 pcs]",
+      "price": "227",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/684323e443820dbf347fd527708bd20b",
+      "details": "Soft Kulche (2 pcs) seared in butter, with chana masala. Allergens: Milk, Wheat Nutritional Information (Per 100g):Energy(Kcal):125.11,Protein (g):9.75,Carbohydrate (g):35.16,Fat (g):7.15 Serving Size : 350 g"
+    },
+    {
+      "id": 2,
+      "name": "Roti Value Combo",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/5/6883eab7-0a5a-4ab6-ac52-37593ecd0482_9757b85c-54a3-4c0e-b836-df98613392e8.jpg",
+      "details": "Choice of Bread (Phulka 3pc or Aloo Paratha 2 pc or Masala Kulcha 2pc) + Choice of Gravy + Dal Tadka + Onions + Pickle"
+    },
+    {
+      "id": 3,
+      "name": "Grill Chicken(delhi Style)",
+      "price": "347",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/29/d5839f81-b05a-4443-ad75-8b44feefba83_178d287a-f160-4b6c-87ec-0b63e9a18789.jpg",
+      "details": "Grill Chicken Delhi Style is marinated chicken grilled to perfection with bold North Indian spices and smoky flavors."
+    },
+    {
+      "id":4,
+      "name": "Delhi Papdi Chaat",
+      "price": "304",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/20/d985dfc0-6da1-4334-b286-8a4ed5548f24_3a542109-edcb-42a1-a44d-8b97fce7997e.jpg",
+      "details": "(350gms) chaat made of papdi, soft bhalla, sweetened yogurt, mint coriander chutney & sweet amchur chutney. [mild]"
+    },
+    {
+      "id":5,
+      "name": "Create Your Flavour Fun Combo - Box Of 2 - Veg Pizza",
+      "price": "218",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/7/e4a3d9a3-9997-4b73-accc-b029abeb1cc9_83eb91d8-7d3d-4463-8e7e-9188ba95bcf7.jpg_compressed",
+      "details": "Choose any 2 veg personal pizzas from our flavour fun range. For Meals, refer to the nutritional data for individual products."
+    },
+    {
+      "id":6,
+      "name": "Veg Combo",
+      "price": "320",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kxkhijyqals6kv5xgito",
+      "details": "Dal + Sabji (2) + Paratha (1 Pc) + Rice + Salad + Raita + Papad + Pickle."
+    },
+    {
+      "id": 7,
+      "name": "Non Veg Combo",
+      "price": "350",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/c29gx5fdpafoqc1wnxcc",
+      "details": "Dal + Chicken Kebab (2 Pcs) + Chicken Gravy + Rice + Salad + Raita + Papad + Pickle."
+    },
+    {
+      "id": 8,
+      "name": "Paya with Flaky Paratha Combo",
+      "price": "379",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/20/75d5bcbd-2d7a-4c90-bf3d-7072f887b84f_d38ab641-4f22-4f1d-9e19-53ba303512a9.jpeg",
+      "details": "Slow-cooked Hyderabadi paaya simmered in rich, aromatic spices. Served with 2 No's flaky parathas for a hearty and flavourful meal."
+    },
+    {
+      "id": 9,
+      "name": "Kerala Paratha",
+      "price": "25",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/2e4337377b55a7885c82d8c5da8975f0",
+      "details": "A delectable Indian bread known for its flaky layers and impeccable taste that perfectly complements any vegetarian meal."
+    },
+    {
+      "id": 10,
+      "name": "Combo 1: Aloo Paratha+tawapulav+sweet+raita+pickle+salad",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/23/fec7bee3-23dc-48d0-bc0c-c1d696b2f87f_c2fec0c3-8168-4290-9f87-888ac473d55f.png",
+      "details": "The combo includes a stuffed golden brown paratha, flavorful tawa pulav, boondi raita, salads, a tangy pickle and mouthwatering gulab jamun or rasgulla. A satisfying and well rounded meal"
+    },
+    {
+      "id": 11,
+      "name": "Combo 1 (Chicken Rice + Chilli Chicken)",
+      "price": "266",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/voo2wja6pbqayi1n4tgc",
+      "details": "Serve 1"
+    },
+    {
+      "id": 12,
+      "name": "Chicken Biryani Combo With Parotta",
+      "price": "295",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ezh3xh5mk8oywy8yglod",
+      "details": "Half Portion of Chicken Biriyani, Chicken 65, 1*Parotta, Raitha and Gravy"
+    },
+    {
+      "id": 13,
+      "name": "Malabar Paratha",
+      "price": "49",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/27/46477599-7a63-41f9-94b9-5859cbef4eff_7c2ec967-dd20-4d1f-b927-e39ab5e228bd.jpg",
+      "details": "[Does not include Gravy]"
+    },
+    {
+      "id": 14,
+      "name": "Boneless Chicken Parotta Combo",
+      "price": "235",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/12/3482f5b1-2ad2-45c7-bf24-b3a2f9f18743_4b36da3f-8012-489e-8cdc-19accdbf2cd8.png",
+      "details": "A yummy combo serving deep fried pieces of Chicken 65(3pcs), traditional chicken varuval masala and served with 2 pieces of fresh parottas."
+    },
+    {
+      "id": 15,
+      "name": "Indo Chinese Fusion Combo",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/hytchewr9j4hcid87bng",
+      "details": "Crispy chilly gobi (dry), paneer butter masala, paratha (2pcs), schezwan fried rice or noodles, hot garlic sauce gravy"
+    }
   ]
 }
