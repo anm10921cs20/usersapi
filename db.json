@@ -14370,5 +14370,302 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/aom1pbzqoxbfhr1ptrgy",
       "details": "Our ode to an all time classic -- A 70 year old recipe of Tandoori chicken tikkas getting tossed in a silky tomato gravy lush with butter and cream, paired with choice of bread, choice of beverage, laccha pyaz & mango pickle Disclosure: For allergens/nutritional information (including calories and serving size), please refer the individual item"
     }
+  ],"Kothu ParottaItem":[
+     {
+      "id": 1,
+      "name": "Chicken Kothu Parotta",
+      "price": "310",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/22c38ae7-ecf7-4583-b585-32f42bf3044b_3c334f2b-a273-451b-b98c-8955c479ea78.jpeg",
+      "details": "Shredded parotta stir-fried with chicken, eggs, and spices, delivering a delicious and filling dish."
+    },
+    {
+      "id": 2,
+      "name": "Egg Kothu Parotta",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/3e95d230-663a-4c4e-8c72-c136379f453e_c48f1aa1-7821-4209-8bea-5a2cb6f02a4e.jpeg",
+      "details": "Flaky parotta shredded and stir-fried with eggs, spices, and herbs for a hearty, flavorful meal."
+    },
+    {
+      "id": 3,
+      "name": "Egg Kothu Parotta",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/4b5cc55f0475f7e3c92053728f5475c5",
+      "details": "Paratha shredded into bite-sized pieces and stir-fried with scrambled egg along with other spices."
+    },
+    {
+      "id":4,
+      "name": "Veg Kothu Parotta With Salna (2 Pcs)",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/474472b4c6a01ac9f551e0cc29b8acc4",
+      "details": "Spicy and aromatic shredded parotta mixed with vegetables and served with salna."
+    },
+    {
+      "id":5,
+      "name": "Chicken Kothu Parotta",
+      "price": "273",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kncguapv6hxymuhnukrg",
+      "details": "Chopped parotta stir-fried with spiced chicken, creating a deliciously savory dish."
+    },
+    {
+      "id":6,
+      "name": "Egg Kothu Parotta",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/7/8c7d0dcc-4b4f-4bcb-9ffa-eee24b294752_084b3319-51db-4eb2-906a-2b170fcc50ac.JPG",
+      "details": "Mixed vegetable and Tawa scrambled parotta relish.; Nutritional Information (per 100g) : Energy - 226kcal, Carbs - 21.3g, Protein - 7.8g, Fats - 12.2g."
+    },
+    {
+      "id": 7,
+      "name": "Kothu parota",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/25/c80aaadd-c9ad-41d4-839e-f02156c4c584_67cb35ee-2db7-4c80-bc48-ec256cf5030d.jpg",
+      "details": "Serve 1"
+    },
+    {
+      "id": 8,
+      "name": "Chicken Kothu Parotta",
+      "price": "329",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/bc2c34711be11ad355091e870c5e2b3a",
+      "details": "Shredded poratta,chicken,onion,tomata,green chilly,spices mixed with spicy gravy,topped with scrambelled egg"
+    },
+    {
+      "id": 9,
+      "name": "Chicken Kothu Parotta",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/pqmhs4fvbzookdq1apsc",
+      "details": "A simple, yet wholesome combo juicy chicken kothu parotta | Served with flavor packed chicken gravy |"
+    },
+    {
+      "id": 10,
+      "name": "Chicken Kothu Parotta",
+      "price": "285",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/7/689a7968-62bd-4fa0-9ac6-d1b30f7ac583_c52a9204-19b4-4817-bb14-2720c724d524.JPG",
+      "details": "Shredded parotta and chicken scrambled and stir-fried in a skillet with spices and condiments  - Served With Salna.; Nutritional Information (per 100g) : Energy - 232kcal, Carbs - 14.9g, Protein - 12g, Fats - 13.8g."
+    },
+    {
+      "id": 11,
+      "name": "Egg Kothu Parotta",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/l8ezi6im0x8psn9kevgc",
+      "details": "A simple, yet wholesome combo containing egg kothu parotta | Served with flavor packed egg gravy |"
+    },
+    {
+      "id": 12,
+      "name": "Chicken Kothu Parotta",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/18/772d7f1c-65ab-4aab-9866-61b41c5b6ec2_4595f795-9433-49fc-a675-1042e0897712.jpg",
+      "details": "Minced Parotta Special Chicken Masala Preparation Tossed In Hot Tawa"
+    },
+    {
+      "id": 13,
+      "name": "Egg Kothu Parotta",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/18/1cfa6a29-bf09-4858-8b37-d2468efe9614_8b5403e5-10e1-4e37-8d88-af4624d369a8.jpg",
+      "details": "Minced Parotta With Special Egg Masala Preparation Tossed In Hot Tawa"
+    },
+    {
+      "id": 14,
+      "name": "Veg Kothu Parotta With Salna (2 Pcs)",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/474472b4c6a01ac9f551e0cc29b8acc4",
+      "details": "Spicy and aromatic shredded parotta mixed with vegetables and served with salna."
+    },
+    {
+      "id": 15,
+      "name": "Chicken kothu parotta",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/12/969bcb27-5992-41d7-b0c4-90b7c9f05a1d_2fe771a7-6794-4e81-8b75-8879b4aead9b.jpg",
+      "details": "Chicken kothu parotta is a spicy, flavorful south indian street food classic made by chopping flaky parottas and stir frying them with spiced chicken curry, eggs, onions, tomatoes, green chilies, and aromatic spices on a hot tawa [ griddle ]."
+    }
+  ],"Kizhi ParottaItem":[
+     {
+      "id": 1,
+      "name": "Spl Paneer Kizhi Parotta",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/iryqnfdfusxuo4nndj1d",
+      "details": "2 tawa roasted parottas layered with our spicy paneer masala, onions, curry leaves and wrapped inside a banana leaf and then steamed to perfection.| Chef's Special |"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Kizhi Parotta",
+      "price": "335",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/fe587775-8b4c-40dc-b24b-22e16522e24e_b8625e30-cc3e-40b5-8412-c8ed1b59267d.jpeg",
+      "details": "Parotta layered with spiced chicken, wrapped in a banana leaf, and steamed for an aromatic delight."
+    },
+    {
+      "id": 3,
+      "name": "Spl Mushroom Kizhi Parotta",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/27/c1381597-78d9-46a4-922e-b3e1f0791e4a_48364fef-e04c-4c7c-8f73-5251a9cf120e.jpg",
+      "details": "2 tawa roasted parottas layered with our spicy mushroom masala, onions, curry leaves and wrapped inside a banana leaf and then steamed to perfection. | Chef's Special |"
+    },
+    {
+      "id":4,
+      "name": "Mutton Kizhi Parotta",
+      "price": "410",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/4160bd10-99cd-4f9b-a97e-40dd68b4d70e_b3c0292c-0d5a-430c-85a3-24868bf18b7b.jpeg",
+      "details": "Mutton curry and parotta wrapped in banana leaves and cooked to perfection for a unique dish."
+    },
+    {
+      "id":5,
+      "name": "Chicken Kizhi Parotta",
+      "price": "339",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/k2euhdiqbg68iedxav4g",
+      "details": "2 Parotta sandwiched in specially prepared minced chicken curry topped with boiled egg"
+    },
+    {
+      "id":6,
+      "name": "Beef kizhi parotta",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/12/f75303aa-f2a5-4683-a981-2275bea42bf0_f069600e-c304-49cc-8bd2-41ab76617ccf.jpg",
+      "details": "Beef kizhi parotta is a rich, indulgent kerala delicacy where soft, flaky parottas are layered with spicy beef roast or beef curry, wrapped tightly in a banana leaf [ kizhi ], and then steamed to infuse all the flavors."
+    },
+    {
+      "id": 7,
+      "name": "Chicken Kizhi Parotta [ Boneless ]",
+      "price": "290",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/29/e04eea71-06f0-40a0-a982-4ad08ddd9add_4a61ad82-d8bb-4057-ad94-bb084eb07afc.jpg",
+      "details": "A savory and flavorful boneless chicken parcel in a deliciously soft and flaky special parotta, truly a delight to savor."
+    },
+    {
+      "id": 8,
+      "name": "Chicken Kizhi Parotta",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dljnndades2fajenpgxy",
+      "details": "Parotta Stuffed With Chicken Sukka And Kurma, Pouched In Banana Leaf And Grilled, Serve Hot"
+    },
+    {
+      "id": 9,
+      "name": "Chicken kizhi parotta",
+      "price": "260",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/12/f75303aa-f2a5-4683-a981-2275bea42bf0_f069600e-c304-49cc-8bd2-41ab76617ccf.jpg",
+      "details": "Chicken kizhi parotta is a flavourful and indulgent kerala style delicacy where layered parottas are combined with spicy, aromatic chicken masala, wrapped in a banana leaf [ kizhi ], and steam cooked or grilled to perfection."
+    },
+    {
+      "id": 10,
+      "name": "Kizhi Chicken Parotta",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/2ba32f3722feae6b8f97bd259b2b6439",
+      "details": "Kizhi chicken parotta made with banana leaf. slices of cooked porotta is stuffed with fried chicken between the porottas, wrapped in banana leaf, tied into like a parcel with a knot on the top. Then the bundle is steamed for a few minutes, and then grill on top of a hot skillet charring the banana leaf, adding that extra incredible banana leaf and  aroma to inside the bundle."
+    },
+    {
+      "id": 11,
+      "name": "Kizhi Parotta Chicken",
+      "price": "510",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/orhl5ebsxb6nahrymg64",
+      "details": "Parotta are soaked in a meat gravy and wrapped in a banana leaves"
+    },
+    {
+      "id": 12,
+      "name": "Chicken Kizhi Parotta",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/5202814edc8ffe48cfd22332c47aef50",
+      "details": "A fiery and flavorful Kizhi Parotta, packed with special ingredients and a spicy twist of tender chicken, all topped with a perfectly fried egg for an extra burst of taste!"
+    }
+  ],"Chilli ParottaItem":[
+     {
+      "id": 1,
+      "name": "Chilly Parotta",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/1/e832f446-8e46-480b-9352-6c01faed5d70_a1a8cad0-6979-47be-b0c3-4e7e6d6abf17.jpg",
+      "details": "Sudha specialty Shredded parotta slow roasted with shallots, capsicum and assorted spices"
+    },
+    {
+      "id": 2,
+      "name": "Paneer Chilly Parotta",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/23/115f2ad4-4539-4495-8209-58c668e4eace_59ae3939-1605-4adf-9729-86b8bf485023.jpg",
+      "details": "Shredded parotta slow roasted in a tawa with paneer, shallots, spring onions, capsicum and assorted spice. Served with raitha."
+    },
+    {
+      "id": 3,
+      "name": "Chilli Parotta",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/baf7cfbf-77db-4e9b-8c42-238ace771b95_910552f7-d34a-4936-bc46-9c927eaf9b8f.jpg",
+      "details": "Parotta pieces tossed in a spicy chilli based masala."
+    },
+    {
+      "id":4,
+      "name": "Chilli Parotta",
+      "price": "246",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ec0410d4bbada56c4c2d94e819512d39",
+      "details": "Spicy and tangy parotta stir-fry with onions, chillies, and masala."
+    },
+    {
+      "id":5,
+      "name": "Chilli Parotta",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/18/24f4699d-a50a-49ec-964a-6032d42c5c0b_f0636bd2-8130-40e1-bc76-ccbc71370ccd.jpg",
+      "details": "Pieces Of Cut Parotta, Deep Fried And Tossed With Sweet And Spicy Sauce With Veggies"
+    },
+    {
+      "id":6,
+      "name": "Chilli Parotta",
+      "price": "156",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/2/4b635c6a-4ecb-4748-ade3-568b44fb6caf_7ba4a607-6b17-4099-95c6-1a86c12d08f3.jpeg",
+      "details": "A North Indian specialty bursting with flavors and savory goodness that will tantalize your taste buds."
+    },
+    {
+      "id": 7,
+      "name": "Chilli Paratha",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/26/593edc0f-786d-468b-b896-edaaee4ef354_abf7fae8-5761-4e1f-9a67-ca9bf838c7ee.JPG",
+      "details": "A fiery and flavorful flatbread filled with a delectable blend of vegetables and aromatic spices, perfect for a satisfying and indulgent main course."
+    },
+    {
+      "id": 8,
+      "name": "Parotta [2 Nos] With Chicken Red Chilli Gravy",
+      "price": "245",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/80750d0f-0201-4299-8079-94be9de6ac96_b3fff7d0-63af-4ab1-9629-26cb8a259e63.jpg",
+      "details": "2 Nos Parotta served with chicken red chilli gravy"
+    },
+    {
+      "id": 9,
+      "name": "Mushroom Chilly Parotta",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/23/d5d84d33-4666-431e-852c-74a9fa33e37a_ec9aa3aa-f707-417e-b58c-28a15257dca6.jpg",
+      "details": "Shredded parotta slow roasted in a tawa with button mushrooms, shallots, spring onions, capsicum and assorted spice. Served with raitha."
+    },
+    {
+      "id": 10,
+      "name": "Baked Chilly Cheese Parotta",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ame9lbpkaxrlysdrseer",
+      "details": "Chilly parotta with a cheesy continental twist. A must try."
+    },
+    {
+      "id": 11,
+      "name": "Beef Chilli Parotta",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/sj5am3negmddh950js6p",
+      "details": "Serve 1"
+    },
+    {
+      "id": 12,
+      "name": "Chilli Parotta",
+      "price": "165",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/4/2e38deba-eda7-4ca7-a0fd-c5658d4310e5_60d446d5-97f6-4d7d-841c-73a0fc21886e.jpg",
+      "details": "Chilli Parotta is a spicy and flavorful South Indian dish made by stir-frying pieces of parotta with onions, bell peppers, and a spicy sauce."
+    },
+    {
+      "id": 13,
+      "name": "Chilly Parotta",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/16/bdc24856-0cf2-419b-94af-2212f05945ea_ff4afa88-de1b-4073-be1c-033645ffb360.jpg",
+      "details": "One of the many flaky and crunchy parottas involves cutting the flaky parottas into bite sized pieces, dipping them in a thin batter of spiced flour"
+    },
+    {
+      "id": 14,
+      "name": "Chilli Parotta",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b45f3f7adc75af80d1a11aee1d0b336b",
+      "details": "A delectable and flavorful combination of delectable bread and a savory stir-fry, this main course is sure to satisfy."
+    },
+    {
+      "id": 15,
+      "name": "Chilli Parotta",
+      "price": "180",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/14/574acaf1-224a-4c69-92f9-776f459c3da1_e7976c4c-723a-4c8d-8357-6cffa1ced892.jpg",
+      "details": "Chilli Parotta (750ml) Crispy parotta pieces tossed with onions, capsicum, and spicy sauces. A fiery and flavourful South Indian street-style favourite."
+    }
   ]
 }
