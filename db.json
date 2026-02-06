@@ -14667,5 +14667,769 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/14/574acaf1-224a-4c69-92f9-776f459c3da1_e7976c4c-723a-4c8d-8357-6cffa1ced892.jpg",
       "details": "Chilli Parotta (750ml) Crispy parotta pieces tossed with onions, capsicum, and spicy sauces. A fiery and flavourful South Indian street-style favourite."
     }
+  ],"Egg Kothu ParottaItem":[
+     {
+      "id": 1,
+      "name": "Kothu Paratha Egg",
+      "price": "285",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/29/2bf26f87-e1f3-4a28-8d8b-eaeaccea377d_e98b606d-efda-43b3-bfe3-4df315ee1963.jpg",
+      "details": "Serve with onion salad"
+    },
+    {
+      "id": 2,
+      "name": "Egg Kothu Parotta",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/3e95d230-663a-4c4e-8c72-c136379f453e_c48f1aa1-7821-4209-8bea-5a2cb6f02a4e.jpeg",
+      "details": "Flaky parotta shredded and stir-fried with eggs, spices, and herbs for a hearty, flavorful meal."
+    },
+    {
+      "id": 3,
+      "name": "Egg Kothu Paratha",
+      "price": "161",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/mkywohlajbx50t5ql5sp",
+      "details": "Serve 1"
+    },
+    {
+      "id":4,
+      "name": "Egg Kothu Parotta",
+      "price": "265",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/7/8c7d0dcc-4b4f-4bcb-9ffa-eee24b294752_084b3319-51db-4eb2-906a-2b170fcc50ac.JPG",
+      "details": "Mixed vegetable and Tawa scrambled parotta relish.; Nutritional Information (per 100g) : Energy - 226kcal, Carbs - 21.3g, Protein - 7.8g, Fats - 12.2g."
+    },
+    {
+      "id":5,
+      "name": "Egg Kothu Parotta",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/4b5cc55f0475f7e3c92053728f5475c5",
+      "details": "Paratha shredded into bite-sized pieces and stir-fried with scrambled egg along with other spices."
+    },
+    {
+      "id":6,
+      "name": "Egg Kothu Parotta",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/22/5a145077-c2b0-40e6-9c82-ee314aaaea99_d76c9ea1-f88d-4693-bbb6-c24af7cc35b0.png",
+      "details": "Shredded poratta,egg,onion,tomata,green chilly,spices mixed with spicy gravy,topped with scrambelled egg"
+    },
+    {
+      "id": 7,
+      "name": "Egg Kothu Parotta",
+      "price": "235",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/2/3d7d4ac3-021a-4870-ba69-da460e10b41c_5fc2d847-1754-4440-ae33-cd130bd49b75.jpg",
+      "details": "Tawa scrambled parotta with eggs."
+    },
+    {
+      "id": 8,
+      "name": "Egg Kothu Parotta",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/18/1cfa6a29-bf09-4858-8b37-d2468efe9614_8b5403e5-10e1-4e37-8d88-af4624d369a8.jpg",
+      "details": "Minced Parotta With Special Egg Masala Preparation Tossed In Hot Tawa"
+    },
+    {
+      "id": 9,
+      "name": "Egg Kothu Parotta",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/3292176f-d9d6-470a-9f59-07a12462d3d2_205b70f7-0f77-41a5-951b-17dea2f1cc9f.jpg",
+      "details": "Our Egg Kothu Parotta is stir-fried with bold spices, onions, and chilies for a burst of flavor in every bite."
+    },
+    {
+      "id": 10,
+      "name": "Egg Kothu Paratha",
+      "price": "128",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/5/e2ce003c-3731-4a7a-a95a-899d3b8f8923_bff47ffc-f620-4ec4-9900-cb515a807423.jpeg",
+      "details": "A satisfying blend of scrambled eggs and flaky parotta, bursting with flavor and perfect for any meal."
+    },
+    {
+      "id": 11,
+      "name": "Egg kothu parota",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/upu8csqho43x0mnmay67",
+      "details": "A delectable Tiffin favorite featuring a perfect blend of eggs and scrumptious parota."
+    },
+    {
+      "id": 12,
+      "name": "Egg Kothu Parotta",
+      "price": "229",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/14/7e714207-c799-4061-9229-ad2bddae77e0_dcd082d8-897e-4ec1-bb21-723e869c4b64.jpg_compressed",
+      "details": "Shredded parotta stir-fried with spices, and curry leaves and tossed with eggs."
+    },
+    {
+      "id": 13,
+      "name": "Egg Kothu Parotta",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/l8ezi6im0x8psn9kevgc",
+      "details": "A simple, yet wholesome combo containing egg kothu parotta | Served with flavor packed egg gravy |"
+    },
+    {
+      "id": 14,
+      "name": "Egg Kothu Parotta",
+      "price": "184",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/h0aa8e3v0mc0uzix5eri",
+      "details": "Flatbread made of wheat/ flour is shredded into bite size pieces and stir fried with scramble egg along with other spices."
+    },
+    {
+      "id": 15,
+      "name": "Egg kothu parotta",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/9/163171b8-8e44-40e7-bb53-c1e3f9eb91e0_5e8bd307-081e-4320-bb4c-a7a777105f21.jpg",
+      "details": "A flavorful and savory delight featuring a delectable blend of diced eggs and delectably prepared parotta."
+    }
+  ],"Wheat ParottaItem":[
+     {
+      "id": 1,
+      "name": "Wheat Parotta Set",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/534b121b-f9b8-429a-8071-2fe83b1a58be_469f6ebf-2d61-48d9-bb0c-b02cc0aadbc9.jpeg",
+      "details": "Healthy whole-wheat parottas, soft and flaky, perfect with a variety of side dishes."
+    },
+    {
+      "id": 2,
+      "name": "Wheat Parotta",
+      "price": "60",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dmi0cmsmfsuzwz99k3re",
+      "details": "Flaky Tawa parotta with whole wheat flour *1 No's  - Served With Salna.; Nutritional Information (per 100g) : Energy - 324kcal, Carbs - 53.4g, Protein - 7.6g, Fats - 8.9g."
+    },
+    {
+      "id": 3,
+      "name": "Wheat Paratha/Parotta",
+      "price": "49",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/o1pfd3jyvyecv9zjaoa4",
+      "details": "[1Pc] - Wheat lacha paratha is a traditional Indian flatbread made from whole wheat flour. The dough is layered with ghee and then rolled into a spiral, creating a flaky, multi-layered texture. It is then flattened and cooked on a hot griddle until golden brown. The result is a delicious and slightly crispy paratha with a delightful aroma, making it a popular choice to accompany our signature curries."
+    },
+    {
+      "id":4,
+      "name": "Wheat Parotta",
+      "price": "60",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/10/c59f049c-b9b5-46bb-9e0c-367f3cc74d1b_0f1d6327-768a-4dae-8df6-454b298f8aef.jpg",
+      "details": "Soft and flaky bread bursting with wholesome flavors and textures."
+    },
+    {
+      "id":5,
+      "name": "Wheat Paratha",
+      "price": "55",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/27/2e53ebfc-5abb-4900-afc5-2e2d70e8626f_24f8f3d7-b4cd-4e66-9d69-00de4ea4bc94.png",
+      "details": "[Does not include Gravy]"
+    },
+    {
+      "id":6,
+      "name": "Wheat Parotta (1 Pc)",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/iqk76av5ravahnr4sna6",
+      "details": "Fluffy multi layered flat bread parotta made of wheat. This contains only parotta and no sidedish"
+    },
+    {
+      "id": 7,
+      "name": "Wheat Parotta [2] With Veg Kurma",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/3654fa2337bb56d08c6d20d52c7a9e44",
+      "details": "Flaky South Indian wheat parotta pairs perfectly with a rich and creamy vegetable kurma. Serves 1"
+    },
+    {
+      "id": 8,
+      "name": "Wheat Parotta",
+      "price": "85",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/envtrbystdk5qvfvygo4",
+      "details": "Layered flaky bread grilled to preparation"
+    },
+    {
+      "id": 9,
+      "name": "Malabar Parotta [Wheat]",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/4/4e6f7b3c-9875-4c6b-82b9-1803f72f9173_043ea790-9933-43d7-93e2-55db7b8703c1.jpg",
+      "details": "Flaky unleavened Griddle Breads  (2no)"
+    },
+    {
+      "id": 10,
+      "name": "Wheat Parotta [2 Nos] With Nattu Kozhi Gravy",
+      "price": "290",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/e078c9c9-1fba-4d2d-b693-259ddac6a2b9_63a1cb8c-a768-4327-8428-c6540b92336f.jpg",
+      "details": "2 Nos Wheat parotta served with Nattu Kozhi gravy with one piece chicken"
+    },
+    {
+      "id": 11,
+      "name": "Wheat Paratha",
+      "price": "70",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/7/0baa2ec0-3d67-47be-a6f5-1c62a42a18ec_107f1535-b857-4a6c-b42d-ad4df63b85b9.jpg",
+      "details": "A delightful and flavorful bread made from wheat that will leave your taste buds craving for more."
+    },
+    {
+      "id": 12,
+      "name": "Wheat Parotta (2 Pcs) ",
+      "price": "102",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/25/8b3643f2-c43c-4658-9976-a1a92cb47cd0_ba46a74a-239b-4b0e-b8e6-210705954689.jpg",
+      "details": "Serves 1"
+    },
+    {
+      "id": 13,
+      "name": "Wheat Parotta",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/21/a2c4b36d-9a77-49ad-921c-46f11ff4e48a_1c16be60-8503-4c02-a6ed-b5b5ea96d67a.jpg",
+      "details": "Parotta is wheat flour based unleavened flat bread of south India."
+    },
+    {
+      "id": 14,
+      "name": "Wheat Parotta",
+      "price": "40",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/6/4845dd74-0cf3-4900-bde5-bd267d01ec0f_94857a41-f099-4d4e-b486-84a45c345650.jpg",
+      "details": "Wheat Parotta (1 Nos) Served with our special salna"
+    },
+    {
+      "id": 15,
+      "name": "Wheat Parotta (2 Pcs)",
+      "price": "59",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/25/7707586a-88de-46d3-bda7-9e21c1ac4faf_5c6e2408-1d69-4abb-8c3e-1b1efc4cfd38.jpg",
+      "details": "Enjoy the irresistible flavors of our scrumptious wheat parotta, a delectable veg main course that will leave you craving for more."
+    }
+  ],"Bun ParottaItem":[
+     {
+      "id": 1,
+      "name": "Bun Parotta(2)",
+      "price": "79",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/12/a79b2e92-1d24-4fc7-9867-08e0aac43385_7c369370-4f3a-4d66-97fc-dc47ed759072.jpg",
+      "details": "Timeless Treat! Our Bun Parotta is a beloved Madurai classic, a mouthwatering delight that transcends age and taste buds. Soft, fluffy, and flaky, this iconic flatbread is a must-try for anyone looking to experience the authentic flavors of South India!"
+    },
+    {
+      "id": 2,
+      "name": "Bun Parotta (2Pcs)",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/27/199647c7-0d38-4afc-b9d9-d952e08c130b_28c619ff-8daa-4e92-8bd8-07dfa4768dde.jpeg",
+      "details": "Soft and fluffy bun-shaped parottas, perfect with curry or gravy."
+    },
+    {
+      "id": 3,
+      "name": "Panju Bun Parotta With Karipazha Kuzhambu",
+      "price": "310",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/16/2d5cb0af-e5c8-4533-bd33-8cd715fa5791_20ef87d6-9a81-44bb-a297-04aa797542c3.jpeg",
+      "details": "Kongu nattu signature parotta served with raw jackfruit curry (Veg Preparation)"
+    },
+    {
+      "id":4,
+      "name": "Pallavas Bun Parotta",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/4/b08a3c47-1510-46ef-bdc9-d83404268c4d_223d689c-02ce-4c97-bb1e-62b90c550d6d.jpg",
+      "details": "Famous street food delicacy  (2no)"
+    },
+    {
+      "id":5,
+      "name": "Special Bun Parotta",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/14/0c3411a8-8f11-4f00-a099-d398937eb822_9851b984-0de0-4172-9037-d74a52a6ce38.jpg_compressed",
+      "details": "A thicker and fluffier version of the traditional parotta served with a choice of veg or non-veg gravy."
+    },
+    {
+      "id":6,
+      "name": "Bun Parotta",
+      "price": "40",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/47647c1376797f939b7bb073f4358944",
+      "details": "Bun parotta, a south indian specialty, is a fluffy, layered bread that's both soft and crispy, perfect to accompany a variety of curries or enjoyed on its own."
+    }
+  ],"White Sauce PastaItem":[
+     {
+      "id": 1,
+      "name": "Cosy Comfort White Sauce Pasta",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/16/59f296a1-ff10-4b43-9733-9611096e3c7b_45a770d3-35c9-4b02-bf3e-10c1f64a3ff6.jpg_compressed",
+      "details": "Fusilli pasta baked in rich white sauce along with onion, green capsicum, red capsicum and sweet corn (206 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+    },
+    {
+      "id": 2,
+      "name": "White Sauce Pasta",
+      "price": "294",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/3/499c8ff0-c3ff-4bd8-a6b3-76dd71ef1af0_3b7e24ab-c544-49cb-90a4-d040230eb613.jpeg",
+      "details": "Pasta served in a creamy white sauce"
+    },
+    {
+      "id": 3,
+      "name": "White Sauce Pasta",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/5ab9d91a3d606ebb7857ff57bfe790a4",
+      "details": "Delight in simplicity with our White Sauce Pasta, where al dente pasta is bathed in a smooth and velvety white sauce, creating a timeless and comforting pasta classic."
+    },
+    {
+      "id":4,
+      "name": "White Sauce Pasta",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ed5755c90b824b899cc649e1a3415cd8",
+      "details": "Saucy penne in white sauce and vegetables"
+    },
+    {
+      "id":5,
+      "name": "Americano White Sauce Pasta Veg",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/8/4beabf6b-619c-4ec0-939d-3f7cbd81e847_746d75f3-46bb-43b9-a00e-ff5b3e6847d5.JPG",
+      "details": "A blend of American Flavours in your Favorite Pasta Onion, capsicum, sweet corn, mushroom, olives with cheese. [Fat-10.5 per 100 g, Protein-3.9 per 100 g, Carbohydrate-9.2 per 100 g, Sugar-4.2 per 100 g, Calories-146.9 k.cal] Nutritional information per 100g"
+    },
+    {
+      "id":6,
+      "name": "Cream White Sauce Pasta",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/17/dd1ff1db-66ee-4186-b060-6d092c6b9c0c_5093e2e9-32a1-47b0-b467-58c0340ffca2.jpg",
+      "details": "A creamy and delicious Italian delight made with perfectly cooked pasta tossed in rich, smooth and velvety white sauce. Flavored with butter, milk, cheese and a hint of herbs, its a comforting dish packed with flavor. Ideal for a hearty meal and this pasta melts in your mouth with every bite."
+    },
+    {
+      "id": 7,
+      "name": "Chicken White Sauce Pasta",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/24/747f9d8d-9dcf-4d88-8fe3-f57bfa406dbf_0d6e58e4-f311-49c6-90fd-e5895fc6b42c.jpg",
+      "details": "Tender chicken chunks tossed with penne pasta in a rich, creamy white sauce, finished with herbs and cheese"
+    },
+    {
+      "id": 8,
+      "name": "White sauce pasta",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/24/f39577e7-5313-4398-a696-d86ebc95ad53_4695e6f1-ceaa-4796-9e99-8143f6f9884f.jpg",
+      "details": "Penne pasta tossed in a rich, creamy white sauce with a hint of herbs and garlic"
+    },
+    {
+      "id": 9,
+      "name": "White sauce pasta",
+      "price": "54",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/30/58d90ebb-a0f0-4fb2-a228-c48153967206_1d44894f-2736-45ae-86b7-285728dfd4a1.JPG",
+      "details": "Creamy and luscious pasta coated in a smooth, velvety white sauce that will melt in your mouth."
+    },
+    {
+      "id": 10,
+      "name": "White sauce pasta",
+      "price": "173",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/23/fdc8bf6c-1e1c-4800-8e59-796d1c6236d5_60f3d0d0-37b0-4ed1-ad99-4cf36711c817.JPG",
+      "details": "Creamy and rich, this indulgent pasta delight envelops tender noodles in a velvety white sauce, creating a comforting dish that's perfect for any occasion."
+    },
+    {
+      "id": 11,
+      "name": "White Sauce Corn Pasta",
+      "price": "270",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/30/c5b9ea74-6b55-4dad-a7da-31f915ca9986_9a6cd3cd-e4db-4d3c-b5c6-df16577ac07c.jpg",
+      "details": "White sauce pasta in a creamy delicious and cheese pasta in white sauce or bechamel sauce and sweet corn. This pasta makes a great meal."
+    },
+    {
+      "id": 12,
+      "name": "White Sauce Pasta",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/15/f558f6e4-9e2f-46a4-a05e-c73cf4dbb377_d7931840-d651-4d22-ab9a-8f917bd0132c.jpg",
+      "details": "Creamy, rich, and comforting, this pasta offers a harmonious blend of flavors that delights every bite."
+    },
+    {
+      "id": 13,
+      "name": "White Sauce Penne Vegetable Pasta",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/30/de117191-c51a-4ea4-b434-ba91d9438baf_a695ac90-e976-40c6-b5e5-2b7f56b4c738.jpg",
+      "details": "White sauce pasta is a creamy delicious and white sauce or bechamel sauce and vegetables. This pasta makes a great meal."
+    },
+    {
+      "id": 14,
+      "name": "White Sauce Penne Pasta",
+      "price": "260",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/31/cb96164a-2035-4c1d-9f73-8b2837ae9b32_9fe57c6d-fd60-4130-8fe8-fba55b0af5c7.jpg",
+      "details": "Creamy pasta cooked in a rich white sauce"
+    },
+    {
+      "id": 15,
+      "name": "White Sauce Penne Fusilli",
+      "price": "225",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/23/0abc5b00-f57f-492d-a95d-1e9d76db82a4_28288308-68b7-48e8-8099-765b4534bcbb.JPG",
+      "details": "Creamy and flavorful, this classic pasta dish combines perfectly cooked fusilli with a velvety white sauce for an indulgent mouthful of comfort."
+    }
+  ],"Feta Cheese PastaItem":[
+     {
+      "id": 1,
+      "name": "Ultimate Cheese Crunchwrap - Non Veg",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/5/c95ee256-848a-451b-abe7-e129c29d81cd_8409ab92-c7d1-4669-8079-fd15bc1fa0f5.png",
+      "details": "Unique star shaped wram wrap loaded with juicy chicken nuggets marinated in flavourful spices & topped with fiesta salsa, spicy lava sauce and creamy nacho cheese."
+    },
+    {
+      "id": 2,
+      "name": "Combo Trio - Pasta Non Veg",
+      "price": "395",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/30/a5fd8723-6eab-44a4-afd2-5eb79574502f_c7b5c9db-95ce-4ce0-a759-dfe7415941ce.jpg",
+      "details": "Order Food Online from India's Best Food Delivery Service | Swiggy"
+    },
+    {
+      "id": 3,
+      "name": "Arrabiata Penne Pasta",
+      "price": "645",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/6/874d0289-b34c-41d6-a583-745b2cd4be79_06cdfbce-885c-413c-88ad-7766f82118a1_compressed",
+      "details": "All-time favourite pasta dish. Penne with garlic, chili, parsley flavoured plum tomato sauce /with vegetables"
+    },
+    {
+      "id":4,
+      "name": "Meatburst Mac N Cheese Pasta",
+      "price": "350",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/23/916daff2-772f-4ecf-90b7-654205d4507d_ec178167-4dda-4220-a26d-14efe2138548.jpeg",
+      "details": "( Safely Cooked Chicken) Juicy meatballs with a soft meaty centre on a layer of creamy Mac n Cheese oozing with chipotle and our secret spice mix. (Energy: 984KCal, Carbohydrates: 53gm, Proteins: 39gm, Fats: 67gm, Sodium: 1113mg)"
+    },
+    {
+      "id":5,
+      "name": "Combo Trio - Pasta Veg",
+      "price": "365",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/23/62203a73-b6ba-4362-a63a-c55ac4b12e2b_68efd878-234c-4843-812a-954dc2da95ff.jpg",
+      "details": "Choice of Veg Pasta + Veg & Cheese Arancini, + Hazelnut Chocolate Cake(Eggless)"
+    },
+    {
+      "id":6,
+      "name": "Macaroni Magic Pasta",
+      "price": "570",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/20/e50d7b9b-7354-4509-9c2a-af1e40388a73_04b3ffd2-284c-4e66-ac59-0ca53a84ce31.jpg",
+      "details": "(400gms) macaroni, cheese sauce, bell peppers,american corn, capsicum & mini corn cheese balls. A cream centre classic! [mild]"
+    },
+    {
+      "id": 7,
+      "name": "Creamy Pasta",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cm9velukhaqchdmpafjd",
+      "details": "A delicious and creamy pasta dish made with a variety of sauces and toppings."
+    },
+    {
+      "id": 8,
+      "name": "Al Pomodoro With Basil Spaghetti Pasta",
+      "price": "645",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/6/d2320791-c7fa-457c-8d85-57ecb2bfbfba_cd703e2f-525b-4901-b10c-ebe1c41db26c_compressed",
+      "details": "Spaghetti in simple flavourful plum tomato sauce with basil & olives / with vegetables"
+    },
+    {
+      "id": 9,
+      "name": "Pasta Alfredo",
+      "price": "349",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/29/738e52c8-f82c-4064-bd7d-169c98ef2dff_893c1b2f-cceb-40ce-9ac1-bea831714d7d.jpg",
+      "details": "Pasta tossed with creamy chamel sauce"
+    },
+    {
+      "id": 10,
+      "name": "Loaded Mac & Cheese Pasta",
+      "price": "650",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/18/cb5f1aeb-a637-48ad-8bb6-44265a93b1f5_599295b0-e322-40ad-ad56-286fbc79e0d9.jpg",
+      "details": "Tender macaroni pasta enveloped in a velvety cheese sauce."
+    },
+    {
+      "id": 11,
+      "name": "Chicken  Mac & Cheese Pasta",
+      "price": "495",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/16/f5b89098-238c-43ee-901f-609da4be8ac5_0a3b2e9b-a8c5-4c2f-a06b-7af93d788072.jpeg",
+      "details": "Macaroni pasta, cheese sauce and chicken topping."
+    },
+    {
+      "id": 12,
+      "name": "Spaghetti Aglio Olio Pasta",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/7cee8b9af1bc1d570dd80edda00933a1",
+      "details": "Experience the simple yet flavorful taste of italy with our spaghetti aglio olio. Made with al dente spaghetti pasta, tossed in a light and flavorful sauce made with garlic, olive oil, red pepper flakes, and parsley."
+    },
+    {
+      "id": 13,
+      "name": "Pasta Del Barone",
+      "price": "665",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/btjaiqhhfkwa0wddiss5",
+      "details": "Signature Pasta | Mixed sauce | A classic noble sauce with béchamel, tomato sauce, red chili and Parmesan cheese"
+    },
+    {
+      "id": 14,
+      "name": "Pasta Barbaresca",
+      "price": "695",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/z9exrjw4eoi13lkcqwbe",
+      "details": "Signature Pasta | Creamy sauce with fresh broccoli, tomatoes, garlic, sun-dried tomatoes, tempeh, Parmesan cheese and chili pepper"
+    },
+    {
+      "id": 15,
+      "name": "Penne Pasta In Arrabbiata Sauce",
+      "price": "551",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/20/9649f4c6-135f-4273-8ed3-24f844f5c080_ba5d7d16-a41f-4c9f-9410-440812357ce9.jpg",
+      "details": "(400gms) pasta tossed in a spicy classic italian herbed tomato sauce. [medium spicy]"
+    }
+  ],"Cream PastaItem":[
+     {
+      "id": 1,
+      "name": "Gnocchi In Cream Truffle Pasta",
+      "price": "775",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/9/8a94462a-df8c-47c5-a2b6-c208b9c00b45_ba65722a-f599-4ac7-9f2d-a58e54d380d2.jpg_compressed",
+      "details": "Delight In Our Tender Potato Gnocchi, Perfectly Cooked And Tossed In A Luxurious, Blue Cheese And Creamy Truffle Oil Sauce."
+    },
+    {
+      "id": 2,
+      "name": "Veg Lemon And Cream Pasta (Fusilli)",
+      "price": "480",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ca084a4d3e59b3c881f248d060751cbc",
+      "details": "Lemon Infused Fussilli Pasta Tossed In Creamy Rich Alfredo Sauce With Sauteed Mushrooms And Broccoli."
+    },
+    {
+      "id": 3,
+      "name": "Non Veg Lemon And Cream Pasta (Fusilli)",
+      "price": "520",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ca084a4d3e59b3c881f248d060751cbc",
+      "details": "Relishing Pasta Tossed In Creamy Rich Alfredo Sauce With Brocolli, Mushroom And Roasted Chicken."
+    },
+    {
+      "id":4,
+      "name": "Tomato Cream Sauce Pasta",
+      "price": "565",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b5d9e193c58230e5f3bfbee13d5d50b3",
+      "details": "Creamy sauce made with tomato, herbs, cream and crushed garlic"
+    },
+    {
+      "id":5,
+      "name": "Penne In Cream Sauce",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/59924ec187aeaec85935c7ee45817c39",
+      "details": "Satisfy your cravings with our creamy penne creme pasta. Al dente penne pasta smothered in a rich and velvety cream sauce with hints of garlic. A comforting dish that will leave you feeling satisfied."
+    },
+    {
+      "id":6,
+      "name": "Cream Mushroom Pasta",
+      "price": "276",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/6/8deec627-7aa2-41d8-a0d2-7489389f451f_eb412706-3b9d-4044-a488-8ea0defb80db.jpg",
+      "details": "Indulge in a creamy and flavorful pasta dish adorned with luscious mushrooms."
+    },
+    {
+      "id": 7,
+      "name": "Cream Paneer Pasta",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/22/f78fec00-cee4-4c17-a831-f5768033c7cd_7c78d9cb-cea2-4fa5-baf4-231a2a4b974f.jpg",
+      "details": "A delicious fusion of soft paneer cubes, smooth and cheesy cream sauce tossed with perfectly cooked pasta. The rich blend of spices, cream, cheese create a flavorful, melt in the mouth experience. A comforting, indulgent dish thats both creamy and satisfying."
+    },
+    {
+      "id": 8,
+      "name": "Cream White Sauce Pasta",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/17/dd1ff1db-66ee-4186-b060-6d092c6b9c0c_5093e2e9-32a1-47b0-b467-58c0340ffca2.jpg",
+      "details": "A creamy and delicious Italian delight made with perfectly cooked pasta tossed in rich, smooth and velvety white sauce. Flavored with butter, milk, cheese and a hint of herbs, its a comforting dish packed with flavor. Ideal for a hearty meal and this pasta melts in your mouth with every bite."
+    },
+    {
+      "id": 9,
+      "name": "Cream Paneer Pasta",
+      "price": "264",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/29/d33905df-fde8-4f40-8fc8-7312d28a2d1a_393cd469-6a33-4329-879a-7bb3846bf6a1.jpg",
+      "details": "Indulge in a creamy pasta delight featuring soft and smooth paneer, a vegetarian's dream come true!"
+    },
+    {
+      "id": 10,
+      "name": "Fire Cream Veg Pasta",
+      "price": "349",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/14/226b81ef-8130-485d-bff0-0538c10b78c4_4a78553c-ed10-4b71-9da5-a9b1d8ab6573.png_compressed",
+      "details": "Tossed with creamy fiery sauce, sweet corn, onion, capsicum &black olives"
+    },
+    {
+      "id": 11,
+      "name": "Tomato And Cream Pasta",
+      "price": "595",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/19/a7f59737-118a-471e-9701-e3223e9c3910_1fdc19bf-ffe4-4979-b7fe-168c835bb55b.jpeg",
+      "details": "Tossed in Tomato and  White Cream Sauce"
+    },
+    {
+      "id": 12,
+      "name": "Cream Red Sauce Pasta",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/21/4676dc38-a956-45b5-bb6f-36d36860688c_338f1e06-90fd-4864-a578-b779748ef024.jpg",
+      "details": "A creamy and delicious Italian delight made with perfectly cooked pasta tossed in rich, smooth and sauce. Flavored with butter, milk, cheese and a hint of herbs its a comforting dish packed with flavor. Ideal for a hearty meal and this pasta melts in your mouth with every bite."
+    },
+    {
+      "id": 13,
+      "name": "Cream Pink Sauce Pasta",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/21/6c9e6869-26ef-4294-a03f-6f641dc9b254_44686b8d-ea3b-4729-bcd8-93de733e1644.png_compressed",
+      "details": "A creamy, delicious Italian delight made with perfectly cooked pasta tossed in rich, smooth and beetroot pink sauce. Flavored with butter, milk, cheese, a hint of herbs, its a comforting dish packed with flavor. Ideal for a hearty meal and this pasta melts in your mouth with every bite."
+    },
+    {
+      "id": 14,
+      "name": "Cream Cheese Masala Pasta",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/17/1e2a6c6a-5603-4e55-89f9-9db3aebcee95_a1e9c5a2-7ad3-4778-bbf2-21283b5e5e82.jpg",
+      "details": "A fusion delight that blends Italian creaminess with Indian spice. This pasta is tossed in a luscious cheese sauce infused with aromatic masalas, giving it a rich and flavorful twist. Perfectly balanced with cream, cheese and spices for a bold and comforting taste in every bite."
+    },
+    {
+      "id": 15,
+      "name": "Cream Of Pesto Pasta",
+      "price": "376",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/15/222d68c3-4846-4e21-8eb5-673b69b778b1_109eb6ce-4f36-41d5-a5cd-27fd675481f0.jpg",
+      "details": "Serve 1"
+    }
+  ],"Cheese PastaItem":[
+     {
+      "id": 1,
+      "name": "Penne McN Cheese Pasta",
+      "price": "209",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/16/ae395f5a-2654-4c33-92ad-37fc1dbdd74e_50b184c3-0046-4c4d-9414-06ee8ed110b7.jpg",
+      "details": "Penne Pasta baked in classic jalapeno sauce along with green capsicum, onion and red capsicum topped with mozzarella cheese (227 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+    },
+    {
+      "id": 2,
+      "name": "Mac N Cheese Paneer Tikka Pasta",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/23/604729fc-1673-44de-8c38-e84d7f3f4a65_1b6d089e-3ea6-4bc1-bca9-8179e28d2891.jpeg",
+      "details": "Find the perfect blend of flavours in our Mac n Cheese which is endowed with sumptuous amount of cheese blended perfectly with the desi flavour of Paneer Tikka. (Energy: 706KCal, Carbohydrates: 60gm, Proteins: 24gm, Fats: 41gm, Sodium: 1273mg)"
+    },
+    {
+      "id": 3,
+      "name": "Pasta Chicken Cheese",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/5/db5f3817-e2c1-4a26-aac0-639b2416b4f1_6bff688f-888b-455d-a58b-07952750a852.jpg",
+      "details": "Creamy pasta with shredded chicken pieces and gooey melted cheese."
+    },
+    {
+      "id":4,
+      "name": "Mac & Cheese Pasta",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/18/7a0d4dc5-cf90-467b-8c74-fb213ab78751_6ffeaccc-b682-4950-a6ab-7be901365571.jpeg",
+      "details": "Creamy and delicious mac and cheese pasta with a delightful blend of cheeses and spices."
+    },
+    {
+      "id":5,
+      "name": "Loaded Mac & Cheese Pasta",
+      "price": "650",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/18/cb5f1aeb-a637-48ad-8bb6-44265a93b1f5_599295b0-e322-40ad-ad56-286fbc79e0d9.jpg",
+      "details": "Tender macaroni pasta enveloped in a velvety cheese sauce."
+    },
+    {
+      "id":6,
+      "name": "Any Pasta And Cheese Garlic Bread",
+      "price": "343",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/3/a2f9e22d-9988-4698-9c25-b0635ad84e02_6547da86-ef15-4dd9-aa44-f56a392e33f0.jpeg",
+      "details": "Your choice of pasta served with cheesy garlic bread"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Mac & Cheese Pasta",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/18/96747fa7-cfcf-4a57-b577-1467b336928b_7c404b32-71e1-44a7-8a16-f3eb70667fd7.jpeg",
+      "details": "A comforting, creamy pasta dish with tender chicken chunks, rich cheese sauce and a crunchy topping."
+    },
+    {
+      "id": 8,
+      "name": "Loaded Mac & Cheese Pasta",
+      "price": "650",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/9/5a2f7bf1-1650-4e8c-ab67-324af8ff99bb_6fcb2d06-8563-4429-9d39-81c9d8749266.jpg_compressed",
+      "details": "Tender Macaroni Pasta Enveloped In A Velvety Cheese Sauce."
+    },
+    {
+      "id": 9,
+      "name": "Penne McN Cheese & Chicken Pasta",
+      "price": "229",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/16/62024fa5-1b45-401c-b90b-cbfc18996cd2_1c12c9cb-58af-41e4-bea1-7b0c5e0a2c39.jpg_compressed",
+      "details": "Penne Pasta baked in classic jalapeno sauce along with herbed chicken, green capsicum, onion and red capsicum topped with mozzarella cheese (224 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+    },
+    {
+      "id": 10,
+      "name": "Cheese Pasta",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/25/7085075d-605f-4dbd-9055-78d9852e736f_33e1d278-5a31-4243-b4d7-93967ff20dce.jpg",
+      "details": "Saucy penne in white sauce and vegetables"
+    },
+    {
+      "id": 11,
+      "name": "Pasta Corn Cheese",
+      "price": "235",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/5/b69945df-7dec-4862-b4c5-e8336fb00d42_0a4b6b6a-4b92-4993-b8c4-da2847ce0555.jpg",
+      "details": "Creamy white or rich red sauce enveloping tender pasta and sweet corn for a comforting and satisfying meal."
+    },
+    {
+      "id": 12,
+      "name": "Cheese Alfredo Pasta",
+      "price": "441",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/20/4b07c008-b002-43d9-b923-bff4153d1a36_b6452c98-4fe5-406b-8563-73d0dd8a2747.jpg",
+      "details": "Bechamel sauce flavored with italian herb broccoli,bell peppers black olives zucchini."
+    },
+    {
+      "id": 13,
+      "name": "Macaroni & Cheese Veg",
+      "price": "167",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/rs4vkdrjs7tk9dd05dfy",
+      "details": "Quintessential veg macaroni n cheese, la pinoz style. [Fat-5 per 100 g, Protein-7.2 per 100 g, Carbohydrate-23.7 per 100 g, Sugar-1.6 per 100 g, Calories-168.6 k.cal]Nutritional information per 100g"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Kheema Mac & Cheese Pasta Bowl",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/1/09ab29fe-6ea6-4a92-81ae-7702e1ef0eaa_7319cc20-081b-4ac8-be3c-a4a711cf4390.png",
+      "details": "Delicately spiced chicken kheema layered on a bed of creamy mac and cheesy sauce in Mughlai gravy is an experience to remember. Try now! (Energy: 870KCal, Carbohydrates: 63gm, Proteins: 25gm, Fats: 56gm, Sodium: 1178mg)"
+    },
+    {
+      "id": 15,
+      "name": "Mac & Cheese Pasta",
+      "price": "290",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/2770e5529d7640ea52c6692403a911c3",
+      "details": "Dive into the classic comfort of our Mac & Cheese Pasta, where tender pasta is embraced by a velvety cheese sauce, delivering the timeless combination that never fails to satisfy."
+    }
+  ],"Chicken Alfredo PastaItem":[
+     {
+      "id": 1,
+      "name": "Creamy Alfredo Chicken Pasta",
+      "price": "449",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/26/09febc35-f3e0-4c5a-9e05-862373248494_4a23be58-eef5-404a-976f-376a5e8911fe.jpg",
+      "details": "Herbed Mushroom Sauce With Loads Of Fresh Herbs"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Alfredo White Sauce Pasta",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/18/ace4d639-6ecb-49af-a03b-fe73b87d2735_b8dc575a-5534-41d0-8187-dcfc3d44150f.jpeg",
+      "details": "A creamy white sauce pasta with chunks of chicken, fresh veggies and a dash of italian herbs."
+    },
+    {
+      "id": 3,
+      "name": "Chicken Alfredo Penne Pasta",
+      "price": "360",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/25/63575d5f-4f89-4065-ab70-597c8237a542_144a3251-3bdd-4e7d-a072-05e784e75338.jpg",
+      "details": "Creamy alfredo sauce coats tender chicken and penne pasta, creating a delectable steakhouse classic."
+    },
+    {
+      "id":4,
+      "name": "Alfredo Chicken Penne",
+      "price": "500",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cyggdgt5dkax6wqqrz3s",
+      "details": "Creamy, succulent chicken paired with penne pasta, enveloped in a velvety Alfredo sauce."
+    },
+    {
+      "id":5,
+      "name": "Chicken Creamy Alfredo Pasta",
+      "price": "460",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/11ac01ebebc94b76d1eee91b86c943f9",
+      "details": "A choice of pasta cooked in a creamy white sauce and chicken chunks topped with parmesan cheese served with garlic bread."
+    },
+    {
+      "id":6,
+      "name": "Chicken Alfredo Penne Pasta",
+      "price": "109",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/7778c48efcfdcffdd67d67e18b6180c5",
+      "details": "Creamy and flavorful, this indulgent pasta dish pairs tender chicken with rich Alfredo sauce and perfectly cooked penne noodles."
+    },
+    {
+      "id": 7,
+      "name": "Alfredo - Chicken",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/11/304dcc26-9b4f-4692-acf7-b6c7ec6a3930_6b80213b-572e-43fc-b3b4-60a648cf66e5.jpg",
+      "details": "Tender chicken served in a creamy Alfredo sauce over a bed of perfectly cooked pasta."
+    },
+    {
+      "id": 8,
+      "name": "Penne Alfredo Chicken Pasta",
+      "price": "350",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/26/f893a68e-ff09-4ae8-a526-19ffde7efc38_834a7d71-854f-4980-ae62-aaa5307b7b0d.jpeg",
+      "details": "Creamy alfredo sauce coats tender chicken and penne pasta for a decadent and satisfying meal."
+    },
+    {
+      "id": 9,
+      "name": "Smooth Penne Alfredo With Chicken Pasta",
+      "price": "387",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/10/12/59afe39f-126d-46a0-a62c-48fa88fb6d63_31f4beeb-5dea-44a5-861c-267a83c708d8.jpg",
+      "details": "Creamy penne pasta tossed in a rich Alfredo sauce with chicken, delivering a mouthwatering indulgence."
+    },
+    {
+      "id": 10,
+      "name": "Alfredo Chicken Pasta",
+      "price": "275",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/2fa1ec58a776d8729ad3297c150d8abf",
+      "details": "Penne Pasta"
+    },
+    {
+      "id": 11,
+      "name": "Smooth Penne Alfredo with Chicken Add In Mushroom",
+      "price": "490",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dfca28b88d139174e669df8b83179279",
+      "details": "Creamy penne pasta with tender chicken and earthy mushrooms, coated in a smooth and indulgent Alfredo sauce."
+    },
+    {
+      "id": 12,
+      "name": "Chicken Alfredo",
+      "price": "350",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/20/f130330d-2b0e-4a15-9689-11b798f4cfc3_4caaa5e7-d9f7-4d3c-a7f4-76917dc73d76.JPG",
+      "details": "Rich Alfredo white sauce tossed with juicy boneless chicken and served with penne pasta"
+    }
   ]
 }
