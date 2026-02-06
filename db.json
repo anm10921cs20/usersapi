@@ -14108,5 +14108,267 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/hytchewr9j4hcid87bng",
       "details": "Crispy chilly gobi (dry), paneer butter masala, paratha (2pcs), schezwan fried rice or noodles, hot garlic sauce gravy"
     }
+  ],"Garlic Paratha ComboItem":[
+     {
+      "id": 1,
+      "name": "Masala Egg curry & Paratha Dabba",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/23/7b179fb9-2c02-40b8-9585-52fde870925d_2230a7be-14c3-441c-adfd-ce9063f29ccf.jpeg",
+      "details": "Egg curry in a royal-style gravy, with crispy parathas. (Energy: 593KCal, Carbohydrates: 49gm, Proteins: 12gm, Fats: 49gm, Sodium: 1258mg)"
+    },
+    {
+      "id": 2,
+      "name": "Sudha Spl Breakfast Combo",
+      "price": "180",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/mlvi9buiieyly4h8sd0r",
+      "details": "Ghee masala dosa, khichdi(or)pongal, 1 idly, 1 crispy medu vada, sambar, coconut chutney, kaaram chutney"
+    },
+    {
+      "id": 3,
+      "name": "Create Your Flavour Fun Combo - Box Of 2 - Veg Pizza",
+      "price": "218",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/7/e4a3d9a3-9997-4b73-accc-b029abeb1cc9_83eb91d8-7d3d-4463-8e7e-9188ba95bcf7.jpg_compressed",
+      "details": "Choose any 2 veg personal pizzas from our flavour fun range. For Meals, refer to the nutritional data for individual products."
+    },
+    {
+      "id":4,
+      "name": "Pongal O Pongal Platter Combo",
+      "price": "549",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/13/10746e2e-82d3-4be9-9851-10c2d9ce366b_2cc39a54-15e8-4f54-ad52-1eb38ecad0cf.jpg_compressed",
+      "details": "An assortment of 8 Pongal varieties 4 sweet (Akkaravadisal, Kavuni Karupatti, Thinai Thaen & Seeraga Samba Karupatti Pongal) and 4 kaaram (Paal Pongal, Kurumilagu Pongal, Mapillai Samba Pongal & Pudina Pongal), prepared using traditional grains and served together as a festive platter"
+    },
+    {
+      "id":5,
+      "name": "Kerala Paratha",
+      "price": "25",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/2e4337377b55a7885c82d8c5da8975f0",
+      "details": "A delectable Indian bread known for its flaky layers and impeccable taste that perfectly complements any vegetarian meal."
+    },
+    {
+      "id":6,
+      "name": "Aloo Paratha",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/5d258e620764f561ac84d34c9a5294dc",
+      "details": "Whole wheat paratha stuffed with spiced potato filling, served with curd & pickle"
+    },
+    {
+      "id": 7,
+      "name": "Combo 1: Aloo Paratha+tawapulav+sweet+raita+pickle+salad",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/23/fec7bee3-23dc-48d0-bc0c-c1d696b2f87f_c2fec0c3-8168-4290-9f87-888ac473d55f.png",
+      "details": "The combo includes a stuffed golden brown paratha, flavorful tawa pulav, boondi raita, salads, a tangy pickle and mouthwatering gulab jamun or rasgulla. A satisfying and well rounded meal"
+    },
+    {
+      "id": 8,
+      "name": "Aloo Paratha & Double Omelette Combo",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/8/097f087c-ea74-45a4-a035-7b7bd24205c4_8ed40472-0787-4ab5-9212-14edf7636db3.jpeg",
+      "details": "Two warm & fresh Aloo Paratha served with a sumptuous omelette made of 2 eggs. (Energy: 1070KCal, Carbohydrates: 102gm, Proteins: 32gm, Fats: 58gm, Sodium: 556mg)"
+    },
+    {
+      "id": 9,
+      "name": "Curd Rice Chicken Sholay Combo",
+      "price": "315",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/3/2783f5a8-cc1c-4c13-a5c8-d64ade988999_2ddf53d2-5d56-4413-b507-de560395e020.jpg",
+      "details": "Curd rice with chicken sholay combo is a traditional and cultural staple in south indian cuisine served with pickle & chicken 65"
+    },
+    {
+      "id": 10,
+      "name": "Non Veg Breakfast Combo",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/24/73974691-1950-485c-b075-e4ca49a7770d_72c23cae-666e-4555-b289-98730537763c.jpg",
+      "details": "MEAT LOVERS REJOICE! Introducing our FIRST-EVER LAUNCHED COMBO - Non-Vegetarian Meat Lovers Breakfast Special! Start your day with a power-packed breakfast featuring a medley of Idlis, Idiyappam, Dosa, Appam, Parotta, and Chapati, paired with a choice of Spicy Chicken, Mutton, or Fish Gravy. All this at an affordable price! Don't miss out on this unbeatable offer!"
+    },
+    {
+      "id": 11,
+      "name": "Curd Rice Paneer Sholay Combo",
+      "price": "275",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/3/ffe858fb-7df5-4c4e-9fa5-d2a129565cdd_7c582d9e-b5b2-46c4-be0c-f17ee7e1f298.jpg",
+      "details": "Curd rice with paneer sholay a traditional and cultural staple in south indian cuisine served with pickle & paneer 65"
+    },
+    {
+      "id": 12,
+      "name": "Kerala Paratha(3pcs)+Chicken Masala+Pepsi(250ml)",
+      "price": "260",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dcf461be59d16d3821905f50744dd5dd",
+      "details": "A flavorful combination of Kerala Paratha, succulent Chicken Masala, and a refreshing Pepsi."
+    },
+    {
+      "id": 13,
+      "name": "Cheesy Garlic Bun",
+      "price": "95",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/4/50c7d4ca-f5c9-4cb6-a683-e8b4231aa87c_14bb52d0-a1f1-4001-9419-c855b1dee5f6.jpg",
+      "details": "A soft, buttery delight bursting with bold garlic flavor and loaded with cream Cheese"
+    },
+    {
+      "id": 14,
+      "name": "Cheezo Garlic Bread Stick",
+      "price": "155",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/8/1dd85d87-e7b3-44f7-a7b5-c69dbff5f377_689d8691-ca6e-4d8a-8ae9-cca6ad66cbb4.JPG",
+      "details": "A golden, crispy delight with rich melted cheese and a bold garlic flavor."
+    },
+    {
+      "id": 15,
+      "name": "Mini Garlic Murukku",
+      "price": "65",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f8608aa636b6e527a77896f7e6fbe6f0",
+      "details": "Bite-sized garlic-flavored murukus, crisp and addictive."
+    }
+  ],"Aloo Paratha ComboItem":[
+     {
+      "id": 1,
+      "name": "Aloo Paratha Curd Meal (2 pcs)",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/8/acd62c5b-703c-4b56-9184-057ce42fee25_b3d3cc66-7506-48ac-bf4e-52e0d5d385fd.jpeg",
+      "details": "Humble beginning of the day with these dhaba style parathas stuffed with aloo masala. Served with creamy curd and butter as sides. (Energy: 852KCal, Carbohydrates: 102gm, Proteins: 23gm, Fats: 38gm, Sodium: 144mg)"
+    },
+    {
+      "id": 2,
+      "name": "Combo 1: Aloo Paratha+tawapulav+sweet+raita+pickle+salad",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/23/fec7bee3-23dc-48d0-bc0c-c1d696b2f87f_c2fec0c3-8168-4290-9f87-888ac473d55f.png",
+      "details": "The combo includes a stuffed golden brown paratha, flavorful tawa pulav, boondi raita, salads, a tangy pickle and mouthwatering gulab jamun or rasgulla. A satisfying and well rounded meal"
+    },
+    {
+      "id": 3,
+      "name": "Aloo Paratha Combo",
+      "price": "475",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/bpdsarrnialj7p4kngzj",
+      "details": "Flatbread made with whole wheat flour dough and stuffed with savory, spiced grated Potato. Served with curd /pickle + Kanda Poha."
+    },
+    {
+      "id":4,
+      "name": "Aloo Paratha",
+      "price": "121",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f717a9328585a4cdf9e0b2f39dea43e5",
+      "details": "Whole wheat bread stuffed with a delicious mixture of spiced mashed potatoes."
+    },
+    {
+      "id":5,
+      "name": "Aloo Paratha Chole Meal Combo",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/24/740c84dd-4de2-4662-8e15-f9c4d6a206cd_51843140-23d8-4206-a0ff-eb2e61c3a872.jpg",
+      "details": "Aloo paratha (4 slices), chole, curd, pickle, onion salad, mint chutney"
+    },
+    {
+      "id":6,
+      "name": "Aloo Matar & Paratha Combo",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/30/7dc19fd3-b30d-40e4-8227-aad79b584a78_02537b2f-43d7-4f2b-99d3-da4d788bc864.jpg_compressed",
+      "details": "[Comforting | Serves 1] Homestyle Matar Aloo made in a savory gravy served with Lachha Paratha + Salad + Chutney. Nutritional Info (Per 100g): Energy: 200 Kcal | Carbohydrates: 17g | Protein: 5g | Fat: 11g"
+    },
+    {
+      "id": 7,
+      "name": "Kadhai Aloo & Paratha Combo",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/30/7dc19fd3-b30d-40e4-8227-aad79b584a78_02537b2f-43d7-4f2b-99d3-da4d788bc864.jpg_compressed",
+      "details": "[Non - Spicy | Comforting | Serves 1] Potato simmered in a masala gravy made with freshly ground spices served with Lachha Paratha + Salad + Chutney.Nutritional Info (Per 100g ): Energy: 200 Kcal | Carbohydrates: 17g | Protein: 4g | Fat: 11g."
+    },
+    {
+      "id": 8,
+      "name": "Aloo paratha with dal makhani meal combo",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/27/4fc46861-1cbe-4120-844c-ebb8685e4462_7252d575-8255-46a7-956a-1d0f173a5a2f.jpg",
+      "details": "Aloo paratha (4 slices), dal makhani, curd, pickle, mint chutney"
+    }
+  ],"Chicken ParathaItem":[
+     {
+      "id": 1,
+      "name": "Chicken Lababdar Paratha Lunchbox",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/9/7199ada9-6f85-4265-9220-9d030fe85cfc_f93fca3c-aba9-4ede-828e-43738e2f82a8.jpeg",
+      "details": "Order this for an explosion of flavours! Tender chicken tossed in delicious gravy served with hot Parathas (Energy: 794KCal, Carbohydrates: 89gm, Proteins: 33gm, Fats: 48gm, Sodium: 1143mg)"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Tikka Masala Paratha Lunchbox",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/9/3459f4b0-aef4-4ec7-8133-604bf040742e_13037f19-b3ea-4e50-bff7-eca162534ce3.jpeg",
+      "details": "Tender grilled chicken pieces tossed in a flavourful gravy served with hot Parathas. (Energy: 699KCal, Carbohydrates: 81gm, Proteins: 33gm, Fats: 42gm, Sodium: 918mg)"
+    },
+    {
+      "id": 3,
+      "name": "Atta Paratha Chicken Curry",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/27/f940a00b-696a-42f6-9b52-aecde3501f9e_84f52ac3-e8c0-49f0-b5fd-d88436803484.jpg",
+      "details": "3 Paratha and chicken curry,medium spicy South Indian chattinad gravy."
+    },
+    {
+      "id":4,
+      "name": "Smoked Butter Chicken and Paratha Lunchbox",
+      "price": "309",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/9/af932fca-3f61-438e-9152-c34bf86b3589_7ccd658b-010f-4923-9853-4147a67b8365.jpeg",
+      "details": "A rich, smoky butter chicken curry paired with 3 parathas and onion-lemon salad perfect for indulgent lunch breaks."
+    },
+    {
+      "id":5,
+      "name": "Chicken Kothu Paratha",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/5/40f095e4-7b22-484f-a2a7-4e22999a8a0c_8938a89a-b3cc-4a0d-9041-8767338a30be.jpeg",
+      "details": "A flavorful twist on a classic Indian street food favorite, featuring tender chicken and layers of flaky, crispy parotta."
+    },
+    {
+      "id":6,
+      "name": "Chicken Kothu Paratha",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/fz3vgaqxepfkgx6hg0ax",
+      "details": "Serve 1"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Kothu Paratha",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/19/99afe36d-6cab-4c39-beb0-b7aec6ee83c5_a8cfc5f4-f545-4014-b44b-5280a78b7d73.jpg",
+      "details": "A flavorful South Indian dish featuring shredded chicken and flaky paratha cooked together to create a delicious and satisfying meal."
+    },
+    {
+      "id": 8,
+      "name": "Butter Chicken Parantha Combo",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/xaaswmorkxolyck9z0p3",
+      "details": "Rich butter chicken curry alongside a flaky parantha, perfect for a luxurious meal."
+    },
+    {
+      "id": 9,
+      "name": "Ceylon Chicken Paratha",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/15/8e72dfe6-6850-4b6a-ad11-b168d8831d3e_e0a2765b-fc80-4272-852d-eb3c632dabc6.JPG",
+      "details": "serves 1"
+    },
+    {
+      "id": 10,
+      "name": "Chicken Stuffed Paratha",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/1/97e0406e-4888-4528-8a7a-5914cc748066_fafcd807-4299-46f9-86ec-54c61543c162.jpg",
+      "details": "Paratha stuffed with some onion ,and special home made masala with chicken"
+    },
+    {
+      "id": 11,
+      "name": "Butter Chicken Paratha Meal",
+      "price": "309",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/ec423c9c-9781-4c4e-869e-31f44c4f1e5b_42950f07-dd83-4624-9f31-494af9e17bbf.jpg_compressed",
+      "details": "Succulent boneless Chicken cooked in an irresistibly rich and flavourful gravy. Served with Whole Wheat Paratha (3 Nos) and Raita."
+    },
+    {
+      "id": 12,
+      "name": "Ceylon Chicken Paratha",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/2/8e79cb8d-6610-4a76-b2ba-9c9c52ac783d_c4e8af15-63dd-4d10-bdd7-24f9d4b872bb.jpeg",
+      "details": "A simple, yet wholesome combo juicy chicken kothu parotta; mixture of tomato , onion , chicken and egg served along with gravy."
+    },
+    {
+      "id": 13,
+      "name": "Chicken Chilli Paratha",
+      "price": "290",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/13/f07d6528-b971-4592-8815-0d2b4f125bc5_b7206241-0605-4348-b96d-a1a27dd9a197.JPG",
+      "details": "A delectable blend of juicy chicken and flavorful spices, wrapped in a warm and flaky paratha, delivering a burst of savory satisfaction."
+    },
+    {
+      "id": 14,
+      "name": "Murgh Tikke Ki Makhani And Tawa Paratha Meal (Serves 1)",
+      "price": "597",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/aom1pbzqoxbfhr1ptrgy",
+      "details": "Our ode to an all time classic -- A 70 year old recipe of Tandoori chicken tikkas getting tossed in a silky tomato gravy lush with butter and cream, paired with choice of bread, choice of beverage, laccha pyaz & mango pickle Disclosure: For allergens/nutritional information (including calories and serving size), please refer the individual item"
+    }
   ]
 }
