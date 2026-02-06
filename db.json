@@ -16067,5 +16067,323 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/14/0b8f94db-fdfb-4bcb-ae99-2e05692660ce_454a24e9-4b80-4266-a451-e551c3bad7c3.jpg",
       "details": "A refreshing and juicy fruit bowl featuring ripe muskmelon, perfect for a light and tasty snack."
     }
+  ],"RollItem":[
+     {
+      "id": 1,
+      "name": "Butter Chicken Parantha Roll",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/h54c136gw9vn2gy7poka",
+      "details": "Authentic butter chicken wrapped in a ulta tawa paratha"
+    },
+    {
+      "id": 2,
+      "name": "Classic Chicken Roll",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ebd8e706049e4fd5ca79ecf708f8ecba",
+      "details": "Street style roll with single chicken strip, onions and two spicy sauce [1 unit of Classic Chicken Roll]"
+    },
+    {
+      "id": 3,
+      "name": "Paneer Angara Roll",
+      "price": "229",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/lwtzkpgsjtmsuzsdmo25",
+      "details": "Roasted Soft Paneer With Onion Mint Sauce Wrapped In A Ulta Tawa Paratha"
+    },
+    {
+      "id":4,
+      "name": "Chicken Tikka Roll",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/21/103c1c39-583f-452a-8ab8-0e4c695c78e9_9d37baca-0396-4a6d-9d1f-fd8ea5fd8836.png_compressed",
+      "details": "Tender chicken tikka pieces marinated in spices, grilled to perfection, and wrapped in a soft paratha. A smoky, flavorful roll that hits the spot every time. Calories :  550 kcal .Protein  : 28 g .Carbs : 29 g ,Fats : 38 g Our shawarmas are made in a traditional style. Tender pieces of filling, rolled in soft flaky bread made in true arabian style. Hand ground spices, authentic middle east style makes our shawarma a truly tasty experience."
+    },
+    {
+      "id":5,
+      "name": "Mush Wrap [230 Kcal]]",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/rmd631pz42x6zqilttm6",
+      "details": "This 10' whole wheat wrap contains fresh sauted mushroom in to it and you could choose to add you choice of veggies and other proteins in to it!!! time to have some healthy and delicious wrap..Calories: 230 kcal Protein: 11g Fiber: 5g"
+    },
+    {
+      "id":6,
+      "name": "Chicken Roll",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/25/b2a2314b-55d2-473f-8d2f-4fc2275cd2c8_a76263f9-2ac6-4bf4-96b1-eb8fe6f058bf.JPG",
+      "details": "A wholesome dish with delicious mineced chicken  wrapped in a soft indian bread - perfect to satisfy your hunger pangs."
+    },
+    {
+      "id": 7,
+      "name": "Double Chicken Roll",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ebcda29a62123bbf8bb8a33bbe2ab847",
+      "details": "Double fun with double chicken strip filling, layerful parantha onions and two spicy sauce [1 unit of Double Chicken Roll, Serves 1]"
+    },
+    {
+      "id": 8,
+      "name": "Malai Tikka Roll",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/hbkkb9rqfvgeeecrvehq",
+      "details": "6pcs of malai kebab stuffed in to a rumali roti/kuboos with onion and sauces "
+    },
+    {
+      "id": 9,
+      "name": "Chicken Roll",
+      "price": "133",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/18/adf7a68e-1288-442c-8882-4e756bb4a982_2d0587b3-6a05-422d-a7c9-a7f6d9e4a0db.jpg",
+      "details": "Serve 1"
+    },
+    {
+      "id": 10,
+      "name": "Achari Paneer Tikka Roll",
+      "price": "339",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/12/5349130b-42db-4bfe-974d-b799141d0693_05c27406-72e4-4a26-bd2b-4a07e5cf0cb5.jpeg",
+      "details": "A tangy and spicy paneer tikka roll, marinated with Indian pickle (achar) spices and yogurt, delivering a bold, zesty taste wrapped in a soft roll."
+    },
+    {
+      "id": 11,
+      "name": "Chicken Kheema Roll",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/21/66417113-6b05-45bb-be2c-f2cc96dc725e_833583fa-5abf-4c6d-aa7b-d0d4617fa936.png_compressed",
+      "details": "Soft, flaky paratha filled with flavorful minced chicken, slow-cooked with aromatic spices for a rich and juicy bite.Calories :  620 kcal , Protein  : 31 g , Carbs : 31 g , Fats : 41 g Our shawarmas are made in a traditional style. Tender pieces of filling, rolled in soft flaky bread made in true arabian style. Hand ground spices, authentic middle east style makes our shawarma a truly tasty experience."
+    },
+    {
+      "id": 12,
+      "name": "Masala Chicken Tikka Wrap",
+      "price": "198",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/21/bf671cea-0d66-4923-badc-2e547d407735_87fde05a-d7cc-44ae-bf7c-fd6f87bb1e24.jpeg",
+      "details": "This classic wrap is a walk down the memory lane. Smoky marinated chicken tikka with cooked onion, generously drizzled with minty, tangy mayo wrapped in a soft roti."
+    },
+    {
+      "id": 13,
+      "name": "Paneer Tikka Roll",
+      "price": "80",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/7/e35a9894-78da-442a-bb52-11e96fddfa47_b8a7266c-f11c-4972-8cbc-5a404d14b7f4.jpg",
+      "details": "Juicy paneer tikka wrapped in a soft roll, bursting with flavors and perfect for snacking."
+    },
+    {
+      "id": 14,
+      "name": "Masala Paneer Tikka Wrap",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/21/b457198d-e5ed-4c89-ad00-d4e301ca18d6_e8243183-b333-405f-8bad-d118cf519ccf.jpeg",
+      "details": "Roll into nostalgia with one of the veterans from our menu! Made with fresh marinated paneer, cooked onion, smoked to perfection and drizzled with minty, spicy mayonnaise and wrapped in soft roti."
+    },
+    {
+      "id": 15,
+      "name": "Peri Peri Chicken Roll",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/2/ab23d37d-31af-46d7-9a38-67cf218db309_2fbb4d48-1d55-476d-8f5c-17e80005fff4.png",
+      "details": "Spicy Peri Peri-marinated chicken , grilled to perfection and wrapped in a flaky paratha for a fiery, flavorful roll."
+    }
+  ],"Rolls & WrapsItem":[
+     {
+      "id": 1,
+      "name": "Panner Tikka Roll",
+      "price": "215",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/28/33ee45a1-00cd-4ac1-a193-5db87f7dda22_ae1d26f1-6ceb-44d9-868a-7bb8b0acc767.JPG",
+      "details": "Tandoori marinated cottage cheese cubes skewered with onions and peppers with kachumbar and mint chutney"
+    },
+    {
+      "id": 2,
+      "name": "Classic Chicken Roll",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ebd8e706049e4fd5ca79ecf708f8ecba",
+      "details": "Street style roll with single chicken strip, onions and two spicy sauce [1 unit of Classic Chicken Roll]"
+    },
+    {
+      "id": 3,
+      "name": "Paneer Tikka Signature Wrap",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/21/afaf93d3-7330-4e2c-a303-1405f7b7dfa5_0dbc6f6c-5aa4-4f27-ba74-ce891d91ebc9.jpg",
+      "details": "Serving size: 29 g protein / 719 kcal / 349 g. Double the yum with double portion of spicy paneer, marinated in tandoori sauce, along with nutritious veggies and your favourite sauces, inside a tortilla of your choice. Allergens - contains wheat, barley, oats, milk, cashew nut. Polyols may have laxative effects. Values include 11. 5 multigrain wrap. "
+    },
+    {
+      "id":4,
+      "name": "Indian Spicy Veg Roll",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/10/523afb1b-9bc9-4a4f-9c6e-1dda60b7da21_61c763cc-a9ca-4c13-ba15-3fe28d631b91.jpg",
+      "details": "Veg special spicy indian sauce and veggie roll"
+    },
+    {
+      "id":5,
+      "name": "Chicken Tikka Roll",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/21/103c1c39-583f-452a-8ab8-0e4c695c78e9_9d37baca-0396-4a6d-9d1f-fd8ea5fd8836.png_compressed",
+      "details": "Tender chicken tikka pieces marinated in spices, grilled to perfection, and wrapped in a soft paratha. A smoky, flavorful roll that hits the spot every time.Calories :  550 kcal .Protein  : 28 g .Carbs : 29 g ,Fats : 38 g Our shawarmas are made in a traditional style. Tender pieces of filling, rolled in soft flaky bread made in true arabian style. Hand ground spices, authentic middle east style makes our shawarma a truly tasty experience."
+    },
+    {
+      "id":6,
+      "name": "Chicken Kathi Roll",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/17/b0230f10-a23d-4f9f-a0f0-b1a8a0f17629_24df2e28-7ff0-4f86-af43-a3230d080265.jpg",
+      "details": "Egg Flatted on Parotta,Filled  with Chicken Tikka and mint sauce  topped with onion, cabbage,capsicum and Tomato ketchup rolled"
+    },
+    {
+      "id": 7,
+      "name": "Cheese Melt Double Egg Roll",
+      "price": "155",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/29/6f1b2b80-7894-43cc-b6b9-1fea11d6742a_93632c12-eb63-4890-9ad9-2e140ee4e98f.png",
+      "details": "Golden-fried eggs are loaded with silky, creamy cheesy and wrapped in a soft roti. An overload of cheese, just like you wanted"
+    },
+    {
+      "id": 8,
+      "name": "Cinnamon Roll",
+      "price": "95",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/22/b09c624e-1fd1-46b8-a4b1-1aa1f721c0f0_88ce09f7-a077-43cf-baaf-7228d5ce659b.jpg",
+      "details": "Danish dough filled with a mixture of butter, sugar, brown sugar, cinnamon powder, and baked to perfection"
+    },
+    {
+      "id": 9,
+      "name": "Paneer Tikka Roll",
+      "price": "180",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b44e83872b101df50de4c2ebfdca4eaa",
+      "details": "Soft wrap filled with butter-cooked paneer tikka, fresh veggies and mild spices. A tasty, satisfying roll made healthier with balanced ingredients and minimal oil."
+    },
+    {
+      "id": 10,
+      "name": "Chicken Egg Kathi Roll",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/3/a5d9ad1b-5f4d-4d1d-a1e5-eae65bbba333_55506927-fcb3-47c3-bb78-bee905cfc2b0.jpg",
+      "details": "Succulent Tandoori chicken further marinated in aromatic Indian spices, finished with fresh herbs and veggies and enveloped in an egg-layered soft roti— a refined take on the beloved Kolkata street roll."
+    },
+    {
+      "id": 11,
+      "name": "Chicken Tikka Roll",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/22/defd652e-60fe-4367-8718-21dd1b1684d3_0f348f87-6e18-4c2a-a623-b79917d58791.jpg",
+      "details": "Flavourful chicken tikka paired with signature marinated onion and mint chutney, wrapped inside a soft, egg-coated roti. Simple. Classic. Delicious."
+    },
+    {
+      "id": 12,
+      "name": "Schezwan Paneer Roll",
+      "price": "175",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/fnn8ic2ktwqllkvjnjp8",
+      "details": "Chinese style cottage cheese cubes topped with the even popular schezwan sauce and khimchi."
+    },
+    {
+      "id": 13,
+      "name": "Yaghma Roll",
+      "price": "229",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/22/65add66c-ed98-4458-935e-df59eca6b25c_5af90b68-af2c-47ca-a89e-4b5546857204.jpeg",
+      "details": "Our signature chicken  roll with Yaghmas secret ingredients"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Kati Roll",
+      "price": "233",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/11/07e8a83a-2ee0-48ad-92c7-296c37417c74_a150fbdf-ccd6-4ff1-9fe6-eabdbb074f10.JPG",
+      "details": "Serve 1"
+    },
+    {
+      "id": 15,
+      "name": "Schezwan Paneer Frankie Roll",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cl2blc6fhuhbrisqmdij",
+      "details": "Cubes of paneer fried crisp served with a topping a hot and fiery Schezwan sauce, garnished with onions, pickled chilli and our special frankie masala."
+    }
+  ],"Chicken RollItem":[
+     {
+      "id": 1,
+      "name": "Butter Chicken Parantha Roll",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/h54c136gw9vn2gy7poka",
+      "details": "Authentic butter chicken wrapped in a ulta tawa paratha"
+    },
+    {
+      "id": 2,
+      "name": "Classic Chicken Roll",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ebd8e706049e4fd5ca79ecf708f8ecba",
+      "details": "Street style roll with single chicken strip, onions and two spicy sauce [1 unit of Classic Chicken Roll]"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Tikka Anda Roll",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/15/032a47b5-4873-47c2-9a97-edc939b4ff4a_ea5fec0e-b119-48bf-a282-94f44dada0ad.png_compressed",
+      "details": ""
+    },
+    {
+      "id":4,
+      "name": "Double Chicken Roll",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ebcda29a62123bbf8bb8a33bbe2ab847",
+      "details": "Double fun with double chicken strip filling, layerful parantha onions and two spicy sauce [1 unit of Double Chicken Roll, Serves 1]"
+    },
+    {
+      "id":5,
+      "name": "Chicken Tikka Wrap [390 Kcal]",
+      "price": "329",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/c0gddnotgnf8sgfypwch",
+      "details": "This 10' whole wheat wrap contains fresh chicken tikka which adds as a great source of protein in to your diet and you could choose to add you choice of veggies and other proteins in to it!!! time to have some healthy and delicious wrap.. Calories: 390 kcal Protein: 24g Fiber: 4g"
+    },
+    {
+      "id":6,
+      "name": "Chicken Roll",
+      "price": "133",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/18/adf7a68e-1288-442c-8882-4e756bb4a982_2d0587b3-6a05-422d-a7c9-a7f6d9e4a0db.jpg",
+      "details": "Serve 1"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Seekh Roll",
+      "price": "185",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/qrsh8msgu83o3pvanhkw",
+      "details": "Chicken Seekh Roll: Spicy and flavorful chicken seekh kebabs, skewered and grilled until charred, then wrapped in a soft roll along with fresh veggies and sauces for a delicious and filling snack or meal."
+    },
+    {
+      "id": 8,
+      "name": "Chicken Tikka Roll",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/lemkz5kscuysoiuadjyu",
+      "details": "6pcs of tikka kebab stuffed in to a rumali roti/kuboos with onion and sauces  "
+    },
+    {
+      "id": 9,
+      "name": "Crunchy Chicken Wrap",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/28/ddfc01d5-4b66-451d-a368-3e666627f525_a3055e87-7767-4ff3-8ca7-67bb4a313060.jpg",
+      "details": "Fried chicken  in a tortilla wrap"
+    },
+    {
+      "id": 10,
+      "name": "Chicken Tikka Roll",
+      "price": "219",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/17/f652b974-3aa2-4e05-89d1-b9ceb5698690_4c89a120-e9d6-4f42-83bf-7155429cbc5c.jpg",
+      "details": "Juicy skinless chicken tikka cooked with less oil, wrapped in a soft kuboos roll with fresh veggies. A tasty, high-protein option made clean and satisfying."
+    },
+    {
+      "id": 11,
+      "name": "Chicken Roll Dilli Istyle",
+      "price": "109",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/2/e0bbe918-58d6-42b4-8734-fa07c4d50c9c_f6b0aa29-a871-4cff-bbda-9d2ac34ac8b5.png",
+      "details": "Chicken seasoned with bold Indian spices, paired with eggless mayo, and wrapped in our flaky paratha for a rich and flavorful bite."
+    },
+    {
+      "id": 12,
+      "name": "Chicken Sheek Roll (kubbus)",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/17/cc39cd81-bc19-4996-87c0-95e40ba1af32_1d807f39-469d-406f-9aa3-329c6319ba04.jpg",
+      "details": "Tender chicken sheek kebab wrapped in soft kubbus bread with fresh veggies and zesty sauce."
+    },
+    {
+      "id": 13,
+      "name": "Tandoori Chicken Roll",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/2/e64a173e-1ad3-4935-b316-0efb0f52d2f4_93434a08-0f84-42a1-8f30-78059a47932c.png",
+      "details": "Tandoori flavored chunks of Chicken wrapped in flaky paratha"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Kabab Roll",
+      "price": "219",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/22/093d301e-7adb-4598-a934-55a688596c73_7a3b8332-e17b-435a-95de-377029ce7bf7.jpeg",
+      "details": "Minced chicken  along with our secret spices wrapped in rumali bread || medium spicy ||"
+    },
+    {
+      "id": 15,
+      "name": "Chicken tikka roll",
+      "price": "180",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/29cd399f-19f4-40ff-9820-17ff69aa127e_4070ce0e-c2a0-4cf9-bbd4-f36e4f75b740.jpg",
+      "details": "Succulent pieces of marinated chicken, grilled to perfection, wrapped in a soft, warm flatbread for a delightful bite."
+    }
   ]
 }
