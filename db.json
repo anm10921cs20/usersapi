@@ -16385,5 +16385,593 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/29cd399f-19f4-40ff-9820-17ff69aa127e_4070ce0e-c2a0-4cf9-bbd4-f36e4f75b740.jpg",
       "details": "Succulent pieces of marinated chicken, grilled to perfection, wrapped in a soft, warm flatbread for a delightful bite."
     }
+  ],"Fruit SaladItem":[
+     {
+      "id": 1,
+      "name": "Exotic Fruit Salad",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/28/a2ae7b07-1828-43fc-84f6-ba84324964d1_58a2463b-158d-4001-a89a-04ec3a2761f3.JPG",
+      "details": "A vibrant mix of exotic fruits, bursting with fresh, juicy flavors in every bite!"
+    },
+    {
+      "id": 2,
+      "name": "Fruit Salad",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/25/98d245ee-0069-4c3b-a0cb-2d818015d789_adb65519-3434-4a46-8ab4-86e85d8a93aa.JPG",
+      "details": "Assorted sliced fruits platter."
+    },
+    {
+      "id": 3,
+      "name": "Fruit Salad",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b0221a02b07704089aa2f3ac859f1081",
+      "details": "Fresh Cut fruits with Premium vanilla Icecream"
+    },
+    {
+      "id":4,
+      "name": "Fruit salad",
+      "price": "119",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/12/ba3741d1-c2a6-4a56-8cb8-5f8a63d9792c_1190fb38-0c40-46f4-98e3-1b9426e7af42.jpg",
+      "details": "A refreshing medley of vibrant, juicy pieces that burst with flavor and delight with every bite."
+    },
+    {
+      "id":5,
+      "name": "Eggs + Sprouts Salad + Fruit Salad",
+      "price": "229",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/8/7382bb58-3bb0-4120-8268-f3cae415a4e3_94c27c01-22f6-4792-a75f-e68fd28a5ea2.JPG",
+      "details": "A nutrient-dense combination featuring protein-packed eggs, a crunchy sprouts salad, and a fresh fruit salad for a burst of natural sweetness. This meal provides balanced nutrition with high-quality protein, fiber, and antioxidants—perfect for a wholesome, energizing start to your day."
+    },
+    {
+      "id":6,
+      "name": "Fruit Salad With Vanilla Ice Cream",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f08u2rsmbtegoykx4bia",
+      "details": "A delightful combination of fresh fruits and creamy vanilla ice cream. Serves 1"
+    },
+    {
+      "id": 7,
+      "name": "Mixed Fruit Bowl ( Mini Punch )",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/13/36b8c296-8270-48ff-a8b0-4f8f81b71a80_ee1707c5-ab8a-403d-91eb-be821807219c.jpg",
+      "details": "A vibrant medley of fresh fruits served in a delightful mini punch bowl."
+    },
+    {
+      "id": 8,
+      "name": "Fruit Salad",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/9/0f304bab-e91d-43e5-ae60-cd197bda3026_69d5afa7-5dba-4e25-a675-705758c91a9e.jpg",
+      "details": "A vibrant and refreshing medley of seasonal fruits that tantalizes the taste buds with its burst of natural flavors."
+    },
+    {
+      "id": 9,
+      "name": "Fruit Salad",
+      "price": "50",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/17/404a4bdb-c46b-431a-83d9-90050ed4c7f0_588c204b-a2c5-414c-b6bd-180651b725b0.jpg",
+      "details": "A refreshing medley of vibrant fruits, harmoniously blended for a delightful, thirst-quenching experience."
+    },
+    {
+      "id": 10,
+      "name": "Fruit Salad",
+      "price": "173",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/19/9b7172a2-f8d4-4280-9290-31005fa8fc7f_c5b6ea73-6642-4680-ad12-b7820fecd808.jpg",
+      "details": "A colorful medley of fresh fruits tossed together for a refreshing and sweet treat."
+    }
+  ],"Chicken SaladItem":[
+     {
+      "id": 1,
+      "name": "Chicken Teriyaki Salad",
+      "price": "349",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/22/81aa4b4f-bb39-4ca9-aae2-026859872847_e9e87712-e90c-455b-aa6d-25d7d4b73931.jpg",
+      "details": "Serving size: 18 g protein / 240 kcal / 409 g. Enjoy our teriyaki flavours in a salad, now with 1. 5x protein. Chicken strips glazed with teriyaki sauce, served with veggies and sauces of your choice. Allergens - contains wheat, milk, soy. Values include lettuce, tomatoes, green peppers, cucumbers, onions, pickle, jalapenos and olives. "
+    },
+    {
+      "id": 2,
+      "name": "Hawaian Chicken Salad",
+      "price": "229",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/6baa3139f3819c5e996060691af32169",
+      "details": "Featuring grilled chicken breast, fresh pineapple, lettuce, tomatoes, and shredded coconut, all tossed in a tangy pineapple vinaigrette."
+    },
+    {
+      "id": 3,
+      "name": "Superfood Chicken Salad",
+      "price": "575",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/8/0c8e46bb-1a93-4214-b0ad-3cae43d20423_f36922d1-973e-40d3-a401-5263fbf6ee2f.jpg",
+      "details": "Spinach, Iceberg Lettuce, Blueberries, Strawberries,  Walnuts, Almonds, Cherry Tomatoes, Feta, Chia Seeds,  Yogurt & Soya Milk dressing with Sesame Crusted chicken"
+    },
+    {
+      "id":4,
+      "name": "Pulled Chicken Salad",
+      "price": "469",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/16/43acb3fa-424e-46fb-94fc-ebfe2fbee6bd_5a775e3c-8fa7-4d3e-b3ec-bb763a30fb29.jpg",
+      "details": "Pulled chicken, baby potato, roasted peppers all tanged up with cranberry and garlic. Do your mouth a flavour. 438 calories"
+    },
+    {
+      "id":5,
+      "name": "Dijaj Chicken Salad",
+      "price": "405",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/766236aa7d46174aeb9a404a521bc16c",
+      "details": "Mixed Green Salad With Garlic Dressing & Grilled Chicken"
+    },
+    {
+      "id":6,
+      "name": "Ceasar Salad Chicken",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/25/95a98943-7d74-465d-81fb-7c0c4f58d864_60c632d1-f074-46c4-afd1-ff7da71fafde.JPG",
+      "details": "European classical salad served with grilled chicken cubes, shaved parmesan & garlic crutons."
+    },
+    {
+      "id": 7,
+      "name": "Chicken Caesar Salad",
+      "price": "475",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f673ef28a72bb7e1ec57f3f00703e630",
+      "details": "Crunchy lettuce, herbed croutons and creamy Caesar dressing"
+    },
+    {
+      "id": 8,
+      "name": "Chicken Tikka Caesar Salad",
+      "price": "400",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b69478719e3ba0cb120b65c535e8d9d0",
+      "details": "A delightful twist on the classic caesar salad, featuring tender chicken tikka, crisp romaine lettuce, parmesan shavings, and a tangy dressing for a burst of indian-inspired flavours."
+    },
+    {
+      "id": 9,
+      "name": "Grill'd Chicken Salad",
+      "price": "318",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/5/556f2aa0-f91a-4cd4-ba94-f1712a2107f0_757fb579-adf6-4411-b27e-0dcd84bd8ac3.jpg",
+      "details": "Iceberg lettuce, green lettuce, grilled chicken strips, zucchini, olives, nachos and peanuts with honey mustard dressing. Contains- Nuts"
+    },
+    {
+      "id": 10,
+      "name": "Grilled Barbeque Chicken Salad (Regular)",
+      "price": "319",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/27/6268b73f-0cde-4093-bad2-fc06da05d3d7_109c4b35-da5b-4d2c-980c-783bc1103646.jpg",
+      "details": "A crisp bowl of fresh greens that includes a variety of goodness such as corn salsa, pico de galla, pinto beans and grilled barbeque chicken."
+    },
+    {
+      "id": 11,
+      "name": "Grill Chicken Mayonnaise Salad.",
+      "price": "280",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/17/35542a72-1c4d-40d7-bc43-48213e6c6ed2_fad38e9f-8624-4d59-8329-c5b61227abd0.jpg",
+      "details": "Greens and proteins for you. Perfectly grilled chicken mixed with fresh lettuce and topped with mayo."
+    },
+    {
+      "id": 12,
+      "name": "Chicken Salad",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/wn99insktrqybbmpz4qx",
+      "details": "A delightful medley of tender chicken and fresh ingredients, perfect for a refreshing and satisfying salad experience."
+    },
+    {
+      "id": 13,
+      "name": "Chicken Steam Salad",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/14/8874332a-130c-45c8-af05-81c9b6ac6d80_6e6c1f0a-e03f-4c2b-aee1-e337b82b9416.png",
+      "details": "A wholesome blend of tender steamed chicken, crunchy stem vegetables, and a refreshing light lemon dressing, finished with aromatic fried garlic."
+    },
+    {
+      "id": 14,
+      "name": "Chicken Caesar Salad",
+      "price": "530",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/14/738e90d5-c9ea-4cc4-a04c-c792d4f42093_96609fa6-a729-4c6a-b02f-014b24b478d8.jpg",
+      "details": "Lettuce layered with caeser dressing topped with olives, cherry tomato, croutons and parmesan cheese"
+    },
+    {
+      "id": 15,
+      "name": "Pesto Grilled Chicken Salad",
+      "price": "575",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/rmqfj1balh1ms1zcko8x",
+      "details": "Fresh basil pesto, Grilled chicken, Caramelized onions, beans, lettuce, tomatoes, cheddar and mustard dressing."
+    }
+  ],"Green SaladItem":[
+     {
+      "id": 1,
+      "name": "Green Salad",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/3/b875b541-32d5-4c45-ab8f-3fa4ad398095_0d57027c-ea82-4ba1-9807-fbf6dbcc575d.jpg",
+      "details": "Freshen up your meal with our vibrant green salad. Crisp cucumber carrot, onion slices, and juicy cherry tomatoes come together in a delightful medley of flavours."
+    },
+    {
+      "id": 2,
+      "name": "Green Salad",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/13/8cd27bb8-ae5a-4243-acd4-79349af52c1c_004ee24a-358f-4114-8737-313b6e399278.png",
+      "details": "This refreshing green salad combines crisp cucumber, juicy tomato, crunchy carrot, and sharp onion with a kick of green chili. A squeeze of fresh lemon juice and a drizzle of olive oil bring everything together for a zesty, vibrant flavor. Perfect as a light side or a healthy snack!"
+    },
+    {
+      "id": 3,
+      "name": "Thai Green Mango & Noodle Salad",
+      "price": "425",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/da63b8b860de2d003a92f96a2ca70577",
+      "details": "Our version of this vibrant Thai classic with lettuce, raw mango, carrot, spring onion, glass noodles, basil, bell peppers, sesame oil, sweet chilli dip, crushed peanuts and coriander"
+    },
+    {
+      "id":4,
+      "name": "Fresh Green Salad",
+      "price": "50",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/1/d3a8ca4d-6f05-4219-ad20-890e078d0a13_66507544-57fa-4643-a981-108acdc35206.jpg",
+      "details": "Fresh slice of Cucumber, onions, tomato, carrots, lemon and green chilies."
+    },
+    {
+      "id":5,
+      "name": "Green Salad",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/19/140e90a8-d395-4398-8ae5-7c940b38cab5_21b1e40c-7e62-42b6-bfd5-d8ff1a839f88.jpg",
+      "details": "A refreshing medley of crisp greens, vibrant in color and bursting with natural goodness, this salad is a tantalizing treat for the taste buds."
+    },
+    {
+      "id":6,
+      "name": "Mixed Green Salad With Greek Vinegarette",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/7f988dae9b2d3366f790a3d9161a09ee",
+      "details": "Our mixed green salad features a crisp greens with fresh vegetables, topped with a zesty greek vinaigrette. It's a healthy and delicious option for a light lunch or refreshing side dish."
+    },
+    {
+      "id": 7,
+      "name": "Green Salad",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/22/86167a65-960a-4cb9-a7a0-9bf36b08707a_4a86a7e7-d8d1-4778-a0b7-ea70b113da48.jpg",
+      "details": "Premium Pick – Crafted with the Finest Ingredients!Serving Size:- 1 Bowl Approx.~ Refreshing mix of fresh, crisp vegetables, typically including lettuce, cucumbers, bell peppers, and green onions. Often dressed with a light vinaigrette or lemon juice, this salad is a healthy and vibrant side dish that complements' any meal, providing a burst of flavor and nutrients!"
+    },
+    {
+      "id": 8,
+      "name": "Garden Green Salad Bowl",
+      "price": "319",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/rb709ed5ggz3cr4wfifp",
+      "details": "Crunchy iceberg lettuce chopped, tomato wedges, onion rings, cucumber slices and corn with your choice of dressing which serves as a complete packed vitamins, minerals and nutrients to your daily diet!!!"
+    },
+    {
+      "id": 9,
+      "name": "Goat Cheese Pear / Green Apple Salad",
+      "price": "300",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/oo4uz0qzjunyxw1nphvy",
+      "details": "Fresh pear with prunes, lettuce soft or hard goat cheese with special dressing."
+    },
+    {
+      "id": 10,
+      "name": "Green Salad",
+      "price": "192",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/7/f041d8f3-5402-4398-b30b-1c4b4a7906f2_9a2b36a0-d9a7-4f13-a7d5-6631988fb59b.jpg",
+      "details": "Green Salad is a fresh, healthy, and simple dish made primarily with green vegetables. It’s a versatile dish that can be tailored to individual tastes with various additions and dressings.&nbsp;"
+    },
+    {
+      "id": 11,
+      "name": "Green Salad",
+      "price": "310",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/3/12176961-a640-47f6-b6df-6fa9e8dfad35_36fa0066-b344-4bcb-814a-2ca2e77da079.jpeg",
+      "details": "Sliced onion, carrot, cucumber, tomato, green chilli and lemon."
+    },
+    {
+      "id": 12,
+      "name": "Exotic Green Salad",
+      "price": "405",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/2/9bcfc3f5-2691-40f3-9bcc-d3c3328e1b05_8d61a616-c011-4b8e-8725-7a4824d0f375.jpg",
+      "details": "Crunchy Mix Of Lettuce, Cherry Tomato, Carrot Ribbon, Cucumber And Zucchini With Walnut, Pomegranate"
+    },
+    {
+      "id": 13,
+      "name": "Green Salad",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/9/b664a227-a71f-46d2-9b6d-e4953a84a025_b9169fe2-5e9a-44d3-ad0f-1c8efc13f604.jpg",
+      "details": "A refreshing medley of vibrant greens that burst with freshness and flavor, making it the perfect addition to any meal."
+    },
+    {
+      "id": 14,
+      "name": "Green Salad",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f2owicjiqvypcxmwsv3i",
+      "details": "Assortment of freshly cut salad vegetables"
+    },
+    {
+      "id": 15,
+      "name": "Green salad",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/20/c8dc0d7c-35cc-4364-a486-10fad6097d9e_fc5f4849-e5ce-44f6-acce-07e6137b7dde.jpg",
+      "details": "Healthy green salad made from slices of garden fresh greens."
+    }
+  ],"Barbeque SaladItem":[
+     {
+      "id": 1,
+      "name": "Barbeque Paneer Salad (Regular)",
+      "price": "319",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/27/46d2743b-94c0-4706-8b16-8aa3eaa6ab35_eb9be69f-ff50-4224-93d3-b9689f28a8d0.jpg",
+      "details": "A crisp bowl of fresh greens that includes a variety of goodness such as corn salsa, pico de galla, pinto beans and barbeque paneer."
+    },
+    {
+      "id": 2,
+      "name": "Fattoush Salad.",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/6dd670757a01ed4b2c6bb80d00fc38c4",
+      "details": "Oh yes, the Lebanese beauty. From onion to fresh cucumber and many more, all dressed in olive oil and topped with fried pita bread for the extra crunch and sumac powder for the punch."
+    },
+    {
+      "id": 3,
+      "name": "Grilled Barbeque Chicken Salad (Mini)",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/27/2d073916-139c-429a-99df-3f575aba2591_34bd687e-1b6d-4dd6-8fab-80c23ebc831c.jpg",
+      "details": "A crisp bowl of fresh greens that includes a variety of goodness such as corn salsa, pico de galla, pinto beans and grilled barbeque chicken."
+    },
+    {
+      "id":4,
+      "name": "Fathoush Salad",
+      "price": "239",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/78bbdad7a0f1cb535ca958e58483734d",
+      "details": "Enjoy our Fattoush Salad, a refreshing mix of crisp lettuce, tomatoes, cucumbers, radishes, herbs, and toasted pita bread, tossed in a zesty sumac vinaigrette."
+    },
+    {
+      "id":5,
+      "name": "Green Salad",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/13/8cd27bb8-ae5a-4243-acd4-79349af52c1c_004ee24a-358f-4114-8737-313b6e399278.png",
+      "details": "This refreshing green salad combines crisp cucumber, juicy tomato, crunchy carrot, and sharp onion with a kick of green chili. A squeeze of fresh lemon juice and a drizzle of olive oil bring everything together for a zesty, vibrant flavor. Perfect as a light side or a healthy snack!"
+    }
+  ],"Garbanzo Salad BowlItem":[
+     {
+      "id": 1,
+      "name": "Crunchy Wheat Taco Pinto Bean",
+      "price": "75",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/2/a56091ce-4671-4d1c-80dd-73ba42497d57_9e021b88-b148-4e3d-a530-e0d5c86cd9d8.png",
+      "details": "Delicious Crunchy Taco Wheat Shell filled with goodness of pinto beans & flavourful creamy sauces."
+    },
+    {
+      "id": 2,
+      "name": "Caesar Salad  Non Veg",
+      "price": "175",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/26/c38686e2-320b-4f7b-b689-c4abf9a3ef82_3c89ba30-1df1-4737-a51b-433e7d7b4a72.jpg",
+      "details": "A classic Caesar salad with crisp romaine lettuce, grilled chicken slices, crunchy croutons, and Parmesan cheese, all tossed in a creamy Caesar dressing, providing a perfect balance of freshness and protein."
+    },
+    {
+      "id": 3,
+      "name": "Spl Thali Chapati 3Pics,Dal 250 Ml,Panner Butter Masala250ml, Jeera Rice , Green Salad,Gobil 65 4 pc",
+      "price": "280",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/7/003bc3d6-2a2e-454c-8c9e-1c00f2514157_401e5ff8-fb03-451e-b8f6-67ea517ad40c.jpg_compressed",
+      "details": "Spl thai Chapati 3pics,dal 250 ml,Panner butter masala250ml, jeera rice , green salad,Gobil 65 4 pics , min pepsi"
+    },
+    {
+      "id":4,
+      "name": "Dejaj Cesar Salad",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/23/ee128ff6-7f4e-4710-b5ef-c594b4eea0d7_38a331da-60a8-47e7-8570-cec77f4254e7.jpg",
+      "details": "Crisp romaine lettuce tossed with grilled chicken, creamy Caesar dressing, crunchy croutons, and parmesan cheese – a classic favorite with a flavorful twist."
+    },
+    {
+      "id":5,
+      "name": "Thali 4 Phulka +1 Dal + Sabji Gravy +Dry Sabji+ Plain Rice+Salad",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/20/d4f11b4c-1bba-422f-8a0a-c986e831f031_d2ded098-30db-4c06-8fb6-291193fc0173.jpg",
+      "details": "Thali 4 phulka +1 dal + sabji gravy +dry sabji+ plain Rice+salad"
+    },
+    {
+      "id":6,
+      "name": "Chilli Bean Patty Salad",
+      "price": "319",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/22/e20104b2-e135-4987-824e-7e7837c8c3e7_cf3582a1-677d-438e-9df6-ef725b5d1a7b.jpg",
+      "details": "Serving size: 469 kcal / 399 g. Want to try something with a kick? now it comes with 1. 5x protein. The chili bean patty is made with red and black kidney beans, paired with your favourite veggies and dressing. Allergens - contains wheat, milk, soy. Values include lettuce, tomatoes, green peppers, cucumbers, onions, pickle, jalapenos and olives. "
+    },
+    {
+      "id": 7,
+      "name": "Green Salad",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/3/b875b541-32d5-4c45-ab8f-3fa4ad398095_0d57027c-ea82-4ba1-9807-fbf6dbcc575d.jpg",
+      "details": "Freshen up your meal with our vibrant green salad. Crisp cucumber carrot, onion slices, and juicy cherry tomatoes come together in a delightful medley of flavours."
+    },
+    {
+      "id": 8,
+      "name": "Superfood Tofu Salad",
+      "price": "495",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/10/7af69837-3a4c-4b81-a711-88b71ec38328_a952ed0c-ff5e-43ef-a340-524900da258a.jpg",
+      "details": "Spinach, Iceberg Lettuce, Blueberries, Strawberries,  Walnuts, Almonds, Cherry Tomatoes, Feta, Chia Seeds,  Yogurt & Soya Milk dressing with Sesame crusted Tofu"
+    },
+    {
+      "id": 9,
+      "name": "Five Bean Vanilla Ice Cream",
+      "price": "162",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/26/fc16ab69-b1fd-4b8a-89f5-0b8b74c51865_36b716b2-2309-48d1-b44f-2438f5af8d5d.jpg",
+      "details": "Our signature Vanilla ice cream has the intensity of 5 vanilla beans per litre of ice cream."
+    },
+    {
+      "id": 10,
+      "name": "Mixed Grains & Four Bean Salad With Roasted Pumpkin",
+      "price": "495",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/5967d58c-24d6-4a31-bec5-67f7d6e7152b_bd43ea02-ed57-41c7-80c4-feef4e21de95.jpg",
+      "details": "Red quinoa, farro, barnyard millet, selection of four beans, honey roasted pumpkin, crunchy greens, sun-dried tomatoes, feta cheese & house dressing. Contains Cereal"
+    },
+    {
+      "id": 11,
+      "name": "Hawaian Chicken Salad",
+      "price": "229",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/6baa3139f3819c5e996060691af32169",
+      "details": "Featuring grilled chicken breast, fresh pineapple, lettuce, tomatoes, and shredded coconut, all tossed in a tangy pineapple vinaigrette."
+    },
+    {
+      "id": 12,
+      "name": "7 Layer Burrito Roll - Beans & Fajita Veggies",
+      "price": "300",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/3/34ff9290-a070-4a4c-9a41-84be23a9b56a_53879aa9-380b-46d1-9ca7-2fca1969a1bb.png",
+      "details": "7 layer burrito is a complete meal in itself. It is a grilled soft tortilla filled 7 different including fajita veggies, pinto beans, crispy potato bites, Mexican seasoned rice, spicy salsa, hot cheesy sauce & lava sauce, it's mind blowing."
+    },
+    {
+      "id": 13,
+      "name": "Peanut salad",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/17/e0036914-f24c-47f0-8e62-83744d8dd2f0_7d2647c8-ba0c-4495-bdc5-9a4a6b9f7e06.jpg",
+      "details": "server-1"
+    },
+    {
+      "id": 14,
+      "name": "Bean Vanilla - 500ml",
+      "price": "429",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/12/5e3da27b-f6ff-4231-a9db-37ec1fc8fb7e_fac1407c-bfd5-4246-a1ae-084f42fa64ed.jpg",
+      "details": "A velvety classic infused with the pure, delicate essence of natural vanilla pods "
+    },
+    {
+      "id": 15,
+      "name": "Caeser Salad",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/78604739b65b7d8191c6fc641c6f4820",
+      "details": "Our caesar salad is a classic favorite made with fresh lettuce and our house-made caesar dressing. Topped with crunchy croutons and shaved parmesan cheese, it's the perfect choice for a light and refreshing meal or side dish."
+    }
+  ],"Fruit Salad BowlItem":[
+     {
+      "id": 1,
+      "name": "Mixed Fruit Bowl ( Mini Punch )",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/13/36b8c296-8270-48ff-a8b0-4f8f81b71a80_ee1707c5-ab8a-403d-91eb-be821807219c.jpg",
+      "details": "A vibrant medley of fresh fruits served in a delightful mini punch bowl."
+    },
+    {
+      "id": 2,
+      "name": "Papaya Salad Bowl",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/19/04108695-740a-47f7-b001-17b9ba6f9e61_da7374ef-c3f1-4acd-a60a-7b721d46c639.jpg",
+      "details": "Papaya Fruit Bowl - Boost your day with our refreshing Papaya Fruit Bowl! Made with fresh, ripe papaya, this bowl is packed with vitamins A & C, potassium, and an enzyme called papain that aids digestion. Enjoy the numerous health benefits of papaya, including:- Improved digestion and bowel health - Boosted immunity and antioxidant levels - Anti-inflammatory properties for healthier skin and joints Supports healthy blood sugar levels"
+    },
+    {
+      "id": 3,
+      "name": "Watermelon Salad Bowl",
+      "price": "80",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/17/5437086f-a6c9-4769-925d-b7c2f8ce3dc2_182fb646-e726-4126-b509-87f7da36c5dc.jpg",
+      "details": "A refreshing mix of juicy watermelon, savory protein, and crisp veggies served in a beautiful bowl - a perfect meal for any time of day."
+    },
+    {
+      "id":4,
+      "name": "Red Banana Bowl",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/16/499d1ecb-aff2-4a05-9b35-567901b8e940_b9f0eaae-9069-41de-83b7-079ad958dfea.jpg",
+      "details": "A vibrant and refreshing fruit salad bowl filled with sweet and flavorful red bananas."
+    },
+    {
+      "id":5,
+      "name": "Fruit Bowl",
+      "price": "10",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/47198dae585b1f496082696a827bdd4b",
+      "details": "Construct your own fruit bowl with your favorite fruits and enrich it with a vast choice of toppings | Vegan | Dairy Free |"
+    },
+    {
+      "id":6,
+      "name": "Slim Fruit Bowl",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/4d9c886100d52a3ca04558a462625739",
+      "details": "Look good !! feel good!! | vegan |  no sugar dragon fruit + kiwi + pineapple + watermelon + chikku  + papaya + banana + pomegranate + dates + roasted nuts + roasted seed"
+    },
+    {
+      "id": 7,
+      "name": "Diabetic Fruit Bowl",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ruregfqdltt5hqilj1i0",
+      "details": "Just for diabetic people!! no added sugar | vegan | apple + kiwi + muskmelon + papaya + guava + pomegranate + dates + roasted nuts + roasted seeds"
+    },
+    {
+      "id": 8,
+      "name": "Muskmelon Fruit Bowl",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/13f27c7926d1ea84ce1c6bdb4d38acba",
+      "details": "Freshly sliced cubes of muskmelon"
+    },
+    {
+      "id": 9,
+      "name": "Apple Fruit Bowl",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/nzhdgrm0duyl1vzgvz9y",
+      "details": "Freshly sliced cubes of apple."
+    },
+    {
+      "id": 10,
+      "name": "Pineapple Fruit Bowl",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/qxwbe8vh8grbnoyumdhh",
+      "details": "Freshly sliced cubes of pineapple."
+    },
+    {
+      "id": 11,
+      "name": "Goodness Salad Fruit Bowl 300gm",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/yevqjbsmg5nn5sdj24hu",
+      "details": "Fruits are washed with ro water and sanitized hygienically cut pineapple vitamin c orange antioxidant pomegranate and kiwi are also some of our top vitamins c fruit that can help boost immunity and support immune function fruit bowl."
+    },
+    {
+      "id": 12,
+      "name": "Pineapple Fruit Bowl",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b5622600e664daa0aae52fe3fded97aa",
+      "details": "Freshly cut cubes of pineapple. Enjoy freshly prepared cut fruit salad bowl. Raw fruits are better than sweet juice."
+    },
+    {
+      "id": 13,
+      "name": "Watermelon Fruit Bowl",
+      "price": "107",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/79fa522d00b1102f93febfe2160e060d",
+      "details": "Sweet and juicy watermelon freshly cut into cubes and chilled. Packed with vitamins and amino acids. This bowl gives instant hydration and improves immunity."
+    }
+  ],"Crispy Fried Chicken SaladItem":[
+     {
+      "id": 1,
+      "name": "1 Pc Crispy Fried Chicken",
+      "price": "108",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/13/de60d3cf-3071-436a-a1d9-b9e117be6f78_24a3de37-ab95-4962-b08c-0f0f4354e753.png",
+      "details": "Enjoy the incredibly crunchy and juicy and Crispy Fried Chicken- 1 Pc.. Contains: Egg, Gluten"
+    },
+    {
+      "id": 2,
+      "name": "Crispy Peri Peri Chicken Salad (Mini)",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/27/c68f1d84-37dd-4d09-a3be-f4347b2bed54_ca2edf55-bccb-4511-b4cf-67b9483e8628.jpg",
+      "details": "A crisp bowl of fresh greens that includes a variety of goodness such as corn salsa, pico de galla, pinto beans and crispy peri peri chicken."
+    },
+    {
+      "id": 3,
+      "name": "Crispy Peri Peri Chicken Salad (Regular)",
+      "price": "319",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/27/414cd575-4b3e-4848-b320-9a3b09275532_5ebeb1b9-798e-4bc9-ba61-5ebb46b885e7.jpg",
+      "details": "A crisp bowl of fresh greens that includes a variety of goodness such as corn salsa, pico de galla, pinto beans and crispy peri peri chicken."
+    },
+    {
+      "id":4,
+      "name": "2 Pc Crispy Fried Chicken",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/13/db40fd83-717f-4070-bbbd-d265d53a561a_8a709375-00a1-4384-b95d-e58c54610000.png",
+      "details": "Enjoy 2 Pcs of the incredibly crunchy and juicy and Crispy Fried Chicken. "
+    },
+    {
+      "id":5,
+      "name": "Thai Crispy Fried Chicken",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/25/d1063a48-e518-4cc7-b79d-1a9c0c5352ac_f4da7add-cd44-4166-8f4d-efa0a84353b0.JPG",
+      "details": "Medium spicy fried chicken crunchy"
+    },
+    {
+      "id":6,
+      "name": "Mixed Fried Chicken Buckets",
+      "price": "720",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/26/f7cf2ced-da1d-49dc-b7cd-b94f3ac61851_edc6e307-1199-4913-a0ce-5bef5053c596.JPG",
+      "details": "A tantalizing Southern delight featuring perfectly crispy fried chicken bursting with flavor."
+    },
+    {
+      "id": 7,
+      "name": "3 Pc Crispy Fried Chicken Bucket + 1 Coke",
+      "price": "460",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/13/dced0313-a4d1-4a42-a395-69e3acd68553_190d23b0-e978-4114-b2a4-315f9caca629.png",
+      "details": "Enjoy 3 Pcs of  the incredibly crunchy and juicy and Crispy Fried Chicken served with a refreshing Coke.. "
+    },
+    {
+      "id": 8,
+      "name": "4 Pc Crispy Fried Chicken Bucket + 2 Dips + 2 Coke",
+      "price": "569",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/13/bf083a6d-d5da-4c74-8622-b83287a51855_1689dee6-f050-4a70-9f75-866ccf2703e0.png",
+      "details": "Enjoy 4 pieces of crunchy, juicy fried chicken with 2 Dips and refreshing Coke.. "
+    },
+    {
+      "id": 9,
+      "name": "2 Crispy Fried Chicken + 4 Pc Chicken Wings Bucket + 2 Dips + 2 Coke",
+      "price": "560",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/13/80e1e03a-c70c-472d-bc05-d2951da82a42_82a1cd74-d76d-4770-975c-fab221b81f85.png",
+      "details": "Crunchy fried chicken and juicy, spicy wings paired with 2 Dips and chilled Coke. "
+    },
+    {
+      "id": 10,
+      "name": "2 Pc Crispy Fried Chicken+ 1 Med Fries+1 Spicy Sauce+1 Coke",
+      "price": "380",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/13/f31ce910-b7e2-4016-840b-32ae6b56c869_6308e650-fa72-4804-9d53-de64fae45367.png",
+      "details": "Crunchy and Juicy Crispy fried chicken with crispy fries, dip, and a refreshing Coke.. "
+    }
   ]
 }
