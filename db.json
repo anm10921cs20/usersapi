@@ -16973,5 +16973,564 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/13/f31ce910-b7e2-4016-840b-32ae6b56c869_6308e650-fa72-4804-9d53-de64fae45367.png",
       "details": "Crunchy and Juicy Crispy fried chicken with crispy fries, dip, and a refreshing Coke.. "
     }
+  ],"Chicken SandwichItem":[
+     {
+      "id": 1,
+      "name": "Tandoori Marinated Chicken Club Sandwich",
+      "price": "145",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/21/6bfc7a38-5fd6-4514-931c-f0efd866c4d5_e7e0d6de-4004-40e4-8edd-a5c2ebbc5c2d.jpg",
+      "details": "Juicy tandoori-marinated chicken layered and creamy mayonnaise in a satisfying club sandwich."
+    },
+    {
+      "id": 2,
+      "name": "Roasted Chicken Strip Sandwich",
+      "price": "259",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/21/72f4b1e6-e366-4ae6-9799-53f91fd41c74_a1040acc-fd80-474a-9d9f-1e8337fb248f.jpg",
+      "details": "Serving size: 15cm - 22 g protein / 430 kcal / 274 g, 30cm - 44 g protein / 860 kcal / 548 g. Classic preparation of succulent strips of smoked chicken served with veggies and sauces in your choice of freshly baked bread. Allergens - contains wheat, rye, barley, oats, milk, soy. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers. "
+    },
+    {
+      "id": 3,
+      "name": "Chicken Mayo Sandwich",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/o6uje7njzippmta8lccg",
+      "details": "Serves 1"
+    },
+    {
+      "id":4,
+      "name": "Chicken Teriyaki Sandwich",
+      "price": "289",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/21/ae665fdc-b7e8-42ff-a418-803036af81d4_1c7ed492-fa5b-41c9-bf75-430e413b924f.jpg",
+      "details": "Serving size: 15cm - 20 g protein / 407 kcal / 274 g, 30cm - 40 g protein / 814 kcal / 548 g. Chicken strips glazed with teriyaki sauce, combined with your favourite veggies and topped with our signature sweet onion sauce, served hot in a freshly baked bread of your choice. Allergens - contains wheat, rye, barley, oats, milk, soy. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers. "
+    },
+    {
+      "id":5,
+      "name": "Grilled Pulled Chicken Sandwich",
+      "price": "399",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f1f3c6a2f7bd5adeddaaf0854996b5c2",
+      "details": "Lettuce, tomato and creamy pulled chicken mixture containing mayonnaise, julienned green apple, celery, mustard, and pepper"
+    },
+    {
+      "id":6,
+      "name": "Pulled Chicken Sandwich",
+      "price": "525",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/938d8f01a1ab058ca018fb75e6452cfd",
+      "details": "Lettuce, tomato and creamy pulled chicken mixture containing mayonnaise, julienned green apple, celery, mustard, and pepper. Served with a side of fries and side Salad"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Sandwich",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/10/c7307182-d9d4-4df1-8273-db0556855567_b7a7c65f-988b-4769-b297-89f5a478c858.jpg",
+      "details": "A succulent chicken sandwich smothered in creamy mayo, a simple yet satisfying classic."
+    },
+    {
+      "id": 8,
+      "name": "Chicken Tikka Sandwich [Single]",
+      "price": "145",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/14/c63537df-a999-4358-aa96-a90aebcd0ae1_14694b20-a296-4700-9006-22b9891dd983.jpg",
+      "details": "Flavourful mix of smoky chicken tikka, roasted peppers and garlic mayo layered between slices of multigrain bread. Allergens - Wheat, Dairy, Soy, Mustard"
+    },
+    {
+      "id": 9,
+      "name": "Panini chicken cheesy sandwich ",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/28/21ee939b-ec78-4aa3-8618-eb5d0aa07932_b063b271-77a8-4344-9d23-a534f82774c9.jpg",
+      "details": "A delectable combination of tender chicken and gooey melted cheese pressed between crispy, golden-brown panini bread."
+    },
+    {
+      "id": 10,
+      "name": "Classic Chicken Sandwich",
+      "price": "103",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/18/eb0c9961-3172-492e-8e0c-1f99799ac476_79ffc00f-ffd2-4b72-ba50-e8d8b164e0af.jpg",
+      "details": "Grilled chicken mixed with mayonnaise and layered between white bread."
+    },
+    {
+      "id": 11,
+      "name": "Bbq Chicken Sandwich",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/7/48947d35-c176-4175-b6a5-2dc7a409c6f1_eed39637-903a-4a53-8949-bc8afd6be981.jpg",
+      "details": "Sandwich made with whole wheat bread and the chicken tossed with homemade bbq sauce. Perfect meal for any time of the day. Served chilled."
+    },
+    {
+      "id": 12,
+      "name": "Pesto Grilled Chicken Sandwich",
+      "price": "520",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/d95zyvhy8gh9s2sahha5",
+      "details": "Fresh basil pesto, Grilled chicken, Caramelized onions in Sourdough bread"
+    },
+    {
+      "id": 13,
+      "name": "Louisiana Fried Chicken Sandwich",
+      "price": "495",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/23/4b4b6a5e-f507-4d43-bc06-26d8d00e05cb_04be6344-d5b9-4b0c-bbe1-2c38f30a7095.png_compressed",
+      "details": "Southern style crispy chicken topped with sandy's special hot dust filled with shredded lettuce and burger sauce served on perfectly toasted bun. "
+    },
+    {
+      "id": 14,
+      "name": "Chicken Tikka Sandwich",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/21/6e9c0e42-adbd-46e2-9fb8-1a74dda1945d_c4b93210-7977-44cf-9ba0-aba77d73a17e.jpg",
+      "details": "Tender chicken tikka served between slices of soft bread, perfect for a satisfying meal on the go."
+    },
+    {
+      "id": 15,
+      "name": "Chicken Jumbo Sandwich",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/15/c6a96203-3ae6-42ef-87b3-8d8ce0922a65_c1b1a492-0bff-420e-92fc-a74f439c73b5.jpg",
+      "details": "Serves 1"
+    }
+  ],"Murukku SandwichItem":[
+     {
+      "id": 1,
+      "name": "Murukku Sandwich",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/23/4c63a388-c223-4094-98d9-bd36861f5acd_d7866ae0-ba8e-4fa9-9b23-06f12b742357.jpg",
+      "details": "Crispy and crunchy murukku paired with freshly cut veggies and mint chutney, offering a perfect balance of spice, crunch and flavor in every bite!"
+    },
+    {
+      "id": 2,
+      "name": "Muruku Sandwich",
+      "price": "79",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/15/06a4a199-ffcb-4880-bfe2-993ba027b025_2a45f635-7764-4c92-a154-ec8aa9c0ea4f.jpg",
+      "details": "[Serves 1]"
+    },
+    {
+      "id": 3,
+      "name": "Murukku Sandwich",
+      "price": "117",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/acd1579de35e04d7878eb2ab0415f23e",
+      "details": "The same vegetable sandwich, but without the bread, and murukku instead"
+    },
+    {
+      "id":4,
+      "name": "Murukku Sandwich",
+      "price": "138",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/3/0562c835-77f0-469e-9123-451f204a667b_aabce126-b487-4939-9e99-91c4e2023939.jpeg",
+      "details": "Sandwich with the crunchy texture of murukku"
+    },
+    {
+      "id":5,
+      "name": "Muruku sandwich",
+      "price": "80",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/599c59c5eeaaee4fd15d0141412cb3fc",
+      "details": "A delectable vegetarian sandwich featuring a delightful fusion of flavors and textures, sure to tantalize your taste buds."
+    },
+    {
+      "id":6,
+      "name": "Muruku Sandwich",
+      "price": "70",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/816de6d3052f98a28e6197c164748155",
+      "details": "A delightful fusion of crispy and savory textures that will leave your taste buds wanting more."
+    },
+    {
+      "id": 7,
+      "name": "Murukku Sandwich",
+      "price": "80",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b153ceb635cce11931be6a3801d28157",
+      "details": "A flavorful and tantalizing Murukku Sandwich featuring a delectable combination of classic and innovative ingredients."
+    },
+    {
+      "id": 8,
+      "name": "Murukku Sandwich",
+      "price": "79",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/28/d6c2aa7b-74e9-42f6-a6a2-d3a72f72ed9b_4f86c02e-8fba-4a0c-948e-b3fb49be980e.jpg",
+      "details": "Delight in a crispy and flavorful creation that layers vibrant fillings between crunchy, savory twists for a unique treat."
+    },
+    {
+      "id": 9,
+      "name": "Muruku Sandwich",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ee73bbe2d959aabc9c0adba4fd3ce71c",
+      "details": "A delightful and flavorful veggie sandwich with a perfect blend of textures and tastes."
+    },
+    {
+      "id": 10,
+      "name": "Muruku sandwich",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/12/53288087-9fb1-4ddf-bf1b-32094987d340_e9c91d45-bd8c-42cb-b613-556dd050b0b3.jpg",
+      "details": "Experience a delightful crunch and unique flavors as layers of savory goodness come together in this unforgettable sandwich sensation."
+    },
+    {
+      "id": 11,
+      "name": "Murukku Sandwich",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/17/9ac2744e-64fa-4e6e-bbc8-3bd7fc2e7342_8c66d480-1bee-4452-9007-85a8b0385f2f.jpg",
+      "details": "Crispy, flavorful snack with a unique twist - a sandwich filled with crunchy Murukku for a delightful treat."
+    },
+    {
+      "id": 12,
+      "name": "Muruku Sandwich",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/3/d39751c1-4849-4bc3-8583-d2e8c065632d_87b25c2d-1466-41e6-b4ed-db738917ee01.jpg",
+      "details": "Experience a delightful crunch with each bite of this unique sandwich, layered with vibrant flavors and textures."
+    },
+    {
+      "id": 13,
+      "name": "Murukku Sandwich",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/7d40da4ac4d7c63fdb46aebaf068e6f6",
+      "details": "Slices of cucumber, tomato, onion with green chutney between crispy murukku."
+    },
+    {
+      "id": 14,
+      "name": "Murukku Sandwich",
+      "price": "78",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/421d53f6e19fb2dafbc68bf5dfd705ee",
+      "details": "A unique sandwich filled with flavorful and savory ingredients, perfect for a satisfying veggie meal."
+    }
+  ],"Veg SandwichItem":[
+     {
+      "id": 1,
+      "name": "Vegetable Sandwich",
+      "price": "117",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ltydyf4xcr3unhesdlpw",
+      "details": "A Combination of Mint Chutney with thin slices of Tomato, Cucumber, Onion & Potato | Allergen information: Dairy, Gluten, Nuts | For immediate consumption"
+    },
+    {
+      "id": 2,
+      "name": "Corn Cheese Sandwich",
+      "price": "90",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/rxslzdahf4hsiwk9sk0c",
+      "details": "A cheese sandwich is a sandwich made with cheese on bread. Typically semi-hard cheeses are used for the filling, such as Cheddar, Red Leicester, or Double Gloucester. A Guardian article called the cheese sandwich a British lunchtime staple"
+    },
+    {
+      "id": 3,
+      "name": "Veg Sandwich",
+      "price": "70",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/1/f4f92a0a-8800-4a74-bd78-80f4dc4a5c9e_e0ae8866-7304-4b24-83dc-d93ee0ba7f8f.jpg",
+      "details": "A delightful and flavorful sandwich bursting with fresh vegetables."
+    },
+    {
+      "id":4,
+      "name": "Veg Grilled Cheese Sandwich",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/fiq31qc0hb0edfblxgrv",
+      "details": "A mouthwatering grilled cheese sandwich, packed with savory veggie goodness."
+    },
+    {
+      "id":5,
+      "name": "Veg Sandwich",
+      "price": "65",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/20/869efd05-febd-4d56-af4b-2a89c971c9b9_fb473172-5757-4c64-a5d1-3e07d3325383.jpg",
+      "details": "Best Seller – A Must-Try Delight!Contents:- 1 Piece Veg Sandwich- Tomato Ketchup (on the side)~ A classic vegetable sandwich filled with fresh, spiced veggies, served with tangy tomato ketchup."
+    },
+    {
+      "id":6,
+      "name": "Aloo Patty Sandwich",
+      "price": "219",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/21/b6f40823-f979-4642-8c4c-ac8f1f542faa_0a6be469-4dde-4ebe-856a-f8fee87ed209.jpg",
+      "details": "Serving size: 15cm - 12 g protein / 451 kcal / 269 g, 30cm - 24 g protein / 902 kcal / 538 g. Aloo patty seasoned with special herbs and spices, paired with your choice of nutritious veggies, on a freshly baked bread. Allergens - contains wheat, rye, barley, oats, milk. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers. "
+    },
+    {
+      "id": 7,
+      "name": "Classic Veg Sandwich",
+      "price": "90",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/rqmx4x8ivelbo0cywtbu",
+      "details": "Seasoned crunchy vegetable stuffed with cheese between slice of bread and grilled to perfection"
+    },
+    {
+      "id": 8,
+      "name": "Veg Sandwich",
+      "price": "79",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/17/05cc11a9-c248-4a00-b2dc-c8be33589de8_1976bd2e-bcc3-4d7f-8053-331e5514c2a4.JPG",
+      "details": "A delightful sandwich bursting with fresh and flavorful veggies."
+    },
+    {
+      "id": 9,
+      "name": "Cheese Sandwich",
+      "price": "50",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/15/914cb218-0635-4ac7-bdb7-33ca8008d108_406266a7-6407-45a6-a95d-bd71941e67e3.jpg",
+      "details": "[Serves 1]"
+    },
+    {
+      "id": 10,
+      "name": "Khakra Cheese Sandwich",
+      "price": "147",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/edf773c99a78c3549f1ce72904462fae",
+      "details": "The same vegetable cheese sandwich, but without the bread, and khakra instead"
+    },
+    {
+      "id": 11,
+      "name": "Club Sandwich",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/17/918c8627-a83b-46be-8ba8-2a328159e769_f43e4289-bdb8-444a-96f4-642b19dbfed5.JPG",
+      "details": "A satisfying and delightful sandwich with layers of fresh vegetables, toasted bread, and a delicious dressing."
+    },
+    {
+      "id": 12,
+      "name": "Chilli Cheese Sandwich",
+      "price": "80",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/26/3e23aecc-ad89-4fd2-b530-8f2d5b48e076_bbc340f8-aaa8-47d0-ade2-43a9e7e75191.jpg",
+      "details": "Chilli cheese sandwich: Indulge in the perfect blend of spicy and savory with our signature chilli cheese sandwich. Made with fresh, crispy bread, melted cheese, and a kick of chilli peppers, this mouth-watering delight is sure to satisfy your cravings."
+    },
+    {
+      "id": 13,
+      "name": "Grilled Club Sandwich",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/6/f819c97b-d628-492e-8a0c-729248802618_2c3c87a2-a5aa-460a-916b-6a5e420477a4.jpg",
+      "details": "A Combination of Mint Chutney & Cheese with thin slices of Tomato, Green Capsicum, Onion, Potato. Grilled | Allergen information: Dairy, Gluten, Nuts | For immediate consumption"
+    },
+    {
+      "id": 14,
+      "name": "Paneer Tikka Sandwich",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/21/e5749fba-d991-4d19-93b5-2fcdf2664c8d_adc23b9b-9d7f-47b8-92ca-7c406ce33a55.jpg",
+      "details": "Serving size: 15cm - 20 g protein / 529 kcal / 274 g, 30cm - 40 g protein / 1058 kcal / 548 g. A tangy twist to your favourite cottage cheese cubes marinated in tandoori sauce for a spicy, smoky flavour, combined with your choice of veggies and sauces, served on a freshly baked bread. Allergens - contains wheat, rye, barley, oats, milk, cashew nut. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers. "
+    },
+    {
+      "id": 15,
+      "name": "Vegetable Sandwich",
+      "price": "70",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/17/39f30cce-1428-4953-aa60-4c264fe982fe_b6ee7dc3-f9e8-4d02-b5fd-b6d16124147f.JPG",
+      "details": "A fresh and satisfying sandwich with layers of crisp veggies and savory flavors. Serves 1"
+    }
+  ],"Paneer Tikka SandwichItem":[
+     {
+      "id": 1,
+      "name": "Paneer Tikka Sandwich",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/21/e5749fba-d991-4d19-93b5-2fcdf2664c8d_adc23b9b-9d7f-47b8-92ca-7c406ce33a55.jpg",
+      "details": "Serving size: 15cm - 20 g protein / 529 kcal / 274 g, 30cm - 40 g protein / 1058 kcal / 548 g. A tangy twist to your favourite cottage cheese cubes marinated in tandoori sauce for a spicy, smoky flavour, combined with your choice of veggies and sauces, served on a freshly baked bread. Allergens - contains wheat, rye, barley, oats, milk, cashew nut. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers. "
+    },
+    {
+      "id": 2,
+      "name": "Paneer Tikka Sandwich Guiltfree",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/22/9a582dd7-a0ba-4bfb-b6e7-7da674001904_f8402e24-b554-41da-bf49-14410825f820.jpg",
+      "details": "Serving size: 15cm - 20 g protein / 529 kcal / 274 g, 30cm - 40 g protein / 1058 kcal / 548 g. A tangy twist to your favourite cottage cheese cubes marinated in tandoori sauce for a spicy, smoky flavour, combined with your choice of veggies and sauces, served on a freshly baked bread. Allergens - contains wheat, rye, barley, oats, milk, cashew nut. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers. "
+    },
+    {
+      "id": 3,
+      "name": "Paneer Tikka & Grilled Peppers Sandwich",
+      "price": "475",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/17/05ba0d80-415c-4138-9fa4-a50f1d7448f1_8610c96d-7f92-413c-951c-e8ad6e6df32a.jpg",
+      "details": "Fusion of indian spices and classic fast food, featuring grilled paneer tikka patties layered with fresh veggies and creamy sauces. "
+    },
+    {
+      "id":4,
+      "name": "Paneer Tikka Sandwich",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/5ce586d61c8d5486c9da341afdf46d82",
+      "details": "Sandwich filled with paneer marinated in desi tikka masala and grilled to perfection"
+    },
+    {
+      "id":5,
+      "name": "Paneer Tikka  Panini Sandwich",
+      "price": "159",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/3/a07dd87a-1070-4b72-94ef-b42d6cc4b7df_2daac32a-2b65-4095-b7fc-096ffe05f5a0.jpg",
+      "details": "It's an Italian bread loaded and grilled with fresh veggies and desi paneer chunks"
+    },
+    {
+      "id":6,
+      "name": "Paneer Tikka Sandwich",
+      "price": "279",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/v8yuye35qynpq2szgvqw",
+      "details": "Traditional paneer tikka with crunchy salad and mayo in a chipotle bread, Serving Size(gm/ml) - 165, Energy (kcal) - 376.18 , Contains Gluten, Contains Milk, Contains Soy"
+    },
+    {
+      "id": 7,
+      "name": "Paneer Tikka Classic Sandwich",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/3/6e383403-39b0-422c-a162-5d57f6ee3e9e_32a1dd62-154d-49c8-8262-39420931fbe2.jpg",
+      "details": "Grilled paneer tikka with veggies and tangy sauces in a classic sandwich"
+    },
+    {
+      "id": 8,
+      "name": "Tandoori Paneer Sandwich",
+      "price": "155",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/28/a16164a9-9427-4fc5-929f-058fd8936944_274fcc80-0617-4300-89e2-92d723d793a6.jpg",
+      "details": "A delicious sandwich layered with smoky tandoori-marinated paneer, fresh vegetables, and mild spices, grilled to golden perfection. Crispy on the outside and flavorful inside, this sandwich delivers a perfect blend of spice, creaminess, and aroma ideal for tea-time or a quick meal."
+    },
+    {
+      "id": 9,
+      "name": "Paneer Cheese Tikka Grilled Sandwich",
+      "price": "235",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/19/ef97768e-b721-43a9-b0cb-4a71e16c297e_01716f80-2aac-4d6a-97db-210771c8ebf3.jpg",
+      "details": "Classic Indian style paneer tikka topped with mozzarella cheese in a freshly grilled herbed bread[FoodAmount : 220g, Calorie : 234kcal]"
+    },
+    {
+      "id": 10,
+      "name": "Tandoori Paneer Tikka Grilled Sandwich",
+      "price": "219",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/27/f5c8c383-395c-4473-b9d2-6eab1ad35e0f_cd7b9415-5327-4d50-ace5-c1f843d4b0c6.jpg",
+      "details": "Chef's special paneer tikka sandwich served in jumbo bread"
+    },
+    {
+      "id": 11,
+      "name": "Cheese paneer tikka sandwich",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/15/5938b93c-3707-4ab0-b98a-ccf744f4c30c_953f23b5-2436-4a59-884e-9f150a03eb43.JPG",
+      "details": "A delectable fusion of creamy cheese, tender paneer, and flavorful tikka spices sandwiched between perfectly grilled bread."
+    },
+    {
+      "id": 12,
+      "name": "Paneer tikka sandwich",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/15/329c12df-1968-4a84-9206-25c39b76a096_225947f6-92ee-41dd-ae7b-49c4bb4a3846.jpg",
+      "details": "A mouthwatering grilled sandwich featuring savory paneer tikka, a perfect combination of flavors and textures."
+    },
+    {
+      "id": 13,
+      "name": "Paneer Tikka Sandwich",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cee2c76a8a070b8101fa5d1ad9f4b93f",
+      "details": "Savor the delightful fusion of grilled marinated cheese and crisp veggies nestled between soft bread for a tantalizing snack."
+    },
+    {
+      "id": 14,
+      "name": "Tandoori Paneer Sandwich",
+      "price": "209",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/27/f5c8c383-395c-4473-b9d2-6eab1ad35e0f_cd7b9415-5327-4d50-ace5-c1f843d4b0c6.jpg",
+      "details": "An all time favorite! loaded paneer tikka, bellpeppers and onion in jumbo bread. "
+    },
+    {
+      "id": 15,
+      "name": "Paneer Tika Sandwich",
+      "price": "102",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/428a9329121fb9af656b3f73b35d8cf6",
+      "details": "| Serves 1 |"
+    }
+  ],"Veg Grilled SandwichItem":[
+     {
+      "id": 1,
+      "name": "Vegetable Grill Sandwich",
+      "price": "180",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/10/a331388b-7e93-4bf6-9d66-d7aeee620846_3c31bca2-bc9f-4d97-acb5-71bb7c435eea.jpg",
+      "details": "Sandwich made with a variety of grilled vegetables and bread."
+    },
+    {
+      "id": 2,
+      "name": "Veg Grilled & Cheese Sandwich",
+      "price": "110",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/65df53a110bf79ec35c82f128d7f16b0",
+      "details": "A mouthwatering grilled sandwich filled with a delectable combination of vegetables and gooey melted cheese."
+    },
+    {
+      "id": 3,
+      "name": "Veg Grilled Cheese Sandwich",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/fiq31qc0hb0edfblxgrv",
+      "details": "A mouthwatering grilled cheese sandwich, packed with savory veggie goodness."
+    },
+    {
+      "id":4,
+      "name": "Vegetable Sandwich",
+      "price": "104",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/m0rihsga2badps3jzzat",
+      "details": "Sandwich bread + green chutney + mayonnaise + veggies + cheese"
+    },
+    {
+      "id":5,
+      "name": "Mix Grild Sandwich",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/1/bf06132d-ddc8-44e3-923d-18e73bfc8901_609a95f5-f052-4539-88db-4b1f7ab04388.jpg_compressed",
+      "details": "A delicious combination of fresh veggies, cheese, and flavorful spreads, grilled to perfection to create a warm and satisfying snack."
+    },
+    {
+      "id":6,
+      "name": "Veg Club Grilled Sandwich",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/15/84b2324a-0eeb-4f90-acaf-bd0052ee238d_47bf14db-93aa-4a62-8f3d-011d4b949a56.jpg",
+      "details": "[Serves 1]"
+    },
+    {
+      "id": 7,
+      "name": "Grilled Cheese Sandwich",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/84434a993b5a8acfd643f52b990ea71a",
+      "details": "Serves 1"
+    },
+    {
+      "id": 8,
+      "name": "Veg Cheese Grilled Sandwich",
+      "price": "187",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/3/131c94a5-f9ed-4024-97fe-5b4421836a03_ae741df7-1309-43cc-810e-8a4afd5d4958.jpeg",
+      "details": "Grilled sandwich with a cheesy filling"
+    },
+    {
+      "id": 9,
+      "name": "Veg Cheese Grilled Sandwich",
+      "price": "216",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/29/1895d6c9-9466-416f-b92c-03d4b1167239_7170ac9c-a4cc-4fe0-b1b4-218a9d7b457b.jpeg",
+      "details": "Serves 1 | Tomato, Potato, Capsicum And Cheese."
+    },
+    {
+      "id": 10,
+      "name": "Grilled Sandwich",
+      "price": "145",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/qj6gkg5u2kckg9n3ntqa",
+      "details": "A delicious and flavorful grilled sandwich that will satisfy any veggie lover's craving."
+    },
+    {
+      "id": 11,
+      "name": "Veg Plain Grilled Sandwich",
+      "price": "95",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/5/746c98cc-ae73-41e6-b616-973858228f2f_813d06ed-4f77-49b4-a946-44b3cb65512d.jpg",
+      "details": "A delicious and flavorful grilled sandwich packed with a variety of fresh vegetables."
+    },
+    {
+      "id": 12,
+      "name": "Grilled Sandwich",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b237f814b58987bea8b2869be982883d",
+      "details": "Savory layers of grilled goodness, perfect for a quick, satisfying bite."
+    },
+    {
+      "id": 13,
+      "name": "Veg Club Grilled Sandwich",
+      "price": "159",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/10/e2cae02b-0b78-4aa4-9961-7d34370ccfc9_7997964f-8659-419b-a965-36d0a493904a.jpg",
+      "details": "A delightful combination of fresh vegetables and creamy spreads layered between perfectly grilled bread."
+    },
+    {
+      "id": 14,
+      "name": "Cheese Grilled Sandwich",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/17/e0aaf32e-9816-47f7-b348-9a9bb12ac041_65e4314c-f94f-4933-81b0-2cf8a0fecf69.JPG",
+      "details": "Indulge in a mouthwatering delight of perfectly grilled cheese in every bite, a classic favorite for quick and satisfying cravings."
+    },
+    {
+      "id": 15,
+      "name": "Grill Sandwich Toast",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/15/93983f48-ffc1-4384-9828-14a6d9f375a5_ecb64025-d382-4ed7-aa52-3488e6733f0c.jpg",
+      "details": "[Serves 1]"
+    }
+  ],"Egg Sandwich ComboItem":[
+     {
+      "id": 1,
+      "name": "Egg cheese sandwich",
+      "price": "185",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/15/dfd47e2f-02eb-47a7-b9b0-790451cfaf42_2ab37e97-3928-4e3c-a37d-75561e096f3e.jpg",
+      "details": "Indulge in a mouthwatering delight featuring creamy cheese and perfectly cooked eggs nestled between warm, crispy bread."
+    },
+    {
+      "id": 2,
+      "name": "Egg Sandwich Cheese",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dvzpojuw9d1vtvfazu9k",
+      "details": "A cheesy and flavorful sandwich filled with an egg that will surely satisfy your cravings."
+    },
+    {
+      "id": 3,
+      "name": "Egg Sandwich",
+      "price": "72",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/bhtymgmnni6h2htxzkuk",
+      "details": "A satisfying and flavorful sandwich made with wholesome egg filling, perfect for non-veg enthusiasts."
+    },
+    {
+      "id":4,
+      "name": "Egg Grilled Sandwich",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/35fd37191f9b656f6e083b38bbd5bd25",
+      "details": "A simple yet delicious sandwich with a filling of seasoned eggs."
+    },
+    {
+      "id":5,
+      "name": "Egg Cheese Sandwich",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/uzehlk34oou4o7dnrrtr",
+      "details": "A savory sandwich featuring scrambled eggs and melted cheese."
+    }
   ]
 }
