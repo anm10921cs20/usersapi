@@ -17532,5 +17532,939 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/uzehlk34oou4o7dnrrtr",
       "details": "A savory sandwich featuring scrambled eggs and melted cheese."
     }
+  ],"MilkshakesItem":[
+     {
+      "id": 1,
+      "name": "Mango Milk Shake ",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/25/4fac3b07-c7cb-4d95-b26f-cf2ca6c220af_454233c7-d434-43d8-9768-d2e5c2d43feb.jpg",
+      "details": "A creamy, tropical drink made with ripe mangoes, milk, and sugar, offering a rich, smooth texture and fruity flavor."
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Milkshake",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/3/272c8f6a-70f4-4fe3-964d-6ff4f8c35222_5e6497d6-1fd1-4393-b9ca-5dbb64522155.jpg",
+      "details": "Chocolate so thick and indulgent, it"
+    },
+    {
+      "id": 3,
+      "name": "Butterscotch Milkshake",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/29/c655d55d-fc99-46c5-b6dc-85d790b6f523_95c2447a-a7cd-44e2-8e93-a766e1356720.jpg",
+      "details": "(serves-1 | 300ml) (serves-2 | 500ml) indulge in the butterscotch milkshake, a thick and creamy shake filled with the delicious goodness of butterscotch flavor and rich creamy ice cream. Reg/large approximately 387/646 kcal; protein: approximately 6. 4g/15. 88g. "
+    },
+    {
+      "id":4,
+      "name": "Mango Milkshake",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/3/9ed4ea77-ec4d-4c6a-9cf0-ec3e4c239af6_f2c807e4-88b9-447d-9e5c-a2d1f36d1c1e.jpg",
+      "details": "Dive into mango mayhem. Thick, rich, and indulgent."
+    },
+    {
+      "id":5,
+      "name": "Apple Milkshake  [1000ml]",
+      "price": "180",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/zbrzhywpqwk1guttzkjf",
+      "details": "A vibrant and refreshing blend of luscious apples - hydrating drink to quench your thirst."
+    },
+    {
+      "id":6,
+      "name": "Mango Milkshake",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/a2eb1f4f365e97efec46bc879e5388f2",
+      "details": "Blend of Mango ice-cream, Mango Pulp, Milk | No added sugar, No added preservatives, No added colours | For Immediate Consumption | Per Serve (~280ml) | Allergen information: Dairy | Best Before - 1 Day"
+    },
+    {
+      "id": 7,
+      "name": "Vanilla MilkShake",
+      "price": "153",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/irsodvzkbu3zdvdmfih8",
+      "details": "A sweet beverage made by blending milk With Flavored ice cream"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Milk Shake",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/8/8d52a3ac-0e2e-48e0-8bae-c08aa4ca3b0a_25a996db-1542-4625-94b5-620123682c94.png_compressed",
+      "details": "A treat for the chocolate-lover, our chocolate shake is made with actual chocolate fudge, blended with fresh milk and ice cream to make a creamy, thick shake."
+    },
+    {
+      "id": 9,
+      "name": "Strawberry Milkshake",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/30/081d2a1a-ff6c-455a-89d3-ffa1a9f1ca84_481f975d-60ea-4375-97df-4fc6771d4ccd.jpg",
+      "details": "Blend of Strawberry ice-cream, Strawberry filling & Milk | No added sugar, No added preservatives, No added colours | For Immediate Consumption | Per Serve (~280ml) | Allergen information: Dairy | Best Before - 1 Day"
+    },
+    {
+      "id": 10,
+      "name": "Kit Kat Milkshakes",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/yycfvc8ufklmsqevrjym",
+      "details": "Indulge in a creamy and delectable milkshake that perfectly blends the sweetness of Kit Kat bars with a luscious, velvety texture."
+    },
+    {
+      "id": 11,
+      "name": "Milo Milkshake",
+      "price": "199",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/21/afc13013-f658-404b-a7e8-2ae5363c6d83_5c6349a3-09b7-4608-acb1-97fc13200069.jpg",
+      "details": "A creamy and indulgent milkshake made with the rich and chocolatey flavor of Milo."
+    },
+    {
+      "id": 12,
+      "name": "Vanilla Biscoff Milkshake",
+      "price": "305",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/26/ff23acd9-6824-432e-91c1-e27298cdd00d_ecb1c621-f8e1-4f6e-b3b6-bb41e386bb07.jpg",
+      "details": "Five Bean Vanilla Ice Cream,  Biscoff Spread, Biscoff Crumble  and Caramel Sauce."
+    },
+    {
+      "id": 13,
+      "name": "Malted Milk Milkshake",
+      "price": "305",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/26/fcffe2ff-7515-4f72-87f1-3786764d347e_67eecdce-ba72-4a7b-a3a5-d4be50bcd1b7.jpg",
+      "details": "Malted Milk Ice Cream, Hot Fudge  and Biscoff Crumble."
+    },
+    {
+      "id": 14,
+      "name": "Tender Coconut Milkshake",
+      "price": "231",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/5001ee624ea1de9df723660e52192e7f",
+      "details": "Refreshing Tender coconut juice"
+    },
+    {
+      "id": 15,
+      "name": "Chocolate Milkshake",
+      "price": "225",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/12/5b5ae8c5-3c35-4ac6-bac6-006c394c1fea_69145032-0573-4cad-8d0b-422e7f2cd334.jpg",
+      "details": "Deep, dark cocoa drowned in cream with chewy boba for the finish."
+    }
+  ],"Chocolate ShakeItem":[
+     {
+      "id": 1,
+      "name": "Chocolate Shake.",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/19/cddbd1f0-c2fc-4af3-a108-b482cc0027e2_0564277b-594b-4aa9-a7cd-6796803092fc.jpg",
+      "details": "Our signature chocolate thick shake."
+    },
+    {
+      "id": 2,
+      "name": "Ferrero Rocher Milkshake",
+      "price": "329",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/29/76e16aef-646d-49aa-813b-aca1c10a5055_347d21d4-e049-43b9-a700-bb98b13db34b.jpg",
+      "details": "(serves-1 | 300ml) (serves-2 | 500ml) experience the world-class ferrero rocher milkshake, a premium thickshake crafted with the beloved ferrero rocher chocolates. This luxurious treat offers an exceptional taste experience, making it a must-try for fans of this renowned confection. Reg/large approximately 425 / 709 kcal; protein: approximately 9. 53g / 15. 88g."
+    },
+    {
+      "id": 3,
+      "name": "Chocolate Milkshake",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/3/272c8f6a-70f4-4fe3-964d-6ff4f8c35222_5e6497d6-1fd1-4393-b9ca-5dbb64522155.jpg",
+      "details": "Chocolate so thick and indulgent, it"
+    },
+    {
+      "id":4,
+      "name": "Chocolate Milkshake",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/19/59a293ea-7325-42da-ae88-8675e68335af_50ac70a8-0b4b-4efa-9992-f2fd0e956c60.jpg",
+      "details": "Rich, creamy chocolate blended to perfection with velvety ice cream. The timeless treat that never goes out of style. Size – 200/270/450 ml for Lite/Reg/Large & 235/407/671 Kcal respectively. Allergen: Contains milk, soy."
+    },
+    {
+      "id":5,
+      "name": "Belgian Chocolate Shake",
+      "price": "182",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/30/c7157b8a-2c45-468b-848c-1b0dd4120706_de916c3a-b262-457a-8cd4-bbce103bacd7.jpg",
+      "details": "Our Belgian Chocolate Shake is made by blending premium Belgian chocolate with luscious, chilled milk to create a drink that is both comforting and sinfully delicious | For Immediate Consumption | Per Serve (~280ml) | Allergen information: Dairy | Best Before - 1 Day"
+    },
+    {
+      "id":6,
+      "name": "Chocolate Shake",
+      "price": "135",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/7/29176ecd-7cc0-43de-963e-b38030113297_cf09f830-db3f-4bb4-992e-c1327f81e1ba.jpg",
+      "details": "Satisfy your chocolate cravings with our rich and creamy chocolate shake! made with premium chocolate and blended to a velvety smooth texture, it's the ultimate indulgence for all chocolate lovers."
+    },
+    {
+      "id": 7,
+      "name": "Chocolate Milkshake",
+      "price": "225",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/12/5b5ae8c5-3c35-4ac6-bac6-006c394c1fea_69145032-0573-4cad-8d0b-422e7f2cd334.jpg",
+      "details": "Deep, dark cocoa drowned in cream with chewy boba for the finish."
+    },
+    {
+      "id": 8,
+      "name": "Ferrero Rocher Milkshake",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/19/72d104ba-5cb1-4f19-94ec-661c913d2f84_a066cd3c-491f-41da-87a8-d02a24781238.jpg",
+      "details": "Indulge in a perfect harmony of ferrero rocher and velvety chocolate syrup . Size - 302/494 for Reg/Large & 506/847 Kcal respectively. Allergen: Contains wheat, milk, soya and  sulphite."
+    },
+    {
+      "id": 9,
+      "name": "Chocolate Milkshake",
+      "price": "305",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/26/344bbb8d-a789-45a3-a614-8872f87068df_73d3d8a9-f690-4f8a-b1c8-e33149f56752.jpg",
+      "details": "Belgian Chocolate Ice Cream,  Hot Fudge and Biscoff Crumble."
+    },
+    {
+      "id": 10,
+      "name": "Chocolate Milkshake",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/5/5d953867-e81f-43e8-a4a6-e601440d5a66_a070f3ad-19fd-4a8c-9350-90410e5dd3ca.jpg",
+      "details": "Indulge in a creamy and rich chocolate beverage that will satisfy your sweet tooth cravings."
+    },
+    {
+      "id": 11,
+      "name": "Chocolate Milkshake",
+      "price": "181",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/8/df6247d4-5394-4851-bb2f-ffad765751bd_0eb05f39-a9ef-4faf-88a3-efdfcc5b9e46.jpg",
+      "details": "a sweet beverage made by blending milk with Flavored ice cream"
+    },
+    {
+      "id": 12,
+      "name": "Chocolate milkshake",
+      "price": "105",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/21/132e5cc7-22fb-4c99-8ac7-bde21be56df4_2e5cf923-c19b-4526-be4f-bcb11cab4117.jpg",
+      "details": "Rich and velvety, this indulgent milkshake is a chocolate lover's dream come true."
+    },
+    {
+      "id": 13,
+      "name": "Chocolate Shake",
+      "price": "155",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/c2fm0xduw3rgsv3tcij1",
+      "details": "Cold beverage made with milk, ice cream, and chocolate syrup."
+    },
+    {
+      "id": 14,
+      "name": "Chocolate Milkshake",
+      "price": "225",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/17/1812d66f-8591-4202-a500-10845a7cb50f_9f218b7f-2785-4c6d-86df-a3f2f9e0faeb.jpg",
+      "details": "Dark Chocolate Shavings, Milk, Fresh Cream."
+    },
+    {
+      "id": 15,
+      "name": "Chocolate Milkshake",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/1/87250dbb-9e09-4774-adff-52b4d97e9430_3865c4c0-9acf-4246-940b-1eaf32a97775.jpg",
+      "details": "Rich, creamy, and indulgent, this velvety smooth chocolate milkshake is a sweet treat that will satisfy any chocolate lover's cravings."
+    }
+  ],"Ice Cream ShakeItem":[
+     {
+      "id": 1,
+      "name": "Vanilla Milkshake",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/13/395b63fc-8c0b-4aa3-9448-10f60b765230_772d926a-8b26-4463-badd-042ae61210db.jpg",
+      "details": "A classic that never goes out of style! a rich milkshake made with smooth, creamy vanilla ice cream. "
+    },
+    {
+      "id": 2,
+      "name": "Mocha Almond Fudge Brownie  Signature Ice Cream Shake",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/20/d2ad50c3-3fd8-4c96-acaf-1cc3760986d3_307fa699-393b-470e-99fa-8510b9dba4b4.jpg",
+      "details": "Caffeinated notes of mocha that awaken your desire and take you to that beautiful chocolate heaven where everything feels like nirvana. Size - 280/420 for Reg/Large & 602/903 Kcal respectively. Allergen: Contains milk, wheat, almonds, and soya ingredients."
+    },
+    {
+      "id": 3,
+      "name": "Butterscotch Crunch Signature Ice Cream Shake",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/20/f41910be-7a6c-40cb-acb3-84f4f59659dc_da1012a1-5688-4bb4-9f92-e29478868a50.jpg",
+      "details": "Sink your teeth to experience the ecstasy of butterscotch's rich creamy flavour. This milkshake will fade the trivialities of the world and ring sweetness inside your heart. Size - 280/420 for Reg/Large & 508/762 Kcal respectively. Allergen: Contains milk, soya, and cashew nuts."
+    },
+    {
+      "id":4,
+      "name": "Ice Cream Shakes",
+      "price": "209",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/krdgrez49sgy8y1vrcwu",
+      "details": "Indulge in deliciously smooth ice cream shakes, crafted with original ibaco ice creams, toppings and flavoured milk. Choose your favourite flavours and get creative with your choice of toppings. Create your own deliciously smooth ice cream shake that is as unique as you in two simple steps. Headspace given for shaking of ice-cream, for immediate consumption only. Kindly shake well before consuming, reuse the shaker to protect the environment. [ice cream 95 grams]"
+    },
+    {
+      "id":5,
+      "name": "Butterscotch Crunch Signature Ice Cream Shake",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/20/f41910be-7a6c-40cb-acb3-84f4f59659dc_da1012a1-5688-4bb4-9f92-e29478868a50.jpg",
+      "details": "Sink your teeth to experience the ecstasy of butterscotch's rich creamy flavour. This milkshake will fade the trivialities of the world and ring sweetness inside your heart. Size - 280/420 for Reg/Large & 508/762 Kcal respectively. Allergen: Contains milk, soya, and cashew nuts."
+    },
+    {
+      "id":6,
+      "name": "Cookie Ice Cream Shake",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/29/dc2a4d8a-ee0d-46e6-80ad-7141b2ae833d_054c028d-ac86-4ec4-ad6b-f8fc96a265f0.jpg",
+      "details": "A delectable blend of oreo cookies & vanilla ice cream. Calorific value per serving637Kcal Serving Size244gm Serving Information 1Nutritional Information *Per 100 gm Energy (Kcal)196.08/Protein(g)3.60/ Carbohydrate(g)22.56/Added sugar(g)15.37/ Total Fat (g)10.16 Allergen Information :Contains Milk."
+    },
+    {
+      "id": 7,
+      "name": "Triple Chocolate Signature Ice Cream Shake",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/20/d738f242-1e05-43d9-b79f-47b1666dbef3_903d54cd-d42a-40db-908d-b0aa539a7f4f.jpg",
+      "details": "Finest chocolates blend with choco buttons and crumbled bits of peanut for a truly drool-worthy experience. Size - 280/420 for Reg/Large & 599/898 Kcal respectively. Allergen: Contains milk, wheat, peanut, and soya ingredients."
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Ice cream Shake",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/29/3b45a0c1-5698-4c1c-ab7a-13cf435d790e_74fa29d4-5be7-423c-bac5-2590279711f4.jpg",
+      "details": "A rich chocolate ice cream shake topped with chocochips. Calorific value per serving528Kcal Serving Size219gmServing Information 1Nutritional Information *Per 100gm Energy (Kcal)176.16/Protein(g)3.41/ Carbohydrate(g)19.93/Added sugar(g)16.15/ Total Fat (g)9.20 Allergen Information :Contains Milk."
+    },
+    {
+      "id": 9,
+      "name": "Alphonso Mango Milkshake",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/13/421c3ba1-5343-4ae5-ac1b-5cdb8df976f7_0b4f6889-d3b0-4972-9e03-91a0f9f95bef.jpg",
+      "details": "Everyone's favourite milkshake! delicious alphonso mango ice cream and juicy, real mango pulp blended to perfection in a glass. "
+    },
+    {
+      "id": 10,
+      "name": "Strawberry Chunks Milk Shake",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/19/d88fdcac-7df7-43bf-943f-523faded5896_2e23700d-6967-4be7-ac0e-9443ab3bbd4a.jpg",
+      "details": "Real strawberry pulp & chunks meet velvety vanilla for a berry-licious treat."
+    },
+    {
+      "id": 11,
+      "name": "Dumont Chocolate Thick Shake",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/19/408db699-3d0f-4b27-b372-1577ae51f8e8_55e83d8e-04bd-4ae4-8dee-f1a6c1028af3.jpg_compressed",
+      "details": "Extra-thick chocolate shake with our signature Dumont cocoa indulgence."
+    },
+    {
+      "id": 12,
+      "name": "Belgium Chocolate  [Shakes]",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/3/2323d039-30ef-4611-a85e-d7cdbb5bc38c_b9164f8a-17d8-40ac-8dd2-7670cd565ac6.jpg",
+      "details": "It contains Chocolate icecream with Belgium Milk flavoured chocolate cream and secret shake ingredients."
+    },
+    {
+      "id": 13,
+      "name": "Mississippi Mud Milkshake",
+      "price": "265",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/13/cc0a6ac8-d4df-453a-ba2a-b8bbc0db7495_e43dc9ef-515e-4fb7-b839-b3e8579ba946.jpg",
+      "details": "Everyone's favourite mississippi mud ice cream, now also available as a milkshake! chocolate fudge, ice cream, a fudge ribbon, and brownie pieces we guarantee an abundance of chocolate in every sip"
+    },
+    {
+      "id": 14,
+      "name": "Blackcurrant Ice Cream Milkshake",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/25/a39238bd-ee2f-43e7-bde6-26c0aa9d3ae2_c595f680-43ad-4a2e-a53d-cfa4105a1feb.jpg",
+      "details": "Treat yourself to the refreshing and fruity flavor of blackcurrant with ourblackcurrant ice cream milkshake - a perfect blend of blackcurrant ice cream and milk for a delicious treat."
+    },
+    {
+      "id": 15,
+      "name": "Pista Ice Cream Milkshake",
+      "price": "89",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/703ad1818cca64f8199bac0dd9d2a344",
+      "details": "Serves 1"
+    }
+  ],"Avocado ShakeItem":[
+     {
+      "id": 1,
+      "name": "Avocado Shake",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/t60scvimotxb0ck3yw4g",
+      "details": "Buttery shake."
+    },
+    {
+      "id": 2,
+      "name": "Avocado Shake",
+      "price": "260",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/rph4q2cqfygvfwwrl7of",
+      "details": "Serves 1"
+    },
+    {
+      "id": 3,
+      "name": "Avocado Shake",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/t60scvimotxb0ck3yw4g",
+      "details": "Buttery shake."
+    },
+    {
+      "id":4,
+      "name": "Avocado Shake",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/26/f53c1bb1-e803-49ef-b036-8b0d77c01abf_b2f130af-a32c-4825-8805-d621ddbd0dc9.jpg",
+      "details": "A thick and creamy Avocado Shake to fill your tummy!"
+    },
+    {
+      "id":5,
+      "name": "Avocado Shake",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/14/4bbbbb0f-a570-4fc9-a151-7cbbaf426ce0_168e1da6-03b9-400d-809f-67a3f398b005.jpg",
+      "details": "Avocado Shake -- Creamy & Nutritious Delight Indulge in the creamy goodness of our Avocado Shake (also known as butter fruit shake). Made from fresh, ripe avocados, this healthy drink is a perfect blend of taste and nutrition. Packed with healthy fats, fiber, and essential vitamins, this shake helps promote heart health, improve digestion, and enhance skin radiance. Its natural potassium content aids in maintaining electrolyte balance, while the vitamins and minerals support overall vitality. En"
+    },
+    {
+      "id":6,
+      "name": "Avocado Milkshake",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/56710869969db244d6f37696658ed262",
+      "details": "Creamy avocado combined with milk, creating a rich and velvety shake packed with healthy fats and a smooth texture."
+    },
+    {
+      "id": 7,
+      "name": "Avocado Milkshake",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/1/fb96a165-7f3b-40d8-9bd2-da1d325ab0d2_cae1e18b-26cd-4c07-848c-e91e96621ea8.jpg",
+      "details": "Indulge in a creamy, refreshing delight that blends smooth textures with a rich, buttery essence, perfect for a refreshing treat."
+    },
+    {
+      "id": 8,
+      "name": "Avocado Milkshake",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/5/d5ffc969-91ec-4806-9622-98ac43c2a041_6ed09dfb-01d4-4115-bc63-78b27ee2fe14.jpg",
+      "details": "Creamy and nutritious drink made with ripe avocado blended with milk, offering a rich and buttery flavor that's both refreshing and satisfying."
+    },
+    {
+      "id": 9,
+      "name": "Avocado Boba Shake",
+      "price": "209",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/4/9f858ff4-1caa-4a89-a570-0db2c7095346_6fba34f4-486b-4d57-b518-b41bb23e88d7.jpg",
+      "details": "Rich, creamy avocado milkshake blended to perfection with chewy boba pearls – a healthy indulgence with a fun twist!"
+    }
+  ],"Dry Fruit ShakeItem":[
+     {
+      "id": 1,
+      "name": "Dry Fruit Shake",
+      "price": "146",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/xtpat9sceawxyvusb4zf",
+      "details": "Healthy mixed dry fruit crush shake"
+    },
+    {
+      "id": 2,
+      "name": "Dry Fruit Shake ",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/zqqufi3wtnlkl67k8thf",
+      "details": "A crunchy and creamy milkshake made by blending wholesome milk with delectable dry fruits and refreshing ice cream."
+    },
+    {
+      "id": 3,
+      "name": "Dry Fruit Shake",
+      "price": "280",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/e3e637f8bc631d23f65fd1470ab5144d",
+      "details": "Serves 1"
+    },
+    {
+      "id":4,
+      "name": "Dry Fruit Mix Shakes",
+      "price": "255",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f604f9b90034c2bd94f76b5d83d6b878",
+      "details": "Dry fruit with milk, Sugar! No Water"
+    },
+    {
+      "id":5,
+      "name": "Sugar Free Dry Fruit Shake",
+      "price": "158",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/uusvllwwtiha1h5gx8n1",
+      "details": "dry fruit shake with no added suagr. A refreshing drink, made with a blend of dried fruits and nuts. A guilt-free way to enjoy a delicious shake!"
+    },
+    {
+      "id":6,
+      "name": "Dry Fruit Milkshake",
+      "price": "234",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/21/90ba6111-12cb-4477-8ed1-5b04f7173fd1_a8c5d91b-176c-430c-a03f-46d0d9b598e9.jpg",
+      "details": "A Dry Fruit Milkshake is a nutritious and indulgent drink made by blending chilled milk with a mix of almonds, cashews, pistachios, dates, and raisins. Naturally sweet and creamy, this shake is packed with energy, protein, and essential nutrients, making it both delicious and wholesome. Often enhanced with a hint of saffron, cardamom, or a scoop of ice cream, it has a royal taste that’s both refreshing and filling."
+    },
+    {
+      "id": 7,
+      "name": "Dry Fruit Shake",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/11fc4109e6765abb3eb8d13ed3465ac4",
+      "details": "A nutritious and flavorful shake prepared by blending a variety of dried fruits such as dates, almonds, cashews, offering a rich, creamy, and energy-packed beverage with a delightful nutty essence."
+    },
+    {
+      "id": 8,
+      "name": "Special Dry Fruit Milk Shake(300ml)",
+      "price": "181",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/c393d74ec0149206b19eaab3fad8f39a",
+      "details": "Indulge in a luscious blend of velvety milk and luxurious dry fruits that will leave your taste buds craving for more."
+    }
+  ],"Chocolate Thick ShakeItem":[
+     {
+      "id": 1,
+      "name": "Ferrero Rocher Milkshake",
+      "price": "329",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/29/76e16aef-646d-49aa-813b-aca1c10a5055_347d21d4-e049-43b9-a700-bb98b13db34b.jpg",
+      "details": "(serves-1 | 300ml) (serves-2 | 500ml) experience the world-class ferrero rocher milkshake, a premium thickshake crafted with the beloved ferrero rocher chocolates. This luxurious treat offers an exceptional taste experience, making it a must-try for fans of this renowned confection. Reg/large approximately 425 / 709 kcal; protein: approximately 9. 53g / 15. 88g. "
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Thick Shake",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/19/cddbd1f0-c2fc-4af3-a108-b482cc0027e2_0564277b-594b-4aa9-a7cd-6796803092fc.jpg",
+      "details": "Qty:  Gms300 ML| Kcal: 496.08 | Carbs 87.69 Gms| Sugar: 61.44 Gms| Fat: 11.28 Gms| Saturated fat: 7.17 Gms| Protein: 10.95 Gms| Sodium: 10.68 Mg  Contains: , Soybean , Milk"
+    },
+    {
+      "id": 3,
+      "name": "Ferroro Rocher Thickshake",
+      "price": "260",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/zgxfapnmncrxqrajwor6",
+      "details": "A crunchy and creamy thickshake made with crunchy ferroro rocher, ice cream and milk."
+    },
+    {
+      "id":4,
+      "name": "Belgian Chocolate Thickshake",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/30/068f734c-6784-4ad3-b69b-2a8e2b941bea_c0a9252c-8d2e-48b1-965d-90eb1ba78884.jpg",
+      "details": "Indulgent chocolate thickshake topped with our inhouse chocolate sauce (300ml)"
+    },
+    {
+      "id":5,
+      "name": "Belgium Chocolate Thickshake",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/12/a348f3c5-49c0-408a-9a79-619dc8318ab3_810eb8c0-0c74-4aff-8ff0-cf365c8326a2.JPG",
+      "details": "Rich Belgian chocolate blended into a decadently thick, creamy shake for an indulgent treat."
+    },
+    {
+      "id":6,
+      "name": "Chocolate Thickshake",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/7/b6df67fa-f55e-4ff4-b9e8-fae04646ef42_025237b5-c70b-45d4-846c-a7c0fd5fa055.jpg",
+      "details": "Smooth, refreshing chocolate thickshake perfectly blended for a rich bold flavour with a creamy the ultimate pick me up for choosing chocolate lover any time of the day."
+    },
+    {
+      "id": 7,
+      "name": "Chocolate Thick Shake.",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/18/53ecfa6e-9581-4977-b9df-06391001330b_26a841e6-3e00-489f-9e01-4dfb9e580b7a.jpg",
+      "details": "Thick, rich, and loaded with irresistible chocolate goodness!"
+    },
+    {
+      "id": 8,
+      "name": "Ovaltine Break",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/10/06953257-1d00-46e5-b10f-f391f3063a9e_411d7e2b-aa31-495d-a7b2-cbf2d95ac5a6.jpeg",
+      "details": "Thick malty, chocolatey nostalgic deep malted sweetness"
+    },
+    {
+      "id": 9,
+      "name": "Chocolate thickshake",
+      "price": "174",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/18/deb5e2a0-8d56-4500-9eac-f46b979e38af_17eec45a-b1e2-4157-a9f1-33df849ba5ba.jpg",
+      "details": "Indulge in a Rich and Creamy Chocolate Thickshake That Will Satisfy Your Sweet Cravings"
+    },
+    {
+      "id": 10,
+      "name": "Chocolate brownie thick shake",
+      "price": "208",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/1/fd22b104-6c9c-40c0-853d-534f2309bbba_185be534-fdb9-46ef-836c-a4c40380d50f.jpg",
+      "details": "Indulge in a Rich and Decadent Chocolate Brownie Thickshake"
+    }
+  ],"Shawarma PlateItem":[
+     {
+      "id": 1,
+      "name": "Plate Shawarma",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/9a312c490c54f504d4f0b5dbc76e762a",
+      "details": "2 piece  khaboos and shawarma chicken mini box shawarma is arguably one of the most popular dishes in the world today. I'm so into shawarma and shawarma rolls that i forget there's anything else at all. Shawarma is what i yearned for and shawarma is what you never treated me to. You are my heart."
+    },
+    {
+      "id": 2,
+      "name": "Chicken Shawarma Plate",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/yo0nlfxf6lm180yw1zvs",
+      "details": "Shawarma served with sides, a hearty and flavorful meal."
+    },
+    {
+      "id": 3,
+      "name": "Hummus Shawarma Plate (rumali)",
+      "price": "279",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/985254f702f1225e6ddef0c0740d6e99",
+      "details": "Shredded Grilled meat Served With Hummus and One Rumali."
+    },
+    {
+      "id":4,
+      "name": "Peri Peri Plate Shawarma",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/25/6cd6cc7d-123f-4a0e-8771-a59c81bd8621_1d7c6e81-6129-43f9-8cfe-cb943271c3b0.jpg",
+      "details": "peri peri flavored shawarma filled in a kuboos and covered by one"
+    },
+    {
+      "id":5,
+      "name": "Mexican Shawarma Plate (rumali)",
+      "price": "279",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/5aa52bde76436ddc893b58ea79154438",
+      "details": "Spicy Shawarma With Rumali ."
+    },
+    {
+      "id":6,
+      "name": "Chicken Shawarma Plate",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/6/2c75d6dd-82de-4b32-94d0-79dffc9a160d_f011ec02-2d27-457d-b4b3-99b0cc0e9d34.JPG",
+      "details": "Boneless chicken marinated  with curd, ginger,  garlic, vinegar, turmeric, red chilli powder, herbs, signature Shawarma masala and grilled to perfection.   Chopped cabbage, grilled chicken pieces and mayonnaise layered on top of an Arabian roti (Kubus) prepared with wheat."
+    },
+    {
+      "id": 7,
+      "name": "Turkish Plate Shawarma",
+      "price": "260",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ed0ggvhvuv0ulk1bnlds",
+      "details": "Consisting of chicken cut into slices, with ice-berg lettuce, french fries, and 3 type of special sauces along with mayonnaise served in plate with kuboos"
+    },
+    {
+      "id": 8,
+      "name": "Plate shawarama",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/27/70e9ffd2-0716-4c05-a33d-7b68fd5e17dc_1791031b-541a-4977-b62d-2fc35c06b0bc.jpg",
+      "details": "Tender, marinated meat wrapped in warm, fluffy bread, topped with fresh sauces and crunchy veggies for a satisfying bite."
+    },
+    {
+      "id": 9,
+      "name": "Shawarma Plate",
+      "price": "225",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/19/6febb5a7-c909-43d0-b467-77573111d105_e0b370fb-e339-4aa7-a4b5-971105e635e7.jpg",
+      "details": "A mix of delicious middle easternclassics, this chicken shawarma plate isso delicious and easy to make. Theperfect meal any time."
+    },
+    {
+      "id": 10,
+      "name": "Chicken Shawarma Plate",
+      "price": "201",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/6/5e9c7d74-853a-4f62-8eda-c04caea0d05e_25581b35-c010-4dde-872e-aa2c4382f428",
+      "details": "Deliciously seasoned chicken shawarma served on a plate, perfect for meat lovers."
+    },
+    {
+      "id": 11,
+      "name": "Mexican Plate Shawarma ",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/25/6cd6cc7d-123f-4a0e-8771-a59c81bd8621_1d7c6e81-6129-43f9-8cfe-cb943271c3b0.jpg",
+      "details": "mexican flavored shawarma filled in a kuboos and covered by one"
+    },
+    {
+      "id": 12,
+      "name": "Special Shawarma Plate",
+      "price": "295",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/19/ef96febf-0830-4365-b651-8f37089d2a0f_54adc667-b036-49d1-8752-19e53b08d3b2.jpg",
+      "details": "A delightfully flavor packed dish ofmouthwatering chicken shawarmawithout any veggies perfect to satisfyyour cravings.A delightfully flavor packed dish ofmouthwatering chicken shawarmawithout any veggies perfect to satisfyyour cravings."
+    },
+    {
+      "id": 13,
+      "name": "Mexican  chicken Shawarma Plate",
+      "price": "217",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/6/ae4fb7a9-47ed-438f-b2b1-1526adde9688_00490d7e-5e80-4de1-ac06-5e6fc0452921",
+      "details": "Tender grilled chicken wrapped in a warm tortilla with vibrant Mexican flavors."
+    },
+    {
+      "id": 14,
+      "name": "Mexican Special Plate",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/5/19477029-9636-4b12-95ee-f9151641408d_bc571445-8465-4eb9-bd2e-0eba9da5b6ab.jpg",
+      "details": "Large portion of tender Chicken, roasted in the donner, mixed with Spicy Mexican sauce and mayonnaise, served in a plate along with two khubus."
+    },
+    {
+      "id": 15,
+      "name": "Classic Shawarma Plate",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ltokt1alzmjkyl9lvrl8",
+      "details": "Indulge in the timeless flavors of our Classic Shawarma Plate, a mouthwatering dish that will transport your taste buds to new heights."
+    }
+  ],"Chicken ShawarmaItem":[
+     {
+      "id": 1,
+      "name": "Chicken Shawarma Roll",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/zeiwvlfkmt9xwf9rqvjo",
+      "details": "Spiced chicken wrapped in flatbread with veggies and sauce, a satisfying wrap."
+    },
+    {
+      "id": 2,
+      "name": "Chicken Shawarma",
+      "price": "215",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ugx5ma6lrl7ck5n2k4pm",
+      "details": "Serve 1"
+    },
+    {
+      "id": 3,
+      "name": "Mexican Chicken Shawarma ",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1d56e3405b3537c54a4e1eda89137bac",
+      "details": "Mexican sauce  & mayo commination the chicken shawarma with its unique spices is one of the most popular dishes in the region. "
+    },
+    {
+      "id":4,
+      "name": "Chicken Shawarma",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/zim9mxsixfb4mvgfgfv2",
+      "details": "Savor the succulent flavors of this savory, grilled chicken masterpiece, loaded with aromatic seasonings and tenderly wrapped in a soft, warm roll."
+    },
+    {
+      "id":5,
+      "name": "Chicken Shawarma Plate",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/6/2c75d6dd-82de-4b32-94d0-79dffc9a160d_f011ec02-2d27-457d-b4b3-99b0cc0e9d34.JPG",
+      "details": "Boneless chicken marinated  with curd, ginger,  garlic, vinegar, turmeric, red chilli powder, herbs, signature Shawarma masala and grilled to perfection.   Chopped cabbage, grilled chicken pieces and mayonnaise layered on top of an Arabian roti (Kubus) prepared with wheat."
+    },
+    {
+      "id":6,
+      "name": "Chicken Shawarma Plate",
+      "price": "201",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/6/5e9c7d74-853a-4f62-8eda-c04caea0d05e_25581b35-c010-4dde-872e-aa2c4382f428",
+      "details": "Deliciously seasoned chicken shawarma served on a plate, perfect for meat lovers."
+    },
+    {
+      "id": 7,
+      "name": "Classic Peppy Chicken Shawarma.",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/23/b4d15d97-f107-49ef-8c7c-d3d22300743f_163caf34-3cae-4dfc-8a9d-f709d2271d3a.jpeg",
+      "details": "Wrap your taste buds around warm kuboos or rumali roti, with spiced chicken and garlic mayo,. You don't need a genie to satisfy this food craving!"
+    },
+    {
+      "id": 8,
+      "name": "Classic Smoky Chicken Shawarma.",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/23/f4020eaf-5a75-4db4-aa22-1fa53ee5b2ac_070ca9c0-e8cb-4b29-92b2-06eb29e96885.jpeg",
+      "details": "Experience Arabic enchantment with thin, soft kuboos or rumali of your choice, enveloping marinated grilled chicken, galore, and cabbage! Yalla Habibi!"
+    },
+    {
+      "id": 9,
+      "name": "Chicken Shawarma Plate",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/yo0nlfxf6lm180yw1zvs",
+      "details": "Shawarma served with sides, a hearty and flavorful meal."
+    },
+    {
+      "id": 10,
+      "name": "Spicy Chicken Rumali Shawarma - Special",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/11/57ea895e-d39a-4c13-9a14-a007b42f641b_1aa7dbf9-1f00-4a20-8ba0-24bb664a6b7f.jpeg",
+      "details": "Flavour bomb alert! Spicy chicken, saucy layers, and rumali roti that rolls it all up into a shawarma thats straight-up obsession material. (Energy: 652KCal, Carbohydrates: 66gm, Proteins: 23gm, Fats: 32gm, Sodium: 1755mg)"
+    },
+    {
+      "id": 11,
+      "name": "Chicken Rumali Shawarma - Special",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/11/45bda7ec-447b-46ac-8458-d5ebe9e68d03_193b5962-fd46-4a98-964d-ea77b6125009.jpeg",
+      "details": "Juicy chicken, saucy layers, and crunchy fillings rolled up in soft rumali roti for a full-on shawarma satisfaction (Energy: 612KCal, Carbohydrates: 57gm, Proteins: 24gm, Fats: 31gm, Sodium: 771mg)"
+    },
+    {
+      "id": 12,
+      "name": "Chicken Shawarma",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/28/055893c9-c150-49fc-946d-37f4e8abf158_e646e323-3852-4d16-a7e7-8da39047b8fe.jpg",
+      "details": "Perfectly grilled donner chicken tossed lavishly with cabbage, creamy Mayonnaise, and wrapped in fresh Khubus."
+    },
+    {
+      "id": 13,
+      "name": "Chicken Shawarma [Serves 1]",
+      "price": "430",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/d2c0258def868eaa838ddc22903b7361",
+      "details": "Chicken Thigh Marinated In Our Special Shawarma Mix, Grilled, Served With Hummus, Toum, Pita, Fries & Pickled Vegetables"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Shawarma",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/17/e79d399e-eb86-42ba-bba9-ff5f3afd0d52_9af9be13-2158-4d57-a6da-cfe0e6172f36.jpeg",
+      "details": "Arabian style authentic shawarma . Charr cooked tender pieces of chicken, rolled in traditional soft, fluffy khubbus. Calories :  680 kcal , Protein : 52 g , Carbs  : 38 g, fats : 37 g Our shawarmas are made in a traditional style. Tender pieces of filling, rolled in soft flaky bread made in true arabian style. Hand ground spices, authentic middle east style makes our shawarma a truly tasty experience."
+    },
+    {
+      "id": 15,
+      "name": "Regular Chicken Shawarma Box",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cysrwez4rfqvaydh9kfs",
+      "details": "For the real hungry. Delicious stuffing's sandwiches between soft breads that will satiate your tummy."
+    }
+  ],"South Indian BreakfastItem":[
+     {
+      "id": 1,
+      "name": "Idly [2 Nos]",
+      "price": "33",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/361064ed9b05f36d6613bf26906edeea",
+      "details": "A soft, fluffy steamed cakes made from a fermented batter of rice and Black Lentil. "
+    },
+    {
+      "id": 2,
+      "name": "Medu Vada (1pc)",
+      "price": "50",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/1/0b5b5609-e5d1-4bff-9579-05c052ab3a58_d5f1e2ed-13a7-4762-823d-197e918c7e8f.jpg_compressed",
+      "details": "Crispy on the outside and fluffy on the inside. Goes well with our famous | Served with sambar and coconut chutney |"
+    },
+    {
+      "id": 3,
+      "name": "Idly [2 Pcs]",
+      "price": "70",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/19/d443b028-c3f8-4090-9a49-10b51d968cb0_ec536534-b385-41b0-bacf-073c71cbc08b.jpg",
+      "details": "A Soft & fluffy idly, popular as breakfast foods in Southern India"
+    },
+    {
+      "id":4,
+      "name": "Special Dosa",
+      "price": "105",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/43b4dc4afadcb42e106837f0acfae269",
+      "details": "Homely and delicious Dosa served with flavorful sambar and 2 Chutneys"
+    },
+    {
+      "id":5,
+      "name": "Plain Dosai",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/1/a4368e56-0c07-4b73-b345-8af9d0437b40_9b39a610-4b74-4603-ba6a-348f4aa33612.jpg_compressed",
+      "details": "A thin, crispy, golden-brown crepe made from fermented rice and lentil batter,"
+    },
+    {
+      "id":6,
+      "name": "Idly(2pcs)",
+      "price": "59",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/558c64d7f1ea21da0a8323cfd6bd37aa",
+      "details": "A classic South Indian breakfast dish that's fluffy, soft, and satisfying. Serves 1"
+    },
+    {
+      "id": 7,
+      "name": "Hot Idly (3)",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/10/13/ab5e0bf5-dff9-4323-9284-7de94ce444f9_e2bdeb11-a3a1-41d6-b044-3ab8299ed187.JPG",
+      "details": "SouthIndian steamed rice cakes served With Sambar & two types Of Chutney"
+    },
+    {
+      "id": 8,
+      "name": "Idli (3 Pcs)",
+      "price": "70",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ieitxqlx0e28jereo0dm",
+      "details": "Soft and fluffy bite-sized cakes, perfect for any morning meal. Serves 1"
+    },
+    {
+      "id": 9,
+      "name": "Idly",
+      "price": "59",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/4/3d867f6e-b6b5-414c-a271-3037f7924d2a_af25a4a0-1dd8-4f12-ab2d-36d4fc06db33.jpg",
+      "details": "Healthy breakfast that is served with delicious chutney and sambar"
+    },
+    {
+      "id": 10,
+      "name": "Butter Dosai",
+      "price": "105",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/87001998404847379fa9d86c5be7a31f",
+      "details": "A crispy and savory South Indian delight, perfect for breakfast or anytime. Serves 1"
+    },
+    {
+      "id": 11,
+      "name": "Dosai",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/16/3bef1e04-32af-402d-94aa-fcf45649e629_85cc782d-35cf-4ac6-9356-db811faaf421.jpg",
+      "details": "A Thin, spicy, crispy crÃªpe-like food made from fermented rice"
+    },
+    {
+      "id": 12,
+      "name": "Idly",
+      "price": "68",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/6/36c11615-5b47-45d5-9bdb-1fb5a5363efe_4d976d08-38c5-41af-ad41-fa5f27bea28a.jpg",
+      "details": "Hot idly  soft, fluffy, and steamed."
+    },
+    {
+      "id": 13,
+      "name": "Idly (1 Nos) Without Gravy",
+      "price": "25",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/24/1f351659-4d0d-457f-a614-c7e40154218c_6d9580e4-4422-4b99-9866-e9a0ca1b9c66.jpg",
+      "details": "Soft and fluffy steamed rice cake, perfect for a light and satisfying meal."
+    },
+    {
+      "id": 14,
+      "name": "Garlic Dosa",
+      "price": "88",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/16/ce0ce367-6b99-491b-bf9d-9951daa68dd5_87862a7b-b8dc-4be2-977e-2a6313a2f9b6.JPG",
+      "details": "An aromatic and flavorful South Indian delicacy that will tantalize your taste buds with its rich and savory essence."
+    },
+    {
+      "id": 15,
+      "name": "Pongal Vada Combo (pongal + Medhu Vada 1 Pcs)",
+      "price": "170",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/22/4853a6b1-5f84-4967-ba31-846a2f089675_82bd9bed-6f6e-4519-a0e3-673cf420cd10.JPG",
+      "details": "Pongal + 1 Pcs Medhu vada"
+    }
+  ],"South Indian MealsItem":[
+     {
+      "id": 1,
+      "name": "South Indian Platter",
+      "price": "",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/26/7bd78d13-5c81-46dc-abe6-d0a809acc5ad_317bea92-c5a3-4034-8367-8f583c798421.jpg",
+      "details": "Top Seller – Customer Favorite & Most Loved!Item Contents:- 2 Idlis- 2 Vadas- 1 Mini Uttapam- 1 Mini Masala Dosa- 400g Sambhar- Coconut Chutney and Onion-Tomato Chutney (approx. 20g)Perfect for a complete and satisfying South Indian meal experience.A wholesome and flavorful assortment of South Indian favorites served together."
+    },
+    {
+      "id": 2,
+      "name": "Andhra Meal 2 Person",
+      "price": "341",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/b034fd99cfbd610e78d9296bd61e6a43",
+      "details": "| Poori [4 nos], rice, sambar, rasam, kootu, poriyal, dhall, vatha koolambu, dhall powder, gongura chutney, pickle curd, 2 appalam |"
+    },
+    {
+      "id": 3,
+      "name": "Sadhya Kizhangu Ularthiyathu - 750 Ml",
+      "price": "159",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/1/46c2e6c6-b11d-49c3-b69d-2b36e068810b_e84aa5cc-0171-48d1-804d-b87f45bd7bf9.png",
+      "details": "Kizhangu ularthiyathu is a kerala-style stir-fry made with root vegetables, coconut, and aromatic spices. "
+    },
+    {
+      "id":4,
+      "name": "Sadya Avial With Curd - 450 Ml",
+      "price": "202",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/9/93565de5-4479-451b-add3-e625ab4092f9_82916966-52df-452c-adcc-d8a4b4f10533.png",
+      "details": "Flavourful coconut oil seasoned curd mix with combination of yam, yellow pumpkin, drumstick, raw banana, yellow cucumber, long bean vegetables"
+    },
+    {
+      "id":5,
+      "name": "Bharani South Indian Meals",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/sofxnzhm1a1pm16dgv0h",
+      "details": "Rice, sambhar, kara kolambu, rasam, butter milk, appalam, moor molaga, poriyal, kootu, sweet or banana."
+    },
+    {
+      "id":6,
+      "name": "Jain Andhra Meal 2 Persons",
+      "price": "341",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/63683771479c80581ede5a21e5976520",
+      "details": "| poori [4 nos], rice, sambar, rasam, kootu, poriyal, dhall, vatha koolambu, curd, 2 appalam--- (*non jain item dhall powder, gongura chutney, pickle )"
+    },
+    {
+      "id": 7,
+      "name": "Andhra Standard Meal Sides ( Serves 1 - 2 )",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/1473e4f8-02dc-4760-9fee-fb5a6b514186_8d156804-e1ea-4402-8c94-a2ad9d2e9456.jpg",
+      "details": "Each 250 ml of (pappu, charu & vepudu) and its serves 1 - 2 (order tiffin / rice separately)"
+    },
+    {
+      "id": 8,
+      "name": "Andhra Premium Meal Sides ( Serves 3 - 4 )",
+      "price": "729",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/8/5c85a491-c0f7-41f7-8f35-5d2f23e2fa8f_bbd1eb3b-93ba-44ac-982d-c31d26cc1a9d.pnghttps://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/8/5c85a491-c0f7-41f7-8f35-5d2f23e2fa8f_bbd1eb3b-93ba-44ac-982d-c31d26cc1a9d.png",
+      "details": "Each 450 ml of (pappu & charu), each 250 ml of (vepudu, fry, masala kura & payasam) and its serves 3 - 4 (order tiffin / rice separately)"
+    },
+    {
+      "id": 9,
+      "name": "Jain Andhra Meal For 1 Person",
+      "price": "275",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/235cf3dd32b53cad818ffce4ea2db7e3",
+      "details": "| poori [2 nos], rice, sambar, rasam, kootu, poriyal, dhall, vatha koolambu, curd, 1 appalam --(*non jain item dhall powder, gongura chutney, pickle )"
+    },
+    {
+      "id": 10,
+      "name": "South Indian Meals",
+      "price": "224",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/12842dde57a1750b739a9e35563d1663",
+      "details": "Sweet,Rice,Poriyal,Keerai,Kootu,Sambar,Special Kulambu,Rasam,Curd,Pickle,Appalam"
+    },
+    {
+      "id": 11,
+      "name": "Veg Andhra Meal ( Single )",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/25/618727ee-2e09-4e74-bca8-ca0475d8f8c0_2304b472-0459-4be0-8023-b33f4364c85c.jpg",
+      "details": "Serves 1 avvakai, podi [gunpowder],White rice - 650gms, dhall, poriyal, sambar, rasam, morekolambu, chutney,More, appalam , moremolaga, banana leaf, Karakolambu"
+    },
+    {
+      "id": 12,
+      "name": "A2b Spl South Indian Meals",
+      "price": "310",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/9d5d84e3951768893c9bfb97d966383c",
+      "details": "A grand platter featuring an array of South Indian delicacies, including Sweet,Soup,Chapathi, veg kuruma,gobi 65,Veg Biryani & Raitha,Steamed rice, sambar,kara kozhambu, rasam, poriyal, 2 kootu, curd, Butter Milk, pickle, papad and Dry Sweet."
+    },
+    {
+      "id": 13,
+      "name": "South Indian Meals",
+      "price": "250",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/28/55a9abdd-a85c-45cb-83d2-778520dcb178_5a3d8844-4a69-42db-9543-76b85baa937c.JPG_compressed",
+      "details": "Sweet + rice +kootu +poriyal(2) +sambar +rasam +kara kulambu +curd +poori(2) +appalam +raitha +pickle"
+    },
+    {
+      "id": 14,
+      "name": "Andhra veg meals",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/11/c5bcdfa6-fb68-4f60-a6f7-fcbca933bdf6_9dd5463f-b104-455b-9dd9-e463538b89fc.jpg",
+      "details": "Wholesome plate of South Indian cuisine, flavour full with tasty podi, ghee, sweet and fresh veggies served on a banana leaf"
+    },
+    {
+      "id": 15,
+      "name": "Ela Pothichoru",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/7/914317ea-ad53-47af-b228-254d7fc0d840_0da0119f-a5f4-4c3a-a73a-d4b5f0c63890.jpeg",
+      "details": "Traditional Kerala Meals, wrapped in banana leaves along with payasam"
+    }
   ]
 }
