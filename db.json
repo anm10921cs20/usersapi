@@ -18466,5 +18466,812 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/7/914317ea-ad53-47af-b228-254d7fc0d840_0da0119f-a5f4-4c3a-a73a-d4b5f0c63890.jpeg",
       "details": "Traditional Kerala Meals, wrapped in banana leaves along with payasam"
     }
+  ],"South Indian ChickenItem":[
+     {
+      "id": 1,
+      "name": "Moru Moru Chicken",
+      "price": "289",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/14/ddb75b00-b112-4d6d-9bd7-53d5ea5f2171_76bdc979-f756-4711-afdb-b2c49df58876.jpg_compressed",
+      "details": "Moru Moru Chicken.."
+    },
+    {
+      "id": 2,
+      "name": "Kozhi Fry With Indian Breads",
+      "price": "269",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/vm3dzgckswoiqqihlseb",
+      "details": "Served with Non Veg Plain Gravy."
+    },
+    {
+      "id": 3,
+      "name": "Kozhi Roast Kuzambhu",
+      "price": "297",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/17/b973eed7-8a8b-4460-836e-859521d55246_e4a48e7f-b59e-45a5-a361-618361aea39d.JPG",
+      "details": "Chicken in onion and tomato gravy"
+    },
+    {
+      "id":4,
+      "name": "Ghee Rice With 1/4 Kozhi Fry",
+      "price": "399",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/9/a7167dff-6edc-4805-aff7-c046c4851d6d_9af67eef-9b05-4aa0-bfa9-64dbc1aa3f5d.jpg",
+      "details": "Served Ghee Rice with dry fried chicken"
+    },
+    {
+      "id":5,
+      "name": "Manneral Kozhambu",
+      "price": "310",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/14/590bec11-4ca0-4b26-96d1-227d0c943193_356287d5-2743-4a49-a365-c8cb7dba13b8.JPG",
+      "details": "sevaroti soften in small onion gravy"
+    },
+    {
+      "id":6,
+      "name": "Nandhana Special Chicken Ghee Roast",
+      "price": "369",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/10/9b953c90-7eba-4895-a884-12918e35db27_75b82c9a-9e2a-4abc-be65-8020d4747542.jpg",
+      "details": "Juicy chicken pieces cooked in spicy secret sauce and clarified butter"
+    },
+    {
+      "id": 7,
+      "name": "Fried Chicken ( Indian Fiery ) - 2 Pcs",
+      "price": "245",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/13/dca20adc-143c-40f7-bffd-52a454c4f000_89b9c83e-007b-4ab8-9dd2-fd294425fdc5.jpg",
+      "details": "2Pc  Of Juicy Tender Chicken (Drumstick And Breast Or Wing And Thigh) Marinated With Indan Spices Ofcourse Its Secret Recipe, Breaded With Seasoned Flour And Deep Fried And Served With Tomato Sauce"
+    },
+    {
+      "id": 8,
+      "name": "Chicken 65",
+      "price": "205",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/971529ee-80fc-4bb4-90a1-1c393498a35c_457f6456-42a2-4984-ae0a-ce76e9c59b67.jpg",
+      "details": "Crispy, juicy, and packed with bold South Indian flavors! Our Chicken 65 is marinated in a fiery blend of spices, fried to golden perfection, and tossed with aromatic curry leaves and chilies. A perfect spicy starter that’ll keep you coming back for more!"
+    }
+  ],"South Indian CoffeeItem":[
+     {
+      "id": 1,
+      "name": "Mini Tiffen",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/9c0923f0bd9a40ce1aebcb6dafc63051",
+      "details": "A delicious traditional platter of fluffy idlis, Medhu Vada, Pongal, Rava Kesari, and a Mini Dosa served with a spicy sambar and chutneys"
+    },
+    {
+      "id": 2,
+      "name": "Signature South Indian Filter Coffee (250 GMS)",
+      "price": "514",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/5/364bd29b-2235-4d2e-bae9-4757005d7e13_8ad484ef-d1d0-4fe1-86c8-c80d57b5ca8a.jpg",
+      "details": "Organic Dark Roast. Suited for South Indian Filter, Espresso, Moka Pot or French Press. Notes: Smooth & Strong 100% Arabica Coffee"
+    },
+    {
+      "id": 3,
+      "name": "Ghee Mini Idly Sambar",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dem8sm5ufuhfzlhfbtdo",
+      "details": "Soft button idlies floating in our speciality sambar and topped with a dollop of ghee"
+    },
+    {
+      "id":4,
+      "name": "South Indian Filter Coffee",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/12/f273c579-c7ba-4cb7-ba42-f7481c7e27a7_f95e728f-e5c9-421e-8bcc-d8ee3d834b5d.JPG",
+      "details": "Classic decoction coffee bold, rich, and soul-warming"
+    },
+    {
+      "id":5,
+      "name": "South Indian Filter Coffee Thick Shake",
+      "price": "359",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/19/731aeff7-c17d-4961-9ada-302449ac23ca_98f8bdc3-beff-4bb6-bd5a-8fefae310416.jpg_compressed",
+      "details": "A bold & thick shake of house-brewed South Indian filter coffee ice cream."
+    },
+    {
+      "id":6,
+      "name": "Black South Indian Filter Coffee",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/12/c6f41f01-48d8-4aac-8f33-8d814015aca1_fd7b91f4-9d64-42f5-9c1c-6b8979ba97fa.JPG",
+      "details": "Wake up to the bold taste of freshly brewed black coffee"
+    },
+    {
+      "id": 7,
+      "name": "South Indian Filter Coffee Ice Cream",
+      "price": "109",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/30/ab9e62db-1009-445c-8a90-7c5611a3fa18_7413fdd5-87c4-4c26-a7e5-79527b50d4a0.jpg",
+      "details": "Ice cream made of in-house blend of arabica and robusta coffee beans. A treat for all the coffee lovers"
+    },
+    {
+      "id": 8,
+      "name": "Black South Indian Filter Nattusakkarai Coffee",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/12/26193064-e8b8-4bc6-8a0a-74ca77224fc0_9ff1c7c6-b0d2-4158-93d0-765907598537.JPG",
+      "details": "Authentic South Indian filter coffee with natural jaggery sweetness"
+    },
+    {
+      "id": 9,
+      "name": "Chukku  Coffee",
+      "price": "69",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/3/006d5178-c31f-44db-baa2-86853835dfb9_2e6630d8-f8a4-4f30-b365-13a097fe3bcf.jpg",
+      "details": "A flavorful and invigorating warm beverage with a delightful hint of spices."
+    }
+  ],"South Indian ComboItem":[
+     {
+      "id": 1,
+      "name": "South Indian Platter",
+      "price": "380",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/26/7bd78d13-5c81-46dc-abe6-d0a809acc5ad_317bea92-c5a3-4034-8367-8f583c798421.jpg",
+      "details": "Top Seller – Customer Favorite & Most Loved!Item Contents:- 2 Idlis- 2 Vadas- 1 Mini Uttapam- 1 Mini Masala Dosa- 400g Sambhar- Coconut Chutney and Onion-Tomato Chutney (approx. 20g)Perfect for a complete and satisfying South Indian meal experience.A wholesome and flavorful assortment of South Indian favorites served together."
+    },
+    {
+      "id": 2,
+      "name": "Bombay Meals",
+      "price": "235",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/bgvjmy15vjwwnwndgpgd",
+      "details": "Phulkha (1 pc) or chapathi (1 pc), veg biryani orveg fried rice, paneer butter, gobi manchurian dry, curd rice or jeera rice , sweet"
+    },
+    {
+      "id": 3,
+      "name": "Bharani South Indian Meals",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/sofxnzhm1a1pm16dgv0h",
+      "details": "Rice, sambhar, kara kolambu, rasam, butter milk, appalam, moor molaga, poriyal, kootu, sweet or banana."
+    },
+    {
+      "id":4,
+      "name": "South Indian Tiffin Combo 1",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/1/d98d8054-0176-46c9-9839-f78796a517cb_01b27071-c8e7-407a-9ba4-ce0d33c7aa4f.jpg_compressed",
+      "details": "Onion pakoda + idly (2Pcs) + ghee masala dosa (mini) + crispy medu vada (1Pc)"
+    },
+    {
+      "id":5,
+      "name": "Sudha Spl Breakfast Combo",
+      "price": "180",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/mlvi9buiieyly4h8sd0r",
+      "details": "Ghee masala dosa, khichdi(or)pongal, 1 idly, 1 crispy medu vada, sambar, coconut chutney, kaaram chutney"
+    },
+    {
+      "id":6,
+      "name": "South Delicacy Combo 1",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/d9e4ynetuqnazdnmfl2u",
+      "details": "Gobi 65, chilly kothu parotta, andhra gongura rice, vegetable kurma, raitha"
+    },
+    {
+      "id": 7,
+      "name": "South Delicacy Combo 2",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/6/b125a095-c1d7-477e-80bf-f4be1d87cf8b_80912229-ba08-4069-98aa-51c4d27cfadb.jpg",
+      "details": "Fried kaima idly, parotta (2nos), paruppu podi ghee rice, vegetable kurma, raitha"
+    }
+  ],"South Indian GrillItem":[
+     {
+      "id": 1,
+      "name": "Indian Tandoori Chicken Roll",
+      "price": "129",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/9/4c966f38-c191-4d0e-a54c-c70b832e4de1_69ee13c1-f267-4385-ab98-6efbc811de33.jpg",
+      "details": "Flavorful roll made with flaky lachha paratha, perfectly fried chicken strips in rich and creamy tandoori sauce"
+    },
+    {
+      "id": 2,
+      "name": "South Garlic Podi (Small) Mixture 115g",
+      "price": "78",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/11/c59320c1-e48e-4e16-aacb-feaa7c512f4b_fb61fa88-fb07-4ed0-8828-428f639e68ed.jpg",
+      "details": "No Maida | No Palm Oil | No Preservatives | No Artificial Colors/Additives Hailing from Tuticorin, Podi means small indicates that the besan bhujia in the sev is thin strands and is mixed with peanuts and flavoured with Garlic and Curry leaves makes it a spicy, crunchy and flavourful snack. Also best suits as a side dish for Curd rice, Sambhar rice etc. A zip of hot tea/coffee after a mouthful of garlic mixture is just ectasy."
+    },
+    {
+      "id": 3,
+      "name": "Indian Raj Paneer Makhani",
+      "price": "428",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/20/fdde2ecf-4d01-4a0c-affa-bcf84e18b7b8_6241e7ca-3c07-4687-9021-014ac75c764c.jpg",
+      "details": "(390gms) malai paneer simmered in our house makhani sauce. [medium spicy]"
+    },
+    {
+      "id":4,
+      "name": "Parotta",
+      "price": "53",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/29/a5aa7028-bc23-4175-8c7f-7cb992206884_f23970fc-8306-4905-84d2-a1fb2fd00b0b.jpg",
+      "details": "Only (1 piece) Parotta Without Side Dish"
+    },
+    {
+      "id":5,
+      "name": "Tawa Grilled Chicken Wings With Veggies",
+      "price": "369",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/12/a7e36fab-54a4-45b5-8d33-37994817f3af_46dc7266-0c24-41ea-831e-e580193392c4.jpg",
+      "details": "Marinated in spices , then grilled on a tawa until crispy and smoky. Tender inside and flavorful, they're perfect as a spicy appetizer."
+    },
+    {
+      "id":6,
+      "name": "South Special Kara Boondi 115g",
+      "price": "75",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/11/ffab0f81-3cbb-44a6-ada1-d8d9bf6a35a1_a2dd6bf1-2508-48d7-8e9b-6c3b7c0552f2.jpg",
+      "details": "No Maida | No Palm Oil | No Preservatives | No Artificial Colors/Additives"
+    },
+    {
+      "id": 7,
+      "name": "Grill Chicken",
+      "price": "209",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ldfa1jzljy4t3hqjcrsd",
+      "details": "Specially marinated chicken grilled slowly in the fire, bring it to a perfection of an aromatic, soft & tender grilled chicken. Served only for half and full along with Kubus"
+    },
+    {
+      "id": 8,
+      "name": "South Indian Ladoo",
+      "price": "234",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/26/fc6237ef-5074-4d73-9c05-a61cb39e3b34_4f60c1bc-8ef1-4284-82f3-0ac17c6ceb23.jpg",
+      "details": "A festive classic made with medium, golden pearls of sweetened boondhi, delicately bound with aromatic clove, ghee, and cashewnut | Allergen Information - Gluten, Dairy, Nuts | Best Before - 6 Days"
+    },
+    {
+      "id": 9,
+      "name": "Veg Chutney Cheese Grill",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/jiudtwl0hgmway3edjh0",
+      "details": "Made with fresh and crunchy vegetables, tangy chutney, and melted cheese, this grill is a treat for your taste buds. If you're looking for a mid-day break or a filling snack, our Veg Chutney Cheese Grill is the perfect choice for anyone who loves bold and delicious flavors."
+    },
+    {
+      "id": 10,
+      "name": "Veg Cheese Grill Toast",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/8/a4a87d26-8014-4ec5-a66e-2314e399810b_950e17d3-edd4-48b8-aa23-a14d999eb6ec.jpg",
+      "details": "Veg Cheese Grill Toast is a delicious sandwich made with a blend of fresh vegetables and melted cheese, grilled to a perfect golden crisp. The combination of warm, gooey cheese and crunchy toast creates a satisfying, flavorful bite."
+    },
+    {
+      "id": 11,
+      "name": "Grill Chicken",
+      "price": "235",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/tv6ewttafimdxeke2hbe",
+      "details": "Portion of the whole chicken is served after grilling with authentic seasonings of with masala"
+    },
+    {
+      "id": 12,
+      "name": "Indian Spicy Veg Roll",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/10/523afb1b-9bc9-4a4f-9c6e-1dda60b7da21_61c763cc-a9ca-4c13-ba15-3fe28d631b91.jpg",
+      "details": "Veg special spicy indian sauce and veggie roll"
+    },
+    {
+      "id": 13,
+      "name": "Bombay Grill Toast",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/zlwtwvvly9jpbfmm4oql",
+      "details": "A scrumptious veggie toast bursting with Mumbai-inspired flavors."
+    },
+    {
+      "id": 14,
+      "name": "Grilled Tandoori Paneer Sandwich",
+      "price": "169",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/29/51f6b444-b097-4764-b231-a783d04b8d49_88d92ac0-74a7-43c8-9d16-f5d32dff0b73.jpg",
+      "details": "A Combination of Tandoori Marinade, with a combination of Paneer cubes, Capsicum, Onion & Cheese. Grilled | Allergen information: Dairy, Gluten, Nuts | For immediate consumption"
+    },
+    {
+      "id": 15,
+      "name": "Basa Fish Tawa Grill (serves 1-2)",
+      "price": "549",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/23/2f1b8775-2e3c-4b55-9b04-cb815aa1fe0b_3454fa31-e936-4b9d-b0f4-3044d174621b.jpg",
+      "details": "A light, high-protein Basa Fish Tawa Grill, crafted for a clean and nutritious experience. Prepared using low-oil tawa grilling to keep it wholesome and flavourful. Made with tender basa fillets, fresh herbs, mild spices, and minimal oil to retain natural taste and deliver a balanced, heart-healthy meal. (Serves 1–2)"
+    }
+  ],"Iced TeaItem":[
+     {
+      "id": 1,
+      "name": "Lemon - Iced Tea",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/5/400b38ab-4c02-427e-8d54-3070f336b257_5eac2a1e-f7b8-49a9-b7ff-7fc9c10e147c.png",
+      "details": "Refreshing Lemon Iced Tea (Images are for representation purpose only)"
+    },
+    {
+      "id": 2,
+      "name": "Lemon Iced Tea",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/30/44772115-6ed5-4261-b805-a3bc50fa7a34_4d375d80-6069-41bc-970b-606100fb5aaf.jpg",
+      "details": "Cold Black Tea flavoured with Lemon sweetened by light sugar syrup | For Immediate Consumption | Per Serve (~300ml) | Best Before - 1 Day"
+    },
+    {
+      "id": 3,
+      "name": "Lemon Iced Tea[300 ML]",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/htsk6t6ftr0jkqcxtf9r",
+      "details": "Made with a blend of black tea, spices, and lemon juice, this iced chai is a perfect drink for a hot summer day. We use only natural and fresh ingredients to create our Lemon Iced Chai. It's a great source of antioxidants and nutrients, and it's also low in calories, making it a healthy drink option."
+    },
+    {
+      "id":4,
+      "name": "Cranberry Iced Tea[300 ML]",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/rka8gairqquhkt8mwu6i",
+      "details": "Our Cranberry Iced Chai is a delicious and refreshing blend of traditional Indian chai tea and tart, tangy cranberry juice. Made with a blend of black tea, spices, and cranberry juice, this iced chai is a perfect drink for any time of day."
+    },
+    {
+      "id":5,
+      "name": "Peach & Passionfruit Iced Tea",
+      "price": "210",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/3/7cf281b1-86a2-4c17-9da4-b0510b7da68c_b44cf4bf-89d5-453d-9049-50d2a8390523.jpg_compressed",
+      "details": "Peach & passionfruit flavored iced tea. "
+    },
+    {
+      "id":6,
+      "name": "Peach Iced Tea [300 ml]",
+      "price": "104",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/30/8ec94253-361b-4773-a981-68c07a395cd9_9a816d20-d355-4062-af29-0fef55b8624a.jpg",
+      "details": "Fruity and refreshing peach flavoured iced tea to quench your thirst on those hot days.Enjoy it chilled. Allergens - None"
+    },
+    {
+      "id": 7,
+      "name": "Lemon Grass Iced Tea",
+      "price": "49",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/21/d526a15c-a6d0-4df1-bcce-56b9d0e639aa_edbd403a-2c92-40cf-84c8-37aeb7ecc74a.jpg",
+      "details": "300 Ml - A refreshing iced tea infused with the aromatic flavor of lemongrass, perfectly balanced with a hint of citrus for a cool, rejuvenating drink"
+    },
+    {
+      "id": 8,
+      "name": "Peach Iced Tea",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/21/46cf64fb-fda9-498c-98aa-d7cd8f93824f_03186599-b583-4c79-a0a3-6457cf6b2c87.png",
+      "details": "Refreshing beverage made with brewed tea and infused with the natural sweetness of ripe peaches, offering a smooth and fruity twist on the classic iced tea."
+    },
+    {
+      "id": 9,
+      "name": "Citrus Iced Tea",
+      "price": "243",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/10/2f6a112c-7038-433a-a373-a82fe7ea9818_7227d5a8-ee1f-4e32-819b-776d8fd290c7.jpg",
+      "details": "Chilled iced tea with a hint of fresh lemon and mint"
+    },
+    {
+      "id": 10,
+      "name": "Lemon Iced Tea [300 ml]",
+      "price": "78",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/30/6de037a8-9a4d-450f-b42a-bbd9f4ba312f_22f8578b-5734-4f5d-b6e5-3a22de164210.jpg_compressed",
+      "details": "Zesty and refreshing lemon flavoured iced tea to cool off on those hot days.Enjoy it chilled. Allergens -None"
+    },
+    {
+      "id": 11,
+      "name": "Lemon Iced Tea (nsa)",
+      "price": "139",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/10/8/3caec48a-9d4a-4f13-9691-5b50ebcb1b47_d96b1a9b-bd67-4a42-a82c-af72c86502cb.jpg",
+      "details": "No Sugar Added, Contain Stevia"
+    },
+    {
+      "id": 12,
+      "name": "Iced Tea",
+      "price": "175",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/rwgtu4rkf1h4zwpbwnhm",
+      "details": "Peach, Lemon or Ginger & Honey Iced Tea"
+    },
+    {
+      "id": 13,
+      "name": "Strawberry Iced Tea",
+      "price": "243",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/10/1050eb44-9a94-4bc5-8a32-746e136f179a_41a74727-1ed0-449f-a930-e46d211594e8.jpg",
+      "details": "Sweet strawberries infused into chilled iced tea"
+    },
+    {
+      "id": 14,
+      "name": "Peppermint Iced Tea",
+      "price": "275",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/24/31e1be53-a80e-46bb-a8e9-4d5b4d832ec7_33589762-cb7b-4156-a107-0281a0352210.jpg",
+      "details": "Category Item"
+    },
+    {
+      "id": 15,
+      "name": "Lemon Iced Tea",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/15/604db1f2-a9da-4e8e-8c84-7e3855af833c_85a1c682-2053-4d34-b971-b636e4dd0282.jpg",
+      "details": "Lemon flavored Iced tea."
+    }
+  ],"Ginger TeaItem":[
+     {
+      "id": 1,
+      "name": "Ginger Chai",
+      "price": "109",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/23/88696a41-449b-4710-97e3-f860e9a9c8d8_08da2f0e-94bd-4eb0-9554-683ddd6ae9b1.png_compressed",
+      "details": "An aromatic concoction of freshly brewed tea infused with grated ginger root and sugar. Ginger helps ease the cold or flu while also curing nausea and related stomach problems."
+    },
+    {
+      "id": 2,
+      "name": "Ginger Chai Flask",
+      "price": "109",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ky9s0fx0hygp70i7z1qt",
+      "details": "Our ginger chai is a warm and comforting beverage that combines the bold flavor of black tea with the zesty kick of ginger. The tea leaves and spices are boiled together with fresh ginger root, creating a rich and flavorful brew that is perfect for sipping on a chilly day or for when you need a pick-me-up. The ginger adds a spicy and invigorating kick to the tea, while the other spices add depth and complexity to the flavor."
+    },
+    {
+      "id": 3,
+      "name": "Ginger Tea (250ml Serves 2)",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/10/5/6fd0c71a-c52e-4f90-bdfb-f8dbf7d803ac_40bfa8a1-c381-4bad-ab30-6140be9392f0.jpg",
+      "details": "Desi Chai with Ginger flavor. 250 ML, Serves 2."
+    },
+    {
+      "id":4,
+      "name": "Ginger Tea",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/5810daec50cd584eee46e45442157ddc",
+      "details": "We brew our tea concoction by adding grated ginger and our in house high quality tea leaves into hot boiling water for good time to induce the flavour. It is topped with some milk and sugar to give you that perfect inji/ginger tea. Good for sore throat and cold."
+    },
+    {
+      "id":5,
+      "name": "Ginger Lemon Chai",
+      "price": "109",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/23/c7c0bd30-19cb-4a8a-b389-efbaeb5d5b1b_bfe3a95b-f4ab-4034-90d1-259fb36a35cf.png_compressed",
+      "details": "Fresh hand-pounded Ginger and Lemon Juice is added to your Chai and brewed to perfection."
+    },
+    {
+      "id":6,
+      "name": "Ginger Lemon Chai Flask",
+      "price": "109",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/uog2sma9uqnxdsaytpcl",
+      "details": "Ginger Lemon Chai is a refreshing beverage made by infusing tea with fresh ginger and lemon. This aromatic and tangy drink is a perfect blend of black tea, ginger, lemon juice, and honey or sugar to add a touch of sweetness. The combination of ginger and lemon makes this tea not only delicious but also offers several health benefits."
+    },
+    {
+      "id": 7,
+      "name": "Ginger Chai 210 ML (serves 2-3)",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/24/cf301c5a-4c74-4e48-95b5-e4ac1cd7e06f_7ea377c5-4397-44d5-b936-3692739db2a7.png",
+      "details": "Strong tea brewed with ginger and spices."
+    },
+    {
+      "id": 8,
+      "name": "Ginger Chai [5 Cp]",
+      "price": "299",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/31/257c8506-5f37-433f-b411-ac4f9b85c3b9_7184511d-ca17-4859-880a-a32e29010421.jpg",
+      "details": "Warm up with our zesty Ginger Chai, a soothing blend of bold spices and fresh ginger for a refreshing kick"
+    },
+    {
+      "id": 9,
+      "name": "Ginger Tea with Osmania Cookies or Rusk",
+      "price": "75",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/12/946cfc53-be3f-44ce-9c9f-7cfd34294201_1fca67dc-0852-4485-b55d-2f83fea2485a.jpg",
+      "details": "A creamy and comforting breakfast classic that is perfect for starting your day on a wholesome note."
+    },
+    {
+      "id": 10,
+      "name": "Ginger tea",
+      "price": "75",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/9/273707ba-16b8-4299-8b58-95aa09b10b89_866dcc4f-7dd7-4e9f-b02f-8341491e826e.JPG",
+      "details": "A fragrant, soothing infusion that warms the soul with its zesty elegance and comforting aroma."
+    },
+    {
+      "id": 11,
+      "name": "Ginger Tea [500 ML]",
+      "price": "179",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/7b6130f9fb128f8d8bf57752e1479cd5",
+      "details": "Desi tea with  flavor of made by grating ginger"
+    },
+    {
+      "id": 12,
+      "name": "Ginger tea [250 ml]",
+      "price": "180",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/12/03dd03ea-3752-47bb-8b8b-83833ad4aed4_d1532153-d34d-4c2b-9483-50eded479433.jpg",
+      "details": "Enjoy a soothing and aromatic brew that warms the heart with every sip, offering a delightful escape."
+    },
+    {
+      "id": 13,
+      "name": "Ginger Tea",
+      "price": "60",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/25/7f4b37ba-e18a-406f-958e-ce791c685e79_9dae3b2c-4cb4-4d66-8d20-ea91854b80b7.jpg",
+      "details": "A warm and comforting blend of aromatic flavors, perfect to soothe and uplift your senses."
+    },
+    {
+      "id": 14,
+      "name": "Ginger Tea",
+      "price": "38",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/6fc2f70f6cfb0e8bcdb48256f6f725fc",
+      "details": "It is a rarest tea experience. It is our special one. You will fall in love at first sip. The combination of tea, sugar and slices of ginger makes it more fascinating."
+    },
+    {
+      "id": 15,
+      "name": "Ginger Tea",
+      "price": "70",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/18/6784e7ad-e8aa-49ff-ba71-c6cf6fb87281_79c142b3-9ec8-4353-bcd2-fbcd3f403f63.jpeg",
+      "details": "A single cup of tea can serve 3-4 people."
+    }
+  ],"Boba TeaItem":[
+     {
+      "id": 1,
+      "name": "Blueberry Poppins",
+      "price": "198",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/29/15998af0-4d19-4ea8-a3a1-372edba26ec0_7048fa26-d931-4573-9b7f-5f59da444070.jpg",
+      "details": "(serves-1 | 300ml) refresh with our sparkling berry cooler  a fizzy blend of zingy berries and fun blueberry popping boba. Bursting with fruity delight in every sip! | reg/large: approx. 127/212 kcals. "
+    },
+    {
+      "id": 2,
+      "name": "Litchi Boba Tea",
+      "price": "189",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/25/029fcb69-568f-4d5c-817a-90f2be823a83_56ba9fc2-6a0e-42bb-8d76-106fda888756.jpg",
+      "details": "A refreshing blend of sweet green apple tea infused with juicy, bursting green apple popping boba. Each sip delivers a crisp, fruity flavor and a fun pop of tangy goodness! approx. 130 kcal per serve. "
+    },
+    {
+      "id": 3,
+      "name": "Taro Boba Tea",
+      "price": "209",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/11/4f1ca6ca-6a2c-4e12-8355-5006cb583004_04fac60a-36a7-4fbb-9c93-9bcaece3b172.jpg",
+      "details": "A creamy taro-flavoured bubble tea with a smooth, sweet taste and a refreshing finish.Serving size – 270 ml for 248.25 Kcals Allergen: Contains milk, milk solids, nuts & soy"
+    },
+    {
+      "id":4,
+      "name": "Mango Bubble Tea - 500ML",
+      "price": "205",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/8/9fee87cf-37d0-45af-ae72-4065aa036bd8_67ebe050-d191-488b-8603-a95169b129e3.jpg",
+      "details": "Tropical paradise awaits in our Mango Bubble Tea! Taste the vibrant sweetness of ripe mangoes combined with choice of your Toppings.Pure bliss in every sip!"
+    },
+    {
+      "id":5,
+      "name": "Watermelon & Berry Boba Tea",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/15/bc8dbdf6-2be1-4a94-af2b-310eda5a6536_a160786a-b608-4a72-84e7-480fd983c31c.jpg",
+      "details": "Enjoy a refreshing watermelon and berry boba tea, combining the sweet taste of watermelon with tangy berries, all topped with bursting boba pearls for a fruity treat! approx. 135 kcal per serve. "
+    },
+    {
+      "id":6,
+      "name": "Blueberry Boba Tea [Medium]",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/12/a236a542-c359-4799-8b57-493bd1195133_175dea7d-b5f5-4c12-b3bd-2fbae03f3c94.jpg",
+      "details": "(serves-1 | 300ml) refresh with our sparkling berry cooler, blending zingy berry flavors with exciting blueberry popping boba pops. Relish the fizzy dance of berry notes, enhanced by boba surprises in every sip. A harmonious mix of effervescence and fruity delight, it's your go-to drink for an invigorating experience! approx. 138 kcal per serve. "
+    },
+    {
+      "id": 7,
+      "name": "Tiramisu Boba Tea",
+      "price": "209",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/11/077a85f7-0983-4892-a611-bedc1d07ba16_d97cc1a9-b63d-4e57-852b-0e421f88c9ff.jpg",
+      "details": "A rich and creamy tiramisu-flavoured bubble tea with smooth coffee-inspired notes and a dessert-style finish for a truly indulgent sip. Serving size – 270 ml for 226.07 Kcals Allergen: Contains milk"
+    },
+    {
+      "id": 8,
+      "name": "Mango & Peach Boba Tea",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/15/42e6cca2-06b5-44cc-8e3b-db2abb4d9fec_e40f5584-f82a-48c4-9d7e-0f55e70af4bd.jpg",
+      "details": "Savor the refreshing mango and peach boba tea, a perfect blend of sweet mango and juicy peach with bursting boba pearls in every sip! approx. 145 kcal per serve. "
+    },
+    {
+      "id": 9,
+      "name": "Mango Blast",
+      "price": "198",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/29/90e780a3-1550-4fdd-8c97-b5ca0c455db9_0d56fde3-d38c-4bbe-9a02-f924ee9b8405.jpg",
+      "details": "(serves-1 | 300ml) (serves-2 | 500ml) refresh with our seasons special cocktail topped with sweet mango boba creating a deliciously fizzy and exciting drink in every sip!"
+    },
+    {
+      "id": 10,
+      "name": "Lychee Bubble Tea",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/2/f1d46120-240d-47ca-97f8-cfdc9d54041f_4ff31e6e-8be1-4324-898e-e071ae3ab8b0.jpeg",
+      "details": "Indulge in exotic bliss with our Lychee Bubble Tea! Delight in the delicate floral sweetness of lychee paired perfectly with choice of your Toppings."
+    },
+    {
+      "id": 11,
+      "name": "Boba Tea & Sundae Magic",
+      "price": "499",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/16/22c3d92f-b3f4-442b-b1ed-2052fb0e2bdd_23397785-564c-4a6d-ba4d-bd74edbfc922.jpg",
+      "details": "(serves 2-3) create your perfect treat with our “make your own” bubble tea & boba sundae combo. Choose your favourite flavours, toppings, and popping boba for a refreshing, fun, and delicious experience, crafted exactly the way you love it. "
+    },
+    {
+      "id": 12,
+      "name": "Strawberry Bubble Tea",
+      "price": "220",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/2/2084b345-c1c3-44f3-9b9e-405ea675a17d_7e1ee4ce-8c15-403d-baf8-aaf75baa8fef.jpeg",
+      "details": "Savor sweetness with our Strawberry Bubble Tea! Enjoy the luscious flavor of ripe strawberries mingled with choice of your Toppings. Delight in every sip!"
+    },
+    {
+      "id": 13,
+      "name": "Boba bubble tea",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/27/760590a8-218e-4b66-803a-0c0c9fbfe79e_449f44db-fb90-42f6-8ece-641eb7926d6f.jpg",
+      "details": "This delightful, refreshing beverage features a creamy base and chewy pearls, creating a fun and unique drinking experience."
+    },
+    {
+      "id": 14,
+      "name": "The Birdie",
+      "price": "494",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/4/0017b3a8-c0b8-4d33-96f8-bf6bd1768241_54468aa2-101a-40fd-b1c2-f91845fd10f2.jpg",
+      "details": "Contains bubble gum, lemon juice butterfly pea, soda lychee boba  ,"
+    },
+    {
+      "id": 15,
+      "name": "Emerald Taro",
+      "price": "507",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/4/75804db1-b1c0-486a-9752-8ca9d0fe5b0f_94bdb7ba-1f6b-4812-8cb4-77726885da49.jpg",
+      "details": "It Contains Taro ,Matcha & Lychee Boba"
+    }
+  ],"Bubble TeaItem":[
+     {
+      "id": 1,
+      "name": "Rich Chocolate Bubble Tea",
+      "price": "309",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/22/e714cb54-de4e-4452-af94-58d9f4213bbe_39c79419-0e9d-4fbd-81c2-dc2b36da99d9.png_compressed",
+      "details": "(serves-1 | 400ml) dive into the richness of velvety chocolate blended with creamy milk tea, perfectly balanced with the sweetness of chewy tapioca pearls. Energy: approximately 512 kcal; protein: approx. 7g"
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Bubble Tea",
+      "price": "239",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/6/bfdafb30-0cbf-4c2a-9727-325e2d713531_fa6e725d-0bb9-42c6-b888-3893dbef0fcb.jpg",
+      "details": "Indulge in a delightful and creamy chocolate bubble tea, a sweet treat perfect for any time of day."
+    },
+    {
+      "id": 3,
+      "name": "Tiramisu Bubble Tea",
+      "price": "109",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/11/077a85f7-0983-4892-a611-bedc1d07ba16_d97cc1a9-b63d-4e57-852b-0e421f88c9ff.jpg",
+      "details": "A rich and creamy tiramisu-flavoured bubble tea with smooth coffee-inspired notes and a dessert-style finish for a truly indulgent sip. Serving size – 270 ml for 226.07 Kcals Allergen: Contains milk"
+    },
+    {
+      "id":4,
+      "name": "Taro Bubble Tea - 350ML",
+      "price": "190",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/8/e943cd78-8685-4150-bad1-e16976d87d38_90ac0f8c-2346-447b-bb2b-08b8d18bc365.jpg",
+      "details": "A creamy, purple-hued drink made from taro root, blended with milk and topped with a choice of your Toppings."
+    },
+    {
+      "id":5,
+      "name": "Double Chocolate Bubble Tea(500ml)",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/c950aaffa0632145ce4cbc8045a9e3f3",
+      "details": "Introducing Double Choco: a rich cocoa blend with sweetened milk, brown sugar tapioca boba, and a refreshing touch of Ro ice cubes. Topped with luscious chocolate syrup, it's a decadent delight for chocolate lovers everywhere."
+    },
+    {
+      "id":6,
+      "name": "Japanese Matcha Bubble Tea - 500ML",
+      "price": "245",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/8/d882dc95-23a1-443c-a8d4-34cbcaa10b35_8b8b2fe7-2f4d-413b-a435-ef7540e36edf.jpg",
+      "details": "A vibrant, creamy beverage featuring finely ground green tea leaves mixed with milk, sweetened to taste, and topped with choice of your Toppings."
+    },
+    {
+      "id": 7,
+      "name": "Hongkong Classic Bubble Tea",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/xopeaisdfbcxzedmq9bw",
+      "details": "Definite crowd favourite, perfectly sweet & full bodied. Made with iced black tea, non-dairy/vegan option available. Complimentary bubble toppings. Note: Regular sized drink[280-300ML] comes in a NORMAL BOTTLE. Large sized drink[450-475ML] comes in the signature half-litre BULB BOTTLE. The minor variation in quantity is the result of unpredictable behaviour of bubble tea foam in the drinks during delivery."
+    },
+    {
+      "id": 8,
+      "name": "Thai Bubble Tea",
+      "price": "325",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/16/3d11f75c-6943-4d3d-a2b2-d12d0207c35c_d9b7a3df-4327-419f-8b81-68e8aef6a7eb.png",
+      "details": "Mildy spiced popular sweet tea made from Thai tea mix. Creamy and refreshing with condensed milk and boba pearls"
+    },
+    {
+      "id": 9,
+      "name": "Original Milk Bubble Tea",
+      "price": "265",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/30/d0cf6648-5dcc-418b-8c6e-e0722f12f6ad_1b202a1d-60b5-4beb-aeee-f595ed8889ae.jpg",
+      "details": "The Original milk bubble tea - creamy, dreamy, and loaded with chewy boba to keep things classic. Allergen : Milk"
+    },
+    {
+      "id": 10,
+      "name": "Matcha-mel Bubble Tea",
+      "price": "315",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/26/570c6e76-24e2-4703-bd81-933659867f3c_f3741e73-1473-43d7-b02f-91c3e8a41f86.jpg",
+      "details": "Gourmet-grade matcha meets salted caramel for a sweet, savoury, and bold bubble tea."
+    },
+    {
+      "id": 11,
+      "name": "Green Apple Bubble Tea",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/6/805f4f47-c2b7-41c2-83fe-47b3bb153a2f_b47ebb49-b0cd-41f8-87a7-c72408512a06.jpg",
+      "details": "A refreshing blend of green apple and bubbles, perfect for any time of day."
+    },
+    {
+      "id": 12,
+      "name": "Choco Hazelnut Bubble Tea",
+      "price": "249",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/29/a203d792-60a1-4ec7-a659-211a0c138291_b6c5eee0-f752-4e72-9bfb-bbae8411fd6e.jpg",
+      "details": "Immerse yourself in chocolatey flavors with this refreshing drink, featuring our signature ice cream, chocolate sauce, hazelnut syrup, milk, and served over ice and topped with chewy, freshly made tapioca pearls. Approx. 331 kcal per serve. "
+    },
+    {
+      "id": 13,
+      "name": "Rich Chocolate Bubble Tea",
+      "price": "279",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/12/2fb4969b-0abf-4633-be03-f7a81dabb9be_1f8914f7-71fa-48ef-a6ae-91dcec4cb71c.jpg",
+      "details": "(serves-1 | 300ml) immerse in the world of chocolatey flavours with this refreshing drink, loaded with our signature belgian chocolate ice cream, chocolate sauce, milk and served over ice and loaded with the delightful chewiness of freshly made tapioca pearls. Approx 362 kcal per serve. "
+    },
+    {
+      "id": 14,
+      "name": "Mocha Latte Bubble Tea",
+      "price": "309",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/29/61ca7a1c-5624-4450-a56d-b75902786b8b_1025d726-3ff5-4322-9464-c4a74cb43fb6.jpg",
+      "details": "(serves-1 | 400ml) immerse yourself in the world of sinful chocolate and coffee blended with rich and creamy ice cream, topped with chewy tapioca pearls. Energy: approximately 601 kcal; protein: approx. 11g"
+    },
+    {
+      "id": 15,
+      "name": "Grapefruit Strawberry Bubble Tea",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/30/1d469821-7333-480c-a773-c7568d95b17d_9e52a497-c8f0-4e17-a302-5ec4ce81a3b9.jpg",
+      "details": "Grapefruit brings the zing, strawberry brings the sweet in a popping boba bubble tea blast."
+    }
+  ],"Black TeaItem":[
+     {
+      "id": 1,
+      "name": "Black Tea",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/78514d4d43efcf20f2b1cbb26d4a694a",
+      "details": "Hot concoction of our in house high quality tea leaves brewed in boiling water with the perfect amount of sugar. Perfect for people who are lactose intolerant or just dont like milk :) (no milk added)"
+    },
+    {
+      "id": 2,
+      "name": "Cup black tea",
+      "price": "56",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/21/3e4201c3-7fce-4ab1-9e79-4e95f355c53b_61e89b71-ea62-404e-b821-7e4f84671b6b.jpg",
+      "details": "Indulge in the comforting warmth and rich flavor of this aromatic, black tea."
+    },
+    {
+      "id": 3,
+      "name": "Black Tea",
+      "price": "70",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/18/62c42ce6-a218-4661-89df-950df14c35f6_4233f57e-501c-4aac-885a-b154fee4831c.jpeg",
+      "details": "A single cup of tea can serve 3-4 people."
+    },
+    {
+      "id":4,
+      "name": "Black Tea",
+      "price": "50",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/26/c511de6c-8ee5-4f4e-a48c-6b780521c350_68e36509-063a-452a-9904-5fe3e5da3587.JPG",
+      "details": "A warm and soothing beverage steeped in rich flavors, delivering a comforting and aromatic experience."
+    },
+    {
+      "id":5,
+      "name": "Black Tea",
+      "price": "230",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/19/3adf11fa-c588-4f3f-8d5d-3e1035a204b3_3ff935bd-6e4f-48e7-9d49-272b1aa9c4b8.jpg",
+      "details": "Black Tea is one of the most popular types of tea worldwide, known for its strong, robust flavor and dark amber color. It’s fully oxidized, giving it a richer taste compared to green or white teas."
+    },
+    {
+      "id":6,
+      "name": "Black  Tea",
+      "price": "59",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/599f8afea55c120d13fe6026878aa5cf",
+      "details": "Indulge in the rich and aromatic warmth of this comforting hot beverage."
+    },
+    {
+      "id": 7,
+      "name": "Black tea [250 ml]",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/12/9fff3fde-3afc-42e6-ad53-834ea447e38e_e8328cf9-48b1-4d2c-b7ba-5360d3004fe8.jpg",
+      "details": "Warm and comforting, this aromatic brew offers a rich, robust flavor that invigorates the senses."
+    },
+    {
+      "id": 8,
+      "name": "Black Dum Tea",
+      "price": "24",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/60c82f483254611cb9ff61f594a7c203",
+      "details": "Strong and aromatic tea made with perfectly brewed tea leaves."
+    },
+    {
+      "id": 9,
+      "name": "Black Tea",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/31/6ff3ff4f-f06c-4cab-aa41-c8e938ec705c_93cce4ba-b1e0-4b3f-afdb-821fb62b94e7.jpg",
+      "details": "Relish the bold and robust flavors of our Black Tea, the perfect brew to start your day with a powerful, energizing kick."
+    },
+    {
+      "id": 10,
+      "name": "Black Tea",
+      "price": "22",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/4/23/8c8a3ee3-a883-4c3f-809d-4a2ae60f4fd9_c37dc728-425e-426c-8655-37f217ed774e.jpg",
+      "details": "A soothing and aromatic blend that warms the soul, offering a rich, invigorating experience in every sip."
+    },
+    {
+      "id": 11,
+      "name": "Black Tea",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/12/c6f41f01-48d8-4aac-8f33-8d814015aca1_fd7b91f4-9d64-42f5-9c1c-6b8979ba97fa.JPG",
+      "details": "Simple, aromatic black tea for a refreshing break."
+    },
+    {
+      "id": 12,
+      "name": "Black Masala Tea Flask",
+      "price": "109",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f31f3d0c3305274e7b8b5d2ad5563468",
+      "details": "Black Masala Tea is a robust beverage that blends the strength of black tea with the richness of traditional Indian spices for a flavor-packed experience. served with paper cups, honey, stirrer and tissue paper. 250 ml- serves 2-3, 500 ml- serves 4-5."
+    },
+    {
+      "id": 13,
+      "name": "Black Tea",
+      "price": "200",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/27/6465c3a6-2a68-4e8b-bab1-e2484ef31c1e_110c5c37-4386-4798-b794-ca624b3dc990.jpg",
+      "details": "Hot concoction of our in house high quality tea leaves brewed in boiling water with the perfect amount of sugar. Perfect for people who are lactose intolerant or just dont like milk :) (No milk added)"
+    },
+    {
+      "id": 14,
+      "name": "Imperial Earl Garay",
+      "price": "350",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/25/6fe5743c-fe9b-4b24-beaa-ca38ab2128af_b67de8d8-593b-4f6b-b220-3ce7ca68f014.jpg",
+      "details": "Earl grey is a bright full bodied tea with the sweet fragrance and citrus flavour of the bergamot orange"
+    },
+    {
+      "id": 15,
+      "name": "Black Tea",
+      "price": "119",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/17/5f344285-1dcd-4cdb-b01e-6e88f16bddfd_75d1d482-cf56-4d61-a341-b9a5e3086026.jpg",
+      "details": "A comforting and aromatic hot beverage perfect for a cozy afternoon."
+    }
   ]
 }
