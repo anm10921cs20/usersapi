@@ -19273,5 +19273,600 @@
       "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/17/5f344285-1dcd-4cdb-b01e-6e88f16bddfd_75d1d482-cf56-4d61-a341-b9a5e3086026.jpg",
       "details": "A comforting and aromatic hot beverage perfect for a cozy afternoon."
     }
+  ],"Vada CurryItem":[
+     {
+      "id": 1,
+      "name": "Dosa Vada Combo (masala Dosa + 1 Vada + Sweet)",
+      "price": "240",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/eb73a87b8e48bd23fb875e3f5b59affd",
+      "details": "Masala Dosa + 1 Pcs Medhu Vada + Sweet pongal"
+    },
+    {
+      "id": 2,
+      "name": "Vadacurry 450 Ml",
+      "price": "217",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/24/6f9ec5ed-65f3-45c3-89fb-5471a3263419_84f664c8-3c79-43ae-9412-635c1623fcbd.png",
+      "details": "Vadacurry is a flavorful south indian curry made with crumbled lentil dumplings cooked in a spiced, aromatic gravy. "
+    },
+    {
+      "id": 3,
+      "name": "Vada curry",
+      "price": "69",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/13/3f8af7e9-0150-41c7-9857-3c21296d4110_3bcd2dbb-9ce2-46df-ba8f-42ac62884e1c.jpg",
+      "details": "Fresh and healthy spicy vadacurry"
+    },
+    {
+      "id":4,
+      "name": "Vadacurry",
+      "price": "110",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/1/5e8612cc-312c-4bba-8b51-72326089468c_8d72afcc-2a2d-45bd-ad89-552b19117cf5.jpg",
+      "details": "Vadacurry features soft, crumbled lentils simmered in a spicy, flavorful tomato-based gravy. Bursting with bold spices and rich aromas, it’s the perfect companion for idli, dosa, or parotta!"
+    },
+    {
+      "id":5,
+      "name": "Vada Curry Masala Dosa",
+      "price": "160",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/a6f1a0da-162c-400b-95ec-e528f915a642_6d4e315b-e1ee-4c00-8e65-d68679bb1afd.jpg",
+      "details": "Masala dosa served with vada curry."
+    },
+    {
+      "id":6,
+      "name": "Masala Vada (1 Pc)",
+      "price": "45",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/2/3/fa539b84-de60-4bd5-97a1-71d040d23a0c_5277915b-8464-4c55-a77a-ad861b43a57f.jpg",
+      "details": "The nutritional content can vary based on size and preparation, but a standard 30-gram serving offers a good breakdown of macronutrients."
+    }
+  ],"Vada PavItem":[
+     {
+      "id": 1,
+      "name": "Vada Pav (1 pc)",
+      "price": "127",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/1/625b12b9-438b-4247-a21f-d10e8020b56a_20d5b868-0ad9-4a02-89f7-d5f62cf3a4ad.png_compressed",
+      "details": "Enjoy the flavors of Vada Pav: A savory potato vada in a bun, paired with masala, spicy chutneys and fried green chilies, perfect for a quick bite. Allergens: Milk, Wheat, Nuts, Soy, Sulphite Nutritional Information(Per 100g):Energy (kcal):201.52,Protein (g):3.02,Carbohydrate (g):34.55,Fat (g):6.54 Serving Size: 80 g"
+    },
+    {
+      "id": 2,
+      "name": "CHEESE VADAPAV",
+      "price": "88",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/26/8e21dfbb-8479-428e-94a9-462061ea49a1_2de52405-6d56-4bbb-87c0-fd35464930a3.jpeg",
+      "details": "A savory delight that packs a cheesy punch. Serves 1"
+    },
+    {
+      "id": 3,
+      "name": "Cheese Burst Vada Pav (1 Pc)",
+      "price": "100",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/063e4162101bfe6ed1a5b2210027634c",
+      "details": "Spicy potato fritter sandwiched in a soft bun, filled with gooey melted cheese and served with tangy chutneys, a delightful twist on the classic snack."
+    },
+    {
+      "id":4,
+      "name": "Classic Vada Pav",
+      "price": "45",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/9/a2dfca31-b470-4cfa-baba-bcc1e846c691_88ebe9b9-e0d7-4c28-b1a1-efdc0ceec70a.jpg",
+      "details": "Spicy Potato Bonda stuffed in a Pav with various Chutneys"
+    },
+    {
+      "id":5,
+      "name": "Vada Pav",
+      "price": "50",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/xq68freksep2fxgadrct",
+      "details": "A heavenly delight for veggie lovers in the munchies category, this delectable dish brings a burst of flavors in every bite!"
+    },
+    {
+      "id":6,
+      "name": "Vadapav",
+      "price": "40",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/3/20/dea16a2a-567e-4abc-b4a1-955ec67101ea_14e6a9bb-88f4-4929-8747-12554ff9bce8.jpg",
+      "details": "boiled potato add in hand made masala & vadapav masala add on lots of dry& green coriander and deep fry in ground nut oil.served in a soft bun with green chutney or chilly masala powder, bursting with savory flavors."
+    },
+    {
+      "id": 7,
+      "name": "Classic Vada Pav",
+      "price": "89",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/7/d5562c58-0aac-448c-a3a2-3454734bdc37_7463d1e3-b223-4fa0-b9c0-c5e295748a37.jpeg",
+      "details": "A Mumbai street food favorite featuring a spicy potato fritter (vada) coated in gram flour batter, deep-fried until crispy, and served in a soft pav (bun) with spicy garlic chutney, green chutney, and fried green chili for a flavorful kick."
+    },
+    {
+      "id": 8,
+      "name": "Vada Pao",
+      "price": "70",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/14/c673fb9e-8d2e-4f2a-a412-ac629f354d38_d8638daf-7937-4bdf-bcb2-6b5e1b29263d.jpg",
+      "details": "A beloved Indian street food, consisting of a spicy potato fritter (vada) served inside a soft bun (pao) with chutneys. A flavorful and satisfying snack.This item includes 1 Vada Pao and Chutney."
+    },
+    {
+      "id": 9,
+      "name": "Vada Pav (2 Pcs)",
+      "price": "90",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/0e6cf6e969d25aabb79daee03d73492f",
+      "details": "Vada Pav is a beloved Indian food featuring a crispy, spiced potato fritter stuffed in a soft pav, served with tangy chutneys and green chilies. This savory snack delivers a satisfying combination of crunch and bold flavors."
+    },
+    {
+      "id": 10,
+      "name": "Vada Pav ( 2 Pcs )",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/2/2/0df8c7fd-90b2-41cc-971f-4c6a19b85ff1_f75ae3b1-8aae-4079-abbc-c287078d43c9.jpeg",
+      "details": "A popular Indian street food with spiced potato fritter served in a bun"
+    },
+    {
+      "id": 11,
+      "name": "Cheese Vada Pav   ",
+      "price": "101",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/qxzsmwuasww8byscvnlx",
+      "details": "Potato vada served in a pav bun with melted cheese, offering a cheesy delight."
+    },
+    {
+      "id": 12,
+      "name": "Vada Pav",
+      "price": "50",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/8/22/4409b86f-f9c8-4695-9d08-4397f47c0e28_c609d094-97af-4d6c-84f8-731a73eafce4.jpg",
+      "details": "A hearty and satisfying vegetarian snack that packs a flavorful punch. Serves 1"
+    },
+    {
+      "id": 13,
+      "name": "Cheese Burst Vada Pav (1 Pc)",
+      "price": "120",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/8/4baa75bd-5611-48ba-8654-0c11be210a13_56ef3cce-039d-48da-af14-ab59b771c081.jpg",
+      "details": "Cheese Burst Vada Pav is a delicious twist on the classic Mumbai street food, featuring a crispy vada (spicy potato fritter) stuffed with gooey melted cheese. This indulgent snack combines the perfect balance of heat, crunch, and cheesy richness."
+    },
+    {
+      "id": 14,
+      "name": "Vada Pav [2 Pieces]",
+      "price": "110",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/25/2b5e09cc-38c0-48bb-b7ed-d6bbdedc5dac_12b3aa4f-ae15-4b27-b889-5bcc4ddd0762.jpg",
+      "details": "Bombay Special Vada Pav"
+    },
+    {
+      "id": 15,
+      "name": "Ulta Vada Pav",
+      "price": "80",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/25/1bc51ba7-31f1-4469-ad04-748aa4436981_1fd75670-fe2f-43ab-8718-a513fe77c27d.jpg",
+      "details": "Hum Tum Special Pav with vada fried together"
+    }
+  ],"Curd VadaItem":[
+     {
+      "id": 1,
+      "name": "Dahi Vada",
+      "price": "117",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/8/9b1c22ec-a464-402e-a4a5-f854fc13f3f8_d9ae0cd1-24a2-4dcd-9ef5-18b0d5fa1681.jpg",
+      "details": "Vada served with dahi topped with Tamarind & Mint chutney finished with Coriander leaves (Jain) | For immediate consumption | Allergen information: Dairy, Gluten, Nuts"
+    },
+    {
+      "id": 2,
+      "name": "Curd Vadai (1pc)",
+      "price": "70",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/4bceadd6a42e749ad21011fb3f1fecb8",
+      "details": "Medu vada soaked in buttermilk and then topped with our special masala curd and boondhi."
+    },
+    {
+      "id": 3,
+      "name": "Curd Vada (1 Pcs)",
+      "price": "65",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/pvwtohkktmlymg4lijjg",
+      "details": "Delicious South Indian breakfast delicacy packed with authentic flavors."
+    },
+    {
+      "id":4,
+      "name": "Curd Vadai [1 Pc]",
+      "price": "75",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/1/57df5f40-7f72-4420-96d2-c1871a15cfa0_b3f16579-e9d3-4fad-be24-062fda60bfd4.jpg_compressed",
+      "details": "Crispy Medu Vadas are soaked and absorb the creamy yogurt to become soft and flavorful, Seasoned with Carrot and Corriander."
+    },
+    {
+      "id":5,
+      "name": "Curd Vadai One pcs",
+      "price": "79",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/9/17e4b3f3-ac9f-4b8a-89f7-f4e0320795c3_755f9dfd-4e48-4016-a249-aad47674513a.jpg_compressed",
+      "details": "Vada Soaked in Fresh Curd with Boondhi, Carrot & Coriander leaves"
+    },
+    {
+      "id":6,
+      "name": "Dahi Vada",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cb5i1qunadhk5byqv69k",
+      "details": "A popular Indian snack made with lentil fritters in yogurt sauce."
+    },
+    {
+      "id": 7,
+      "name": "Curd Vadai Two pcs",
+      "price": "146",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/5/b0ec5c48-e0db-4e82-832e-e800578b0513_b676225c-47d0-48cc-ba99-9cf136d22987_compressed",
+      "details": "Vada Soaked in Fresh Curd with Boondhi, Carrot & Coriander leaves"
+    },
+    {
+      "id": 8,
+      "name": "Sabudana Vada with Imli Chutney and Curd",
+      "price": "209",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/12/615f1eb2-3a7b-4d46-90a9-e66a631e2b15_8bbc90e9-78eb-4f7f-b22a-9872ffe8cac1.jpeg",
+      "details": "Made with freshly ground sabudana, mashed potatoes & aromatic spices, our Sabudana Vada with imli chutney & curd will surely be your upvas favourite. (Energy: 796KCal, Carbohydrates: 122gm, Proteins: 11gm, Fats: 29gm, Sodium: 1357mg)"
+    },
+    {
+      "id": 9,
+      "name": "Curd Vadai",
+      "price": "85",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/7d515a877241d39b90056f3fcfc6ee70",
+      "details": "Soft fried dumplings emersed in generous portion of midly spiced curd"
+    },
+    {
+      "id": 10,
+      "name": "Curd  Vada - 2pc",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/3/a9828564-f5ec-4420-a4d5-9d78353a9b96_7550cef6-1cb1-4ceb-b961-bafde50ad261.jpeg",
+      "details": "CURD  VADA - 2PC."
+    },
+    {
+      "id": 11,
+      "name": "Curd Vadai (1 Pc)",
+      "price": "73",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/7bc61924cf5cdb62f09b877fbc2a9da1",
+      "details": "Curd Vadai is a South Indian delicacy where crispy Medhu Vadai (urad dal fritters) are soaked in creamy yogurt and topped with spices, chutneys, and sometimes pomegranate seeds."
+    },
+    {
+      "id": 12,
+      "name": "Curd Vadai ( 1 )",
+      "price": "60",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/pwerblznl7kddan97j1y",
+      "details": "A tasty dish prepared with a delectable vada layered with generous amount of curds"
+    },
+    {
+      "id": 13,
+      "name": "Curd Vadai [1 Piece]",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/23/cc7f3411-c47c-427a-954e-b77c570a085d_349629c2-d8df-42bd-8eb7-387405fd9ebc.jpeg",
+      "details": "Creamy, whithy, soft. curd with medu vada"
+    },
+    {
+      "id": 14,
+      "name": "Curd Vada [2 Pcs]",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/11/0894815a-a0ac-4892-bfad-0e0984b7c753_e21c2189-94e0-4686-a6db-8daa47604e39.jpg",
+      "details": "Soft vadas soaked in creamy yogurt, served as a pair."
+    },
+    {
+      "id": 15,
+      "name": "Curd Vada [1 Piece]",
+      "price": "86",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/58dd8538-0b6e-49a4-a068-c785b3507322_41d9e799-ff1d-454e-ad56-c5783ba52339.jpg",
+      "details": "A vada soaked in spiced yogurt, garnished with tempering."
+    }
+  ],"Sambar VadaItem":[
+     {
+      "id": 1,
+      "name": "Sambar Vadai (1 Pc)",
+      "price": "60",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/a079045f8150915f658cd958b185c964",
+      "details": "Juicy medu vada soaked in our famous sambar and drizzled with ghee and chopped onions"
+    },
+    {
+      "id": 2,
+      "name": "Sambar Vadai [1 Pc]",
+      "price": "75",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/1/344d903d-651c-480f-ad9a-bc518057fa82_a86787e7-0823-41c6-a139-717a55675e35.jpg_compressed",
+      "details": "Crispy Medu Vadas are generously soaked in a flavorful, spiced lentil-based sambar."
+    },
+    {
+      "id": 3,
+      "name": "Sambar Vadai Two pcs",
+      "price": "119",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/10/13/2284b882-b628-4b66-80c5-2d2b1eee4c69_fddbcd55-8ab9-4dd3-8424-5630f5002ce0.jpg",
+      "details": "Soft Vada Soaked in Sambar topped with chopped onions and coriander."
+    },
+    {
+      "id":4,
+      "name": "Sambar Vada (2 Pcs)",
+      "price": "130",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/nt4u1b6x1gpw658wb7wa",
+      "details": "Crispy lentil fritters soaked in flavorful vegetable stew."
+    },
+    {
+      "id":5,
+      "name": "Sambar Vada (1 Pcs)",
+      "price": "95",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/22/7cee98e8-ece9-4a8c-98af-deeacd32669b_662fae70-0741-448c-99e9-f7584d9f2be6.JPG",
+      "details": "Vada dipped in delicious sambar."
+    },
+    {
+      "id":6,
+      "name": "Vada Sambhar - 2pc",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/12/14/b69d4edc-6009-4e2d-9580-9e6f6dd118ca_fb72c66a-f2b3-4036-97ed-4a80c418b65b.jpg",
+      "details": "Golden Choice – A Taste of Excellence! Item Includes- - Vada (2pieces) - Sambhar (approx. 150g) - Coconut Chutney (approx. 30g) - Tomato-Onion Chutney (approx. 30g) ~ A popular South Indian dish and is a classic and beloved breakfast or snack dish of south india."
+    },
+    {
+      "id": 7,
+      "name": "Sambar Vada (1 Pc)",
+      "price": "53",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/qhsuam0gncfpr6k0kglc",
+      "details": "Irresistibly crispy vada dunked in delicious sambhar."
+    },
+    {
+      "id": 8,
+      "name": "Sambar Vadai [1 Pc]",
+      "price": "85",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/19/0a5c67fb-a5c0-41de-8959-1215fa3db340_50014892-9c72-4603-82d7-3ed50851142f.jpg",
+      "details": "South Indian recipe prepared by combining the spiced and flavoured sambar with medu vada"
+    },
+    {
+      "id": 9,
+      "name": "Sambar Vada",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/11/15/c97f7cee-3e5f-45d8-b3a4-89fb7445f237_435ece57-b5b8-4dd0-893f-0ea3926b0e4a.JPG",
+      "details": "Spiced lentil doughnuts soaked in hot sambar"
+    },
+    {
+      "id": 10,
+      "name": "Sambar Vadai One pcs",
+      "price": "64",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/10/9/1fcc92b7-f789-4723-8ae1-a3af24885718_3b7a532c-7b05-4bfa-a24d-09f558cbc70f.jpg_compressed",
+      "details": "Soft Vada Soaked in Sambar topped with chopped onions and coriander."
+    },
+    {
+      "id": 11,
+      "name": "Sambar Vada (1 Pc)",
+      "price": "75",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/6/973e7189-e487-41b5-8dc5-47d5fe822ac2_14098d8c-b228-4fcd-8c5a-0ad638edbac6.jpg",
+      "details": "A single, savory lentil fritter (vada) soaked in a bowl of hot, flavorful sambar."
+    },
+    {
+      "id": 12,
+      "name": "Sambar Vadai",
+      "price": "65",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/0f89b506153c98864da7db542ffe6998",
+      "details": "Sambar vadai"
+    },
+    {
+      "id": 13,
+      "name": "Sambar Vadai [1 Piece]",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/23/6ea01373-84e1-4b3c-a83e-5539d70b200f_3c4bc661-d856-41ee-8788-54c42c8a9bbd.jpeg",
+      "details": "Spicy, savory, comforting. medu vada with sambar"
+    },
+    {
+      "id": 14,
+      "name": "Sambar Vada - 2pcs",
+      "price": "115",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/3/75e86e8b-bf4f-49ff-85de-4381fa7c73b1_ba1ba7ce-4e29-4c66-88e3-88cf05d40255.jpeg",
+      "details": "SAMBAR VADA - 2PCS."
+    },
+    {
+      "id": 15,
+      "name": "Ghee Sambar Vada - 2 No",
+      "price": "119",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/wxgtv3lq8bmcg32iiyua",
+      "details": "Delicious and flavorful South Indian breakfast fritters soaked in aromatic lentil soup, served with a touch of rich ghee."
+    }
+  ],"Dahi VadaItem":[
+     {
+      "id": 1,
+      "name": "Dahi Vada",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cb5i1qunadhk5byqv69k",
+      "details": "A popular Indian snack made with lentil fritters in yogurt sauce."
+    },
+    {
+      "id": 2,
+      "name": "Curd Vada(1 Pc)",
+      "price": "91",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/3f09af65079626a2f5a5d11fe3743950",
+      "details": "Crispy lentil fritters soaked in creamy yogurt and topped with tangy chutneys and spices."
+    },
+    {
+      "id": 3,
+      "name": "Curd Vada (1 Pcs)",
+      "price": "65",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/pvwtohkktmlymg4lijjg",
+      "details": "Delicious South Indian breakfast delicacy packed with authentic flavors."
+    },
+    {
+      "id":4,
+      "name": "Sabudana Vada with Imli Chutney and Curd",
+      "price": "209",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/12/615f1eb2-3a7b-4d46-90a9-e66a631e2b15_8bbc90e9-78eb-4f7f-b22a-9872ffe8cac1.jpeg",
+      "details": "Made with freshly ground sabudana, mashed potatoes & aromatic spices, our Sabudana Vada with imli chutney & curd will surely be your upvas favourite. (Energy: 796KCal, Carbohydrates: 122gm, Proteins: 11gm, Fats: 29gm, Sodium: 1357mg)"
+    },
+    {
+      "id":5,
+      "name": "CURD  VADA - 2PC.",
+      "price": "125",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2026/1/3/a9828564-f5ec-4420-a4d5-9d78353a9b96_7550cef6-1cb1-4ceb-b961-bafde50ad261.jpeg",
+      "details": "CURD  VADA - 2PC."
+    },
+    {
+      "id":6,
+      "name": "Dahi Vada",
+      "price": "171",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/zx17v6ozpf76jzyd4nd5",
+      "details": "A refreshing and flavorful South Indian delight served in a creamy yogurt sauce."
+    },
+    {
+      "id": 7,
+      "name": "Dahi Batata Vada",
+      "price": "159",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/8/26/687d02c5-6665-40ba-8eae-827ba44ed238_da363f20-cbc6-4ed1-be26-12a4c5105ba0.png_compressed",
+      "details": "[Serves 1 |Tangy & Spicy Chaat] Crispy batata vada topped with chilled curd, chutneys, onions, and sev, a refreshing twist on the classic, blending heat with creamy tanginess."
+    },
+    {
+      "id": 8,
+      "name": "Curd Vada [1 Piece]",
+      "price": "86",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/11/27/58dd8538-0b6e-49a4-a068-c785b3507322_41d9e799-ff1d-454e-ad56-c5783ba52339.jpg",
+      "details": "A vada soaked in spiced yogurt, garnished with tempering."
+    },
+    {
+      "id": 9,
+      "name": "Curd Vada [2 Pcs]",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/11/0894815a-a0ac-4892-bfad-0e0984b7c753_e21c2189-94e0-4686-a6db-8daa47604e39.jpg",
+      "details": "Soft vadas soaked in creamy yogurt, served as a pair."
+    }
+  ],"Idli VadaItem":[
+     {
+      "id": 1,
+      "name": "Idli Vada Combo (3 Pcs Idli + 1 Pc Vada)",
+      "price": "150",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/22/3f30f2c8-60d5-474b-99ba-62a505dbf68f_c6a62a49-24bd-4fb4-a8f5-43e1b5eaaf82.JPG",
+      "details": "3 Pcs Idli + 1 Pcs Medhu Vada"
+    },
+    {
+      "id": 2,
+      "name": "Thattu Idli(1 Pc)",
+      "price": "95",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/c700bcde12a65f7a2e69f0fc8f81444e",
+      "details": "A traditional South Indian breakfast delight. Serves 1"
+    },
+    {
+      "id": 3,
+      "name": "Idli (2 Pcs)",
+      "price": "54",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ozca5ssm04jgix4fps5h",
+      "details": "Super-soft steamed rice cakes, the perfectly healthy option; served with chutney and sambhar."
+    },
+    {
+      "id":4,
+      "name": "ID Special Combo (2 Idli + 1 Vada + Ghee Pongal + Sweet)",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/e38f72bc436d0d579e32b714ff20d427",
+      "details": "2 Pcs idli+1 Pcs Vada+pongal"
+    },
+    {
+      "id":5,
+      "name": "Idli Vada Combo (3 Pcs Idli + 1 Pc Vada)",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/22/3f30f2c8-60d5-474b-99ba-62a505dbf68f_c6a62a49-24bd-4fb4-a8f5-43e1b5eaaf82.JPG",
+      "details": "3 Pcs Idli + 1 Pcs Medhu Vada"
+    },
+    {
+      "id":6,
+      "name": "ID Special Combo (2 Idli + 1 Vada + Ghee Pongal + Sweet)",
+      "price": "195",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/e38f72bc436d0d579e32b714ff20d427",
+      "details": "2 Pcs idli+1 Pcs Vada+pongal"
+    },
+    {
+      "id": 7,
+      "name": "2 Idlis + 1 Vada",
+      "price": "110",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/18/dda808d5-1cc1-4a32-9b78-4c35e5ee828a_99f8cd6a-ca63-4986-9641-3c5173b0cb6f.jpg",
+      "details": "2 idlis 1 vada served with Gatti chutney & sambar (NSC Spl red chutney and spicy chutney is chargeable)"
+    },
+    {
+      "id": 8,
+      "name": "Idli (2 Pcs)",
+      "price": "45",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/rp7lbmw3kmn0u4ixuggi",
+      "details": "Soft idly provided with juicy sambhar and 2 variety of chutney"
+    },
+    {
+      "id": 9,
+      "name": "Sambar Idli",
+      "price": "85",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/nudd4wjyckr8c5nbdjeu",
+      "details": "A delectable marriage of soft idlis and flavorful South Indian lentil stew, creating a satisfying and scrumptious vegetarian delight."
+    },
+    {
+      "id": 10,
+      "name": "Idli",
+      "price": "143",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dgkrcdrphnbbqedscnwn",
+      "details": "A fluffy and savory delight from South India that is sure to tantalize your taste buds."
+    },
+    {
+      "id": 11,
+      "name": "Ghee Idli",
+      "price": "152",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/u5rh8cz5vv6zi8oijdhm",
+      "details": "A delectable, traditional South Indian delight enriched with the aromatic flavor of ghee."
+    },
+    {
+      "id": 12,
+      "name": "Peas Fried Idli",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ieitxqlx0e28jereo0dm",
+      "details": "A delectable and flavorsome South Indian delicacy, combining the goodness of peas and the goodness of fried idli."
+    },
+    {
+      "id": 13,
+      "name": "Pepper Fried Idli",
+      "price": "140",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/syfykhmr2umzghww9dj2",
+      "details": "A tempting and flavorsome delight from South India that combines the classic idli with a tantalizing blend of fragrant peppers."
+    },
+    {
+      "id": 14,
+      "name": "Idli(3 Pcs) & Vadacurry With Vada",
+      "price": "166",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/2a3e9057d3ae5de5f65d3e5d9e20a0a0",
+      "details": "Soft idlis, spicy vadacurry, and crispy vada for a hearty combo."
+    },
+    {
+      "id": 15,
+      "name": "Idli [2 Pieces] And Vada [1 Piece]",
+      "price": "104",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/8/0828be90-c096-45a6-ad58-877bd017c0df_bf645702-e5b5-45fe-9aa8-c9e936ba40cd.jpg",
+      "details": "Combination of steamed rice cakes and crispy lentil fritters."
+    }
+  ],"Sabudana VadaItem":[
+     {
+      "id": 1,
+      "name": "Sabudana Vada (4 pc)",
+      "price": "197",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/27/a27869fe-5079-4132-86c5-055080807a97_4461a60e-42a7-44b2-87ee-7cd914ac9e8a.png_compressed",
+      "details": "Crispy, golden-fried sabudana vada (4 pcs) made with sago pearls, peanuts, and mild spices - a perfect Vrat snack. Served with kali mirch dip. *Sendha salt used and no onion no garlic preparation. Allergens : Nuts Nutritional Information (Per 100g): Energy(Kcal): 204.1, Carb: 32.33, Protein: 1.82, Fat: 7.5,Serving Size : 160 gms"
+    },
+    {
+      "id": 2,
+      "name": "Upwas Sabudana Vada [2pcs]",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/16/1237ff62-0b28-4ddd-b0fb-e87bd1856458_ae98866c-9de5-4688-8a6f-1589a6296658.png_compressed",
+      "details": "[Vrat/Fasting special | Crispy sabudana vadas made with peanuts and sendha namak, served with sweet curd. [Serves 1]"
+    },
+    {
+      "id": 3,
+      "name": "Sabudana Vada (4 pcs) & Green Chutney.",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/11/b8a5615b-7561-4cdd-aa23-3350d6ded5da_641a2169-05c5-4cf6-9229-0631238abe47.jpeg",
+      "details": "Crispy Sabudana Vadas made with soaked Sabudana, mashed Potatoes and Peanuts. Served with green chutney. Light, crunchy and perfect for your Vrat cravings. (Energy: 488KCal, Carbohydrates: 57gm, Proteins: 3gm, Fats: 27gm, Sodium: 896mg)"
+    },
+    {
+      "id":4,
+      "name": "Upwas Sabudana Vada [2pcs]",
+      "price": "99",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/9/18/09e83722-1e6b-4079-8754-410476579352_8f450c1e-7a71-4796-add6-742594ae96b9.png_compressed",
+      "details": "Sabudana vada served for fasting meals, served with fried crisps and Bihari style salsa. This dish is prepared in mustard oil. [Serves 1]"
+    },
+    {
+      "id":5,
+      "name": "Sabudana Wada (2 Pcs) & Imly Chutney",
+      "price": "59",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/12/5/b69f9cd7-8707-4d8d-8896-6673480c0019_067b1f48-4b17-4773-aa90-94db8966da9b.jpeg",
+      "details": "Crispy Sabudana Vadas made with soaked sabudana, peanuts, and mild spices. Served with sweet and tangy Imli Chutney. Perfect for a light, tasty snack. (Energy: 295KCal, Carbohydrates: 38gm, Proteins: 1gm, Fats: 14gm, Sodium: 512mg)"
+    },
+    {
+      "id":6,
+      "name": "Sabudana vada [4 pcs]",
+      "price": "197",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/10/21/50d7c195-2d3a-42d1-b3a5-4b4c29a04e3a_8b5870f7-3e8c-43e0-ae83-eb1dd43ca14b.png_compressed",
+      "details": "Crispy, golden-fried sabudana vada (4 pcs) made with sago pearls, peanuts, and mild spices - a perfect snack. Served with kali mirch dip. Allergens : Nuts Nutritional Information (Per 100g): Energy(Kcal): 204.1, Carbohydrate(g): 32.33, Protein(g): 1.82, Fat(g): 7.5, Serving Size : 130 g"
+    },
+    {
+      "id": 7,
+      "name": "Sabudana Vada (2 pcs)",
+      "price": "90",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/r9nqdn8zh5ukbx6aiix0",
+      "details": "(Serves 1)"
+    },
+    {
+      "id": 8,
+      "name": "Sabudana Vada (2pcs)",
+      "price": "132",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/518778b93003c88940c60c4b2177ddee",
+      "details": "Deep-fried patties made from soaked tapioca pearls, mashed potatoes, and spices."
+    },
+    {
+      "id": 9,
+      "name": "Sabudana Vada Chaat",
+      "price": "149",
+      "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/7/30/bcee35ba-0ffd-4fcc-9f8e-d114a12eca25_587ea18b-6db0-4ee6-a391-eb795de90fd7.png_compressed",
+      "details": "[Serves 1 | Tangy ] Crushed sabudana vadas served with curd, chutneys, and spices, a flavorful twist."
+    }
   ]
 }
